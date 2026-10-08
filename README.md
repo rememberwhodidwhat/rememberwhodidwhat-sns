@@ -11,6 +11,8 @@
   （`workflow_dispatch` で手動実行も可能）。
 - `post_today.py` — `events.json` から今日（JST）の月日に一致する事件を抽出し、[atproto](https://pypi.org/project/atproto/)
   経由で Bluesky に1件ずつ個別投稿する（複数該当時はスレッドにせず順次投稿）。
+- `.github/workflows/post_new.yml` — `main` への push で `events.json` が変更されたときに `post_new.py` を実行する。
+- `post_new.py` — push 前のコミットの `events.json` と比較し、新規追加された slug の事件を Bluesky に1件ずつ投稿する。
 
 ## セットアップ
 

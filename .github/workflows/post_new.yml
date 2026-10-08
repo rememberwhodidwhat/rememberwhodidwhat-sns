@@ -1,0 +1,22 @@
+name: Post new events to Bluesky
+
+on:
+  push:
+    branches: [main]
+    paths: [events.json]
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    # ブランチ新規作成時（before が 0000...）は比較元がないため投稿しない
+    if: github.event.before != '0000000000000000000000000000000000000000'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v3
+      - name: Post new events
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: uv run post_new.py ${{ github.event.before }}
