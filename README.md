@@ -5,8 +5,8 @@
 ## 仕組み
 
 - `events.json` — 公開対象の事件から `date` / `slug` / `title` のみを抽出したデータ。
-  RememberWhoDidWhat リポジトリ（private）で `uv run build/generate_metadata_case.py <出力先>` を実行して生成し、
-  このリポジトリに手動でコピー・commit・push する。
+  RememberWhoDidWhat リポジトリ（private）で `uv run build/rememberwhodidwhat-sns.py <このリポジトリのディレクトリ>` を実行して
+  このリポジトリの `events.json` に直接書き出し、手動で commit・push する。
 - `.github/workflows/post.yml` — 毎日 08:00 JST に `post_today.py` を実行する GitHub Actions ワークフロー
   （`workflow_dispatch` で手動実行も可能）。
 - `post_today.py` — `events.json` から今日（JST）の月日に一致する事件を抽出し、[atproto](https://pypi.org/project/atproto/)
@@ -20,10 +20,10 @@
 2. このリポジトリの Settings → Secrets and variables → Actions に以下を登録する。
    - `BLUESKY_HANDLE`（例: `example.bsky.social`）
    - `BLUESKY_APP_PASSWORD`
-3. `events.json` を最新化する場合は RememberWhoDidWhat 側で以下を実行し、出力ファイルをこのリポジトリにコピーして push する。
+3. `events.json` を最新化する場合は RememberWhoDidWhat 側で以下を実行し、このリポジトリで commit・push する。
 
    ```sh
-   uv run build/generate_metadata_case.py <出力先ファイル>
+   uv run build/rememberwhodidwhat-sns.py ~/Git/rememberwhodidwhat-sns
    ```
 
 ## 手動実行

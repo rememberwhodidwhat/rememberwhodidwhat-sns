@@ -8,7 +8,7 @@
 """events.json から今日（JST）の月日に一致する事件を抽出し、Bluesky へ1件ずつ個別に投稿する。
 
 events.json は RememberWhoDidWhat リポジトリの
-`uv run build/generate_metadata_case.py <出力先>` で生成し、このリポジトリに手動でコピー・push する。
+`uv run build/rememberwhodidwhat-sns.py <このリポジトリのディレクトリ>` で直接書き出し、手動で commit・push する。
 
 環境変数:
     BLUESKY_HANDLE        投稿アカウントのハンドル（例: example.bsky.social）

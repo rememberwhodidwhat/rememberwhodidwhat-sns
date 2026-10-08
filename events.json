@@ -495,6 +495,11 @@
     "title": "山本太郎が安倍昭恵氏を「アッキード事件」と評し安倍首相から抗議された"
   },
   {
+    "date": "2017-04-16",
+    "slug": "yamamoto-kozo-curators-cancer-remark",
+    "title": "山本幸三が学芸員を「がん」と呼び一掃すべきと発言した"
+  },
+  {
     "date": "2017-06-14",
     "slug": "izumi-fusaho-moyase-bougen",
     "title": "泉房穂-職員に燃やせと暴言"
@@ -516,8 +521,8 @@
   },
   {
     "date": "2017-09-01",
-    "slug": "koike-kanto-earthquake-memorial-refusal",
-    "title": "小池百合子・関東大震災朝鮮人犠牲者追悼文不送付"
+    "slug": "koike-kanto-earthquake-memorial-refusal-2017",
+    "title": "小池百合子・2017年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2017-09-29",
@@ -588,6 +593,11 @@
     "date": "2018-07-15",
     "slug": "musk-pedo-guy-unsworth-defamation-lawsuit",
     "title": "マスクがタイ洞窟救助ダイバーを「ペド野郎」と中傷し名誉毀損訴訟に発展"
+  },
+  {
+    "date": "2018-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2018",
+    "title": "小池百合子・2018年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2018-10-03",
@@ -673,6 +683,11 @@
     "date": "2019-08-01",
     "slug": "kuwabara-campaign-fund-false-entry",
     "title": "桑原久美子の選挙運動費用収支報告書に寄付収入400万円の虚偽記載疑惑が発覚した"
+  },
+  {
+    "date": "2019-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2019",
+    "title": "小池百合子・2019年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2019-09-05",
@@ -820,6 +835,11 @@
     "title": "吉村洋文が全府立学校のオンライン授業実現を号令するも実態を把握せず現場に丸投げした"
   },
   {
+    "date": "2020-05-13",
+    "slug": "hirai-takuya-crocodile-video-diet-session",
+    "title": "平井卓也が検察庁法改正案審議中にタブレットでワニの動画を見ていた"
+  },
+  {
     "date": "2020-05-17",
     "slug": "umemura-mizuho-fukou-no-tegami",
     "title": "梅村みずほが有権者からの意見メールを不幸の手紙扱いでツイッターに晒した"
@@ -888,6 +908,11 @@
     "date": "2020-08-28",
     "slug": "un-wgad-arbitrary-detention-opinion-2020",
     "title": "国連作業部会が入管収容を恣意的拘禁と認定したが法務省は長期収容の実態を否定した"
+  },
+  {
+    "date": "2020-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2020",
+    "title": "小池百合子・2020年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2020-09-25",
@@ -1110,6 +1135,11 @@
     "title": "今井豊が貝塚市長からのヤミ献金計100万円を告白し離党・除名された"
   },
   {
+    "date": "2021-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2021",
+    "title": "小池百合子・2021年関東大震災朝鮮人犠牲者追悼文不送付"
+  },
+  {
     "date": "2021-09-12",
     "slug": "abe-unification-church-video",
     "title": "安倍晋三が統一教会にビデオ参加"
@@ -1210,9 +1240,14 @@
     "title": "日本維新の会関係者の支援者医師がワクチン優先配分で1億円を荒稼ぎしたおともだち優遇疑惑が報じられた"
   },
   {
+    "date": "2022-03-21",
+    "slug": "miki-kee-nishinomiya-election-2022-chirashi",
+    "title": "三木けえが2022年西宮市長選で増山誠陣営と規定時間前にチラシを配布した疑惑"
+  },
+  {
     "date": "2022-03-31",
     "slug": "imai-yutaka-expulsion-reversal",
-    "title": "今井豊がヤミ献金疑惑を巡る除名処分を維新から撤回された"
+    "title": "今井豊のヤミ献金疑惑を巡る除名処分を維新から撤回された"
   },
   {
     "date": "2022-04-13",
@@ -1298,6 +1333,11 @@
     "date": "2022-08-31",
     "slug": "aso-taro-taiwan-contingency-remark",
     "title": "麻生太郎が台湾有事は日本の有事になりうると発言した"
+  },
+  {
+    "date": "2022-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2022",
+    "title": "小池百合子・2022年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2022-09-08",
@@ -1475,6 +1515,11 @@
     "title": "Xのサークル限定投稿がバグで非公開範囲外に露出し1か月気づかれなかった"
   },
   {
+    "date": "2023-04-08",
+    "slug": "tesla-employees-shared-customer-camera-footage",
+    "title": "テスラ従業員が顧客の車載カメラ映像を無断で社内共有していた"
+  },
+  {
     "date": "2023-04-12",
     "slug": "twitter-npr-pbs-state-affiliated-media-label-reversed",
     "title": "マスクがNPR等公共放送に「政府系メディア」ラベルを付与し反発を受け撤回"
@@ -1650,6 +1695,11 @@
     "title": "黒田征樹が女性府議を選挙活動から排除するいじめを行い市民とのトラブルが警察沙汰になったと報道された"
   },
   {
+    "date": "2023-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2023",
+    "title": "小池百合子・2023年関東大震災朝鮮人犠牲者追悼文不送付"
+  },
+  {
     "date": "2023-09-04",
     "slug": "murase-shinji-pawahara-tokai",
     "title": "村瀬進治が東海市議として市職員にパワハラ発言をし市議会倫理委員会から辞職勧告を受け維新を離党した"
@@ -1728,6 +1778,11 @@
     "date": "2023-09-22",
     "slug": "matsui-ichiro-bijutsuhin-chikachushajo-hochi",
     "title": "松井一郎が2億円超の府所有美術品を6年以上施錠せず地下駐車場に放置した"
+  },
+  {
+    "date": "2023-09-28",
+    "slug": "tesla-eeoc-fremont-racial-harassment-lawsuit",
+    "title": "EEOCがテスラ・フリーモント工場の黒人従業員への人種差別容認で提訴"
   },
   {
     "date": "2023-09-29",
@@ -1883,6 +1938,11 @@
     "date": "2023-12-12",
     "slug": "fuwa-tadayuki-supreme-court-repayment-order",
     "title": "不破忠幸が当選無効確定までの議員報酬等計約1400万円の全額返還を最高裁に命じられた"
+  },
+  {
+    "date": "2023-12-15",
+    "slug": "inose-sexual-harassment-defamation-lawsuit-loss",
+    "title": "猪瀬直樹がセクハラ報道への名誉毀損訴訟で敗訴し行為の真実性が認定された"
   },
   {
     "date": "2023-12-19",
@@ -2530,6 +2590,11 @@
     "title": "横山英幸が担当部局に検討させないまま大阪市の4~5ブロック化構想を独断で発表した"
   },
   {
+    "date": "2024-04-08",
+    "slug": "tesla-walter-huang-autopilot-death-settlement",
+    "title": "テスラがウォルター・ファン氏のAutopilot死亡事故訴訟を和解"
+  },
+  {
     "date": "2024-04-10",
     "slug": "kobayashi-makoto-kenmin-wari-ryuyo",
     "title": "小林誠が県民割や全国旅行支援を政治資金パーティーの割引に流用していた"
@@ -2733,6 +2798,11 @@
     "date": "2024-08-30",
     "slug": "musk-brazil-x-ban-moraes-conflict",
     "title": "マスクがブラジル最高裁判事と対立しXが一時遮断される事態に発展した"
+  },
+  {
+    "date": "2024-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2024",
+    "title": "小池百合子・2024年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2024-09-08",
@@ -3105,6 +3175,11 @@
     "title": "福岡維新の会が2年連続で政治資金収支報告書を提出せず無届け状態で政党交付金を受給していた"
   },
   {
+    "date": "2025-07-01",
+    "slug": "hyakuta-no-handwashing-remark",
+    "title": "百田尚樹がトイレ使用後に手を洗わないと発言した"
+  },
+  {
     "date": "2025-07-03",
     "slug": "tachibana-miyagi-poster-ishigaki-meiyokison",
     "title": "立花孝志が参院選で石垣のり子への中傷ポスターを掲示し宮城県警に名誉毀損で書類送検された"
@@ -3121,8 +3196,8 @@
   },
   {
     "date": "2025-07-09",
-    "slug": "miki-kee-expo-vip-and-2022-election-law",
-    "title": "三木けえが万博をVIP待遇で訪れ過去には2022年西宮市長選で規定時間前のチラシ配布疑惑もあった"
+    "slug": "miki-kee-expo-vip-visit",
+    "title": "三木けえが無役ながら万博をVIP待遇で訪問した"
   },
   {
     "date": "2025-07-09",
@@ -3160,6 +3235,11 @@
     "title": "猪野亨が国旗損壊罪の創設は違憲だと指摘した"
   },
   {
+    "date": "2025-08-01",
+    "slug": "tesla-florida-autopilot-death-verdict-243m",
+    "title": "テスラがフロリダ州オートパイロット死亡事故で2億4300万ドルの賠償を命じられる"
+  },
+  {
     "date": "2025-08-07",
     "slug": "grok-imagine-spicy-mode-nonconsensual-celebrity-deepfakes",
     "title": "Grok Imagineのスパイシーモードで著名人の非同意性的ディープフェイクが生成できる問題"
@@ -3178,6 +3258,11 @@
     "date": "2025-08-20",
     "slug": "xai-grok-shared-chats-indexed-google-leak",
     "title": "xAIのGrok共有機能の不備で会話37万件がGoogle検索に露出しパスワード等の機微情報が流出した"
+  },
+  {
+    "date": "2025-08-21",
+    "slug": "tesla-autopilot-fsd-crash-reporting-delay-nhtsa-probe",
+    "title": "テスラがAutopilot・FSD事故の報告を法定期限より数か月遅延させNHTSAの調査対象に"
   },
   {
     "date": "2025-08-25",
@@ -3203,6 +3288,11 @@
     "date": "2025-08-29",
     "slug": "ishii-akira-secretary-salary-fraud-indictment",
     "title": "石井章が秘書給与詐取疑惑で家宅捜索を受け辞職・除名され在宅起訴された"
+  },
+  {
+    "date": "2025-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2025",
+    "title": "小池百合子・2025年関東大震災朝鮮人犠牲者追悼文不送付"
   },
   {
     "date": "2025-09-04",
@@ -3243,6 +3333,11 @@
     "date": "2025-09-30",
     "slug": "hyakuta-sexual-harassment-close-eyes-remark",
     "title": "百田尚樹が「女性はセクハラされても目瞑っとけばええ」と発言した"
+  },
+  {
+    "date": "2025-10-01",
+    "slug": "immigration-agency-business-manager-visa-capital-requirement",
+    "title": "出入国在留管理庁が経営・管理ビザの資本金要件を500万円から3000万円に引き上げた"
   },
   {
     "date": "2025-10-04",
@@ -3445,6 +3540,11 @@
     "title": "高市の事務所が6600円の歯ブラシを公認グッズとして販売した"
   },
   {
+    "date": "2025-12-16",
+    "slug": "tesla-california-dmv-false-advertising-suspension",
+    "title": "カリフォルニア州DMVがテスラの自動運転誇大広告で販売免許停止処分を科す"
+  },
+  {
     "date": "2025-12-17",
     "slug": "yamanashi-nichinichi-shimbun-column-against-flag-desecration-crime",
     "title": "山梨日日新聞がコラムで国旗損壊罪創設の動きに否定的な見出しを掲げた"
@@ -3486,6 +3586,11 @@
   },
   {
     "date": "2026-01-05",
+    "slug": "musk-2025-promises-unfulfilled",
+    "title": "マスクが2025年に実現すると約束した火星移住や完全自動運転等を軒並み実現できなかった"
+  },
+  {
+    "date": "2026-01-05",
     "slug": "takaichi-abe-photo-shrine",
     "title": "高市がクリアファイルに安倍の写真を入れる"
   },
@@ -3498,6 +3603,11 @@
     "date": "2026-01-08",
     "slug": "anno-takahiro-asset-correction",
     "title": "安野貴博が資産等報告書の株式数を時価評価額と誤記し300億円超と訂正した"
+  },
+  {
+    "date": "2026-01-08",
+    "slug": "anno-takahiro-asset-report-correction",
+    "title": "安野貴博が資産報告書の株式数記載ミスを訂正し謝罪した"
   },
   {
     "date": "2026-01-08",
@@ -3640,6 +3750,11 @@
     "title": "Claude Codeがコスト削減目的の設定変更で性能低下し説明不足のまま数週間放置された"
   },
   {
+    "date": "2026-03-04",
+    "slug": "takaichi-sanae-team-youth-chief-admits-prior-contact",
+    "title": "高市の後援会「チームサナエ」青年局長がサナエトークン運営元との事前のやりとりを認め高市の否定と矛盾した"
+  },
+  {
     "date": "2026-03-05",
     "slug": "koizumi-premature-iran-evacuation-post",
     "title": "小泉進次郎がイラン情勢緊迫化を受け外務省の正式依頼前に自衛隊機派遣準備着手をX投稿した"
@@ -3713,6 +3828,11 @@
     "date": "2026-03-20",
     "slug": "musk-misleading-tweets-twitter-stock-jury-verdict-2026",
     "title": "マスクがTwitter買収交渉中の虚偽投稿で株価を下落させたと陪審に認定された"
+  },
+  {
+    "date": "2026-03-20",
+    "slug": "tesla-fsd-visibility-defect-nhtsa-engineering-analysis",
+    "title": "NHTSAがFSDの視界不良時の欠陥調査を320万台対象のエンジニアリング分析に格上げ"
   },
   {
     "date": "2026-03-22",
@@ -3991,6 +4111,11 @@
   },
   {
     "date": "2026-06-12",
+    "slug": "elon-musk-belfast-anti-immigration-riots-amplification",
+    "title": "イーロン・マスクがベルファストの反移民暴動を煽る投稿を拡散した"
+  },
+  {
+    "date": "2026-06-12",
     "slug": "koizumi-mikasa-model-gift-to-indonesia",
     "title": "小泉進次郎がインドネシア大統領に旧日本海軍戦艦三笠の模型を贈呈した"
   },
@@ -4058,6 +4183,11 @@
     "date": "2026-06-22",
     "slug": "mainichi-shimbun-editorial-against-flag-desecration-bill",
     "title": "毎日新聞が社説で国旗損壊罪法案に反対を表明した"
+  },
+  {
+    "date": "2026-06-22",
+    "slug": "takaichi-consumption-tax-cut-two-year-reversal",
+    "title": "高市が消費税減税は実行から2年後に元に戻すと衆院予算委で明言した"
   },
   {
     "date": "2026-06-22",
@@ -4130,9 +4260,19 @@
     "title": "日弁連が国旗損壊罪法案に反対する会長声明を出した"
   },
   {
+    "date": "2026-06-26",
+    "slug": "tesla-johna-story-fsd-pedestrian-death-settlement",
+    "title": "テスラがFSD歩行者死亡事故（ジョーナ・ストーリー氏）訴訟を非公開で和解"
+  },
+  {
     "date": "2026-06-28",
     "slug": "akahata-editorial-against-flag-desecration-bill",
     "title": "しんぶん赤旗が「主張」で国旗損壊処罰法案は乱暴で危険な違憲立法だと批判した"
+  },
+  {
+    "date": "2026-06-29",
+    "slug": "asai-kunio-suginami-voters-insult",
+    "title": "浅井くにおが杉並区長選の結果を受け区民を「人を見る能力がない」と投稿した"
   },
   {
     "date": "2026-06-29",
@@ -4186,8 +4326,18 @@
   },
   {
     "date": "2026-07-03",
+    "slug": "immigration-agency-fee-hike-2026",
+    "title": "出入国在留管理庁が在留手続き手数料を最大20倍に引き上げる改定案を発表した"
+  },
+  {
+    "date": "2026-07-03",
     "slug": "okinawa-times-editorial-against-flag-desecration-bill",
     "title": "沖縄タイムスが社説で国旗損壊罪法案に反対を表明した"
+  },
+  {
+    "date": "2026-07-03",
+    "slug": "takaichi-government-diet-normalization-delay",
+    "title": "高市政権が野党の参院予算委員会開催要求に期限までに回答せず国会正常化を持ち越した"
   },
   {
     "date": "2026-07-03",
@@ -4231,6 +4381,11 @@
   },
   {
     "date": "2026-07-06",
+    "slug": "takaichi-nato-summit-absence-two-years",
+    "title": "高市首相がトランプ氏との会合を見込めずNATO首脳会議を2年連続で欠席した"
+  },
+  {
+    "date": "2026-07-06",
     "slug": "takaichi-statement-submission-not-refusal-clarification",
     "title": "高市が陳述書提出は答弁拒否ではないと釈明した"
   },
@@ -4260,6 +4415,11 @@
     "title": "刑事法学者148人が国旗損壊罪の制定に反対する声明を出した"
   },
   {
+    "date": "2026-07-09",
+    "slug": "yokoyama-hideyuki-osaka-station-anti-homeless-blocks",
+    "title": "横山英幸の大阪市が大阪駅前にブロックを設置し排除アートとの批判を受けた"
+  },
+  {
     "date": "2026-07-10",
     "slug": "kihara-minoru-imperial-law-answer-freeze",
     "title": "木原稔が皇室典範改正の男系男子限定の理由を問われ50秒間答弁できなかった"
@@ -4268,6 +4428,11 @@
     "date": "2026-07-10",
     "slug": "okinawa-bar-association-statement-against-flag-desecration-crime",
     "title": "沖縄弁護士会が国旗損壊罪創設に反対する会長声明を出した"
+  },
+  {
+    "date": "2026-07-10",
+    "slug": "personal-information-protection-law-amendment-enacted",
+    "title": "改正個人情報保護法がAI開発目的なら病歴等を本人同意なしで提供可能とする内容で成立した"
   },
   {
     "date": "2026-07-10",
@@ -4288,6 +4453,11 @@
     "date": "2026-07-13",
     "slug": "kanazawa-bar-association-statement-against-flag-desecration-crime",
     "title": "金沢弁護士会が国旗損壊罪創設に反対する会長声明を出した"
+  },
+  {
+    "date": "2026-07-13",
+    "slug": "meta-ai-layoff-targeting-leave-takers-lawsuit",
+    "title": "Metaが病気・育児休暇取得者をAIで狙い撃ちして解雇したとして元従業員26人に提訴された"
   },
   {
     "date": "2026-07-14",
@@ -4372,7 +4542,7 @@
   {
     "date": "2026-07-17",
     "slug": "minaminippon-shimbun-editorial-against-flag-desecration-bill",
-    "title": "南日本新聞が社説で国旗損壊罪法案に疑問と危惧を示したとされる"
+    "title": "南日本新聞が社説で国旗損壊罪法案に疑問と危惧を示した"
   },
   {
     "date": "2026-07-17",
@@ -4398,6 +4568,11 @@
     "date": "2026-07-17",
     "slug": "toonippo-editorial-against-flag-desecration-law",
     "title": "東奥日報が国旗損壊罪法の成立に懸念を示す論説を掲載した"
+  },
+  {
+    "date": "2026-07-17",
+    "slug": "x-grok-csam-file-sharing-proliferation",
+    "title": "Xで児童性的搾取・盗撮画像の取引投稿が15カ月で66万件超拡散しGrokが収集に悪用された"
   },
   {
     "date": "2026-07-19",
@@ -4495,6 +4670,31 @@
     "title": "玉木雄一郎が食料品消費税減税をめぐる発信でSNS上の批判を受けた"
   },
   {
+    "date": "2026-07-27",
+    "slug": "irie-nobuko-campaign-volunteer-bribery",
+    "title": "入江伸子陣営が運動員大学生に報酬を支払い公選法違反でスタッフが有罪判決を受けた"
+  },
+  {
+    "date": "2026-07-27",
+    "slug": "yoshimura-hirofumi-same-day-vote-defies-supplementary-resolution",
+    "title": "吉村洋文が副首都法案の付帯決議に反し知事選と都構想住民投票の同日実施を目指す考えを示した"
+  },
+  {
+    "date": "2026-07-27",
+    "slug": "yoshimura-hirofumi-sub-capital-bill-criticism-dismissal",
+    "title": "吉村洋文が副首都法案批判を「アホかと思う」と一蹴した"
+  },
+  {
+    "date": "2026-07-28",
+    "slug": "fukuoka-prefecture-question-leak-to-ldp",
+    "title": "福岡県職員が野党会派の質問案を自民会派に無断で横流ししていた"
+  },
+  {
+    "date": "2026-07-28",
+    "slug": "ldp-communications-interception-expansion-proposal",
+    "title": "自民党が通信傍受を安全保障目的に拡大する対外情報収集法の新設を政府に提言した"
+  },
+  {
     "date": "2026-07-28",
     "slug": "matsuo-tosho-fundraising-party-after-kumamoto-earthquake",
     "title": "松尾統章が熊本地震直後に政治資金パーティーを開催した"
@@ -4503,6 +4703,11 @@
     "date": "2026-07-28",
     "slug": "x-recommended-feed-fails-users-during-kumamoto-earthquake",
     "title": "Xのおすすめ欄が熊本地震で情報収集の役に立たず不満が続出した"
+  },
+  {
+    "date": "2026-07-29",
+    "slug": "takaichi-secretary-statement-contradicted-by-evidence",
+    "title": "高市秘書の陳述書による中傷動画関与否定が客観的証拠と矛盾すると判明した"
   },
   {
     "date": "2026-07-29",
@@ -4515,6 +4720,21 @@
     "title": "複数のClaudeモデルが評価環境から不正アクセスし無関係の組織3社に被害を与えた"
   },
   {
+    "date": "2026-07-30",
+    "slug": "yamanaka-takeharu-yokohama-power-harassment",
+    "title": "山中竹春が横浜市長として重大なパワハラ行為を外部調査委員に認定された"
+  },
+  {
+    "date": "2026-08-03",
+    "slug": "matsuo-tosho-resigns-chairman-apology",
+    "title": "松尾統章が政治資金パーティー発言への批判を受け福岡県議団会長を辞任し謝罪した"
+  },
+  {
+    "date": "2026-08-03",
+    "slug": "takaichi-kumamoto-earthquake-inspection-site-choice",
+    "title": "高市早苗が熊本地震視察で被害が比較的軽微な避難所を訪問した"
+  },
+  {
     "date": "2026-08-04",
     "slug": "aikyo-koji-warns-flag-desecration-law-chills-expression",
     "title": "愛敬浩二が国旗損壊処罰法は表現の萎縮を招くと指摘した"
@@ -4523,6 +4743,16 @@
     "date": "2026-08-04",
     "slug": "constitutional-scholars-statement-against-flag-desecration-law",
     "title": "憲法研究者201人が国旗損壊罪法の廃止を求める声明を出した"
+  },
+  {
+    "date": "2026-08-06",
+    "slug": "takaichi-government-finance-ministry-official-punitive-transfer",
+    "title": "高市政権が官邸に非協力的とされた財務省エース官僚を異例の転出人事にした"
+  },
+  {
+    "date": "2026-08-08",
+    "slug": "ohama-ichiro-tamaki-denny-baseless-claim",
+    "title": "大浜一郎が玉城デニーを「極左暴力集団が支えている」と根拠なく非難した"
   },
   {
     "date": "2026-08-10",
@@ -4548,5 +4778,45 @@
     "date": "2026-08-17",
     "slug": "sanyo-shimbun-editorial-concern-flag-desecration-law-enforcement",
     "title": "山陽新聞が社説で国旗損壊罪法の施行に懸念を示した"
+  },
+  {
+    "date": "2026-08-18",
+    "slug": "watanabe-hiroshi-miyagi-power-harassment",
+    "title": "渡辺拓が宮城県職員にパワハラの恐れのある言動を繰り返し会派から厳重注意を受けた"
+  },
+  {
+    "date": "2026-08-19",
+    "slug": "ando-kaoru-criticizes-flag-desecration-law-self-defeating",
+    "title": "安藤馨が国旗損壊罪法は国民統合の役割を自己破壊すると批判した"
+  },
+  {
+    "date": "2026-08-19",
+    "slug": "takaichi-icc-akane-sanctions-muted-response",
+    "title": "高市がICC赤根氏への米制裁を批判せずロシアの北方領土訪問時と対応を使い分けた"
+  },
+  {
+    "date": "2026-09-01",
+    "slug": "koike-kanto-earthquake-memorial-refusal-2026",
+    "title": "小池百合子・2026年関東大震災朝鮮人犠牲者追悼文不送付"
+  },
+  {
+    "date": "2026-09-11",
+    "slug": "digital-agency-gss-unauthorized-access-leak",
+    "title": "デジタル庁が運用する政府共通基盤GSSがVPNの脆弱性を突かれ約24万6000件の個人情報が漏えいした可能性を公表した"
+  },
+  {
+    "date": "2026-10-05",
+    "slug": "trump-iran-attack-los-angeles-small-price",
+    "title": "トランプがイランによるロサンゼルスへの攻撃を「ごく小さな代償」と容認するかのような発言をした"
+  },
+  {
+    "date": "2026-10-06",
+    "slug": "furukawa-toshiharu-jibun-no-joho-wa-jibun-de-mamotte",
+    "title": "古川俊治デジタル相が民間企業の個人情報流出頻発を受け「自分の情報は自分で守って」と国民に呼び掛けた"
+  },
+  {
+    "date": "2026-10-07",
+    "slug": "takaichi-consumption-tax-cut-no-funding-source",
+    "title": "高市が衆院代表質問で消費税減税の具体的な財源を示さなかった"
   }
 ]
