@@ -5,12 +5,14 @@
 ## 仕組み
 
 - `events.json` — 公開対象の事件から `date` / `slug` / `title` のみを抽出したデータ。
+  `date` は判明している精度のまま `YYYY-MM-DD` / `YYYY-MM` / `YYYY` で記録する。
   RememberWhoDidWhat リポジトリ（private）で `uv run build/rememberwhodidwhat-sns.py <このリポジトリのディレクトリ>` を実行して
   このリポジトリの `events.json` に直接書き出し、手動で commit・push する。
 - `.github/workflows/post.yml` — 毎日 08:00 JST に `post_today.py` を実行する GitHub Actions ワークフロー
   （`workflow_dispatch` で手動実行も可能）。
 - `post_today.py` — `events.json` から今日（JST）の月日に一致する事件を抽出し、[atproto](https://pypi.org/project/atproto/)
   経由で Bluesky に1件ずつ個別投稿する（複数該当時はスレッドにせず順次投稿）。
+  日が不明な事件（`YYYY-MM`）はその月の1日、月日が不明な事件（`YYYY`）は1月1日に投稿する。
 - `.github/workflows/post_new.yml` — `main` への push で `events.json` が変更されたときに `post_new.py` を実行する。
 - `post_new.py` — push 前のコミットの `events.json` と比較し、新規追加された slug の事件を Bluesky に1件ずつ投稿する。
 

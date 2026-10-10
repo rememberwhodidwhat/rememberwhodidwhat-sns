@@ -22,7 +22,7 @@ import sys
 
 from atproto import Client, client_utils
 
-from post_today import EVENTS_FILE, SITE_URL
+from post_today import EVENTS_FILE, SITE_URL, format_date
 
 
 def load_old_slugs(base_ref: str) -> set[str]:
@@ -48,10 +48,9 @@ def load_new_events(base_ref: str) -> list[dict]:
 
 
 def build_post(event: dict) -> client_utils.TextBuilder:
-    year, month, day = (int(x) for x in event["date"].split("-"))
     url = f"{SITE_URL}/case/{event['slug']}/"
     tb = client_utils.TextBuilder()
-    tb.text(f"【新規追加】{year}年{month}月{day}日、{event['title']}\n")
+    tb.text(f"【新規追加】{format_date(event['date'])}、{event['title']}\n")
     tb.link(url, url)
     return tb
 

@@ -5,9 +5,29 @@
     "title": "宮沢喜一外務大臣が「武器輸出するほど日本は落ちぶれていない」と発言"
   },
   {
+    "date": "1979-10",
+    "slug": "aso-taro-shimojimo-remark",
+    "title": "麻生太郎が初出馬時の演説で有権者を「下々の皆さん」と呼んだ"
+  },
+  {
     "date": "1983-02-09",
     "slug": "aso-taro-womens-suffrage-remark",
     "title": "麻生太郎が婦人参政権を与えたのが最大の失敗と発言した"
+  },
+  {
+    "date": "1989",
+    "slug": "takaichi-civil-service-exam-claim",
+    "title": "高市早苗が国家公務員上級試験の合格を蹴って松下政経塾に入ったとする経歴に官報との食い違いを指摘された"
+  },
+  {
+    "date": "1989",
+    "slug": "takaichi-resume-fabrication",
+    "title": "高市早苗が「米連邦議会立法調査官」を騙って経歴詐称"
+  },
+  {
+    "date": "1991",
+    "slug": "takaichi-subliminal-tape",
+    "title": "高市早苗がオカルト雑誌掲載のサブリミナルテープ広告に推薦コメントを寄せた"
   },
   {
     "date": "1995-03-16",
@@ -20,14 +40,39 @@
     "title": "マーカス・ギルら米兵3人が沖縄で12歳の少女を拉致し性的暴行を加え米軍が起訴前の身柄引き渡しを拒否した"
   },
   {
+    "date": "1998",
+    "slug": "suzuki-muneo-political-funds-violation",
+    "title": "鈴木宗男が政治資金規正法に違反し起訴された"
+  },
+  {
+    "date": "1998",
+    "slug": "suzuki-muneo-shimada-kensetsu-bribery",
+    "title": "島田建設事件で鈴木宗男が受託収賄"
+  },
+  {
+    "date": "1998-08",
+    "slug": "suzuki-muneo-yamarin-bribery",
+    "title": "やまりん事件で鈴木宗男があっせん収賄"
+  },
+  {
     "date": "1999-07-07",
     "slug": "muneo-house-fraudulent-bid",
     "title": "ムネオハウス入札で鈴木宗男の秘書らが偽計業務妨害"
   },
   {
+    "date": "2001-03",
+    "slug": "aso-taro-buraku-discrimination-remark",
+    "title": "麻生太郎が野中広務を「部落出身者」と派閥会合で差別的に評した"
+  },
+  {
     "date": "2001-05-23",
     "slug": "sakaguchi-chikara-hansenbyo-soshou-koso-danen",
     "title": "坂口力厚労相がハンセン病訴訟の控訴断念を主導した"
+  },
+  {
+    "date": "2002",
+    "slug": "suzuki-muneo-false-testimony",
+    "title": "鈴木宗男が証人喚問で偽証し議院証言法違反で起訴された"
   },
   {
     "date": "2003-05-14",
@@ -40,6 +85,11 @@
     "title": "麻生太郎が創氏改名は朝鮮人の要求だったと発言した"
   },
   {
+    "date": "2003-09-29",
+    "slug": "putin-global-warming-fur-coats-remark",
+    "title": "プーチンが世界気候変動会議で温暖化すれば毛皮のコート代が節約できると発言した"
+  },
+  {
     "date": "2004-08-13",
     "slug": "us-forces-okinawa-intl-univ-helicopter-crash-site-blockade",
     "title": "米軍ヘリが沖縄国際大学に墜落し米軍が現場を封鎖して県警の検証を拒否した"
@@ -48,6 +98,16 @@
     "date": "2006-01-03",
     "slug": "reese-yokosuka-robbery-murder",
     "title": "ウィリアム・オリバー・リース・ジュニア（米海軍）が横須賀で女性を殺害し現金を奪い無期懲役の判決を受けた"
+  },
+  {
+    "date": "2006-04",
+    "slug": "inada-unification-church-event-2006",
+    "title": "稲田朋美が世界平和女性連合の春のつどいに出席した（2006年4月）"
+  },
+  {
+    "date": "2007",
+    "slug": "baba-nobuyuki-boryokudan-kenkin",
+    "title": "馬場伸幸が支部長を務める自民党支部が暴力団関連企業から12万円の政治献金を受領した"
   },
   {
     "date": "2007-05-23",
@@ -85,9 +145,24 @@
     "title": "橋下徹が学力テストの結果を公表しない市町村教委を「クソ教育委員会」と呼び予算での制裁を示唆した"
   },
   {
+    "date": "2008-10",
+    "slug": "aso-taro-luxury-hotel-bar-habit",
+    "title": "麻生太郎が首相在任中の高級ホテルバー通いを庶民感覚とのズレで批判された"
+  },
+  {
+    "date": "2008-10",
+    "slug": "hashimoto-toru-koukousei-jiko-sekinin",
+    "title": "橋下徹が私学助成削減の撤回を求める高校生に「日本は自己責任が原則。それが嫌なら日本から出て行くしかない」と述べた"
+  },
+  {
     "date": "2008-10-28",
     "slug": "aso-taro-instant-noodle-price-remark",
     "title": "麻生太郎がカップ麺の価格を400円と誤答し自分で買い物しないと発言した"
+  },
+  {
+    "date": "2008-11",
+    "slug": "aso-taro-kanji-misreading",
+    "title": "麻生太郎が首相在任中に国会答弁で漢字の読み間違いを繰り返した"
   },
   {
     "date": "2008-11-13",
@@ -100,6 +175,11 @@
     "title": "麻生太郎がハローワーク視察で求職中の若者に今まで何してたんだと発言した"
   },
   {
+    "date": "2009",
+    "slug": "baba-nobuyuki-ukai-kifu",
+    "title": "馬場伸幸が自民党支部を迂回させた献金で所得税の控除を受けた"
+  },
+  {
     "date": "2009-01-29",
     "slug": "okushita-grink-fundraising-warning",
     "title": "奥下剛光（橋下徹の私設秘書）が大阪府知事の名前を使い寄付金集めを行おうとして厳重注意を受けた"
@@ -108,6 +188,16 @@
     "date": "2009-03-02",
     "slug": "aso-taro-teigaku-kyufukin-samoshii-reversal",
     "title": "麻生太郎が定額給付金の受給を「さもしい」と評しながら自らは受け取ると表明した"
+  },
+  {
+    "date": "2009-04",
+    "slug": "aso-taro-anime-no-dendo-117oku",
+    "title": "麻生太郎が経済危機対策の補正予算に「アニメの殿堂」建設費117億円を計上した"
+  },
+  {
+    "date": "2009-11",
+    "slug": "inada-unification-church-event-2009",
+    "title": "稲田朋美が世界平和連合のイベントに出席した（2009年11月）"
   },
   {
     "date": "2010-01-28",
@@ -125,6 +215,11 @@
     "title": "丸川珠代が子ども手当法案の強行採決時に愚か者めがとヤジを飛ばした"
   },
   {
+    "date": "2010-04",
+    "slug": "inada-unification-church-event-2010",
+    "title": "稲田朋美が世界平和女性連合の春のつどいに出席した（2010年4月）"
+  },
+  {
     "date": "2010-04-19",
     "slug": "hashimoto-toru-osaka-ishin-kessei",
     "title": "橋下徹が地域政党・大阪維新の会を結成し代表に就任した"
@@ -138,6 +233,11 @@
     "date": "2010-09-08",
     "slug": "suzuki-muneo-bribery-conviction",
     "title": "鈴木宗男が斡旋収賄罪で逮捕され実刑判決"
+  },
+  {
+    "date": "2011-03",
+    "slug": "hashimoto-osaka-suicides",
+    "title": "橋下徹が大阪府知事時代に知事部局で7人の自殺者を出した"
   },
   {
     "date": "2011-05-01",
@@ -160,6 +260,11 @@
     "title": "山本太郎が東日本女子駅伝の中止を求め風評被害と批判された"
   },
   {
+    "date": "2012",
+    "slug": "takaichi-welfare-scrounger-remark",
+    "title": "高市早苗の「さもしい顔をして」発言"
+  },
+  {
     "date": "2012-01-01",
     "slug": "nishii-masaru-hikinige",
     "title": "西井勝（維新）が元旦に飲酒してひき逃げ事故を起こし逮捕され有罪判決を受けたが議員を辞職しなかった"
@@ -170,9 +275,29 @@
     "title": "橋下徹が後援会長の息子・奥下剛光を特別秘書に情実採用し選挙のたびに休職させながら約2087万円の公費を支出した"
   },
   {
+    "date": "2012-02",
+    "slug": "hashimoto-toru-shiso-chosa-anket",
+    "title": "橋下徹が大阪市全職員に政治・組合活動を調査するアンケートを業務命令で強制し違憲と認定された"
+  },
+  {
+    "date": "2012-02",
+    "slug": "sugimura-kotaro-netsuzou-list",
+    "title": "杉村幸太郎が捏造された大阪市交通局職員リストを根拠に市議会で断定的な質問をし後に維新市議団が反省を表明した"
+  },
+  {
     "date": "2012-02-01",
     "slug": "nomura-shuya-shiso-chosa-chokai",
     "title": "野村修也（維新）が大阪市特別顧問として憲法違反の職員思想調査アンケートを実施し弁護士懲戒処分を受けた"
+  },
+  {
+    "date": "2012-05",
+    "slug": "abe-shinzo-former-imperial-families-adoption-plan",
+    "title": "安倍晋三が旧11宮家の皇族復帰を可能とする養子案を主張した"
+  },
+  {
+    "date": "2012-05",
+    "slug": "iida-satoshi-kankin-kanryu",
+    "title": "飯田哲史（維新・大阪市議）が政務活動費で支払った事務所家賃の上乗せ分に相当する24万円の献金を家主の父から受け取り返還した"
   },
   {
     "date": "2012-06-05",
@@ -205,9 +330,19 @@
     "title": "橋下徹が日本維新の会を結党し代表に就任した"
   },
   {
+    "date": "2012-10",
+    "slug": "inoue-tetsuya-zuii-keiyaku",
+    "title": "井上哲也（維新）が吹田市長として後援会役員が社長の企業に市庁舎の太陽光パネル設置工事を市場価格より800万円超で随意契約し百条委員会が設置された"
+  },
+  {
     "date": "2012-10-25",
     "slug": "matsui-ichiro-hisho-kyuuyo-fushinkoku",
     "title": "松井一郎が大阪府議時代に自社に秘書給与を肩代わりさせ政治資金収支報告書に約1740万円を不記載にし政治資金オンブズマンが告発した"
+  },
+  {
+    "date": "2012-11-06",
+    "slug": "trump-global-warming-chinese-hoax-tweet",
+    "title": "トランプが地球温暖化の概念は米国製造業の競争力を奪うため中国が作ったと投稿した"
   },
   {
     "date": "2012-12-16",
@@ -345,6 +480,11 @@
     "title": "百田尚樹がNHK経営委員在任中にバヌアツ・ナウルを「くそ貧乏長屋」と揶揄した"
   },
   {
+    "date": "2014-06",
+    "slug": "suzuki-ken-seimu-toryu",
+    "title": "鈴木憲（維新）が政務調査費約110万円を後援会活動に流用し全額返還した"
+  },
+  {
     "date": "2014-06-10",
     "slug": "kyoden-shingo-manbiki",
     "title": "松井一郎が主導した公募校長制度で採用された京田伸吾が大阪府立枚方高校長としてスーパーで万引きし懲戒免職となった"
@@ -360,6 +500,11 @@
     "title": "百田尚樹が静岡講演で「南京大虐殺はなく従軍慰安婦はうそ」と発言した"
   },
   {
+    "date": "2014-07",
+    "slug": "okuno-yasutoshi-hp-kanrihi",
+    "title": "奥野康俊（維新）が閉鎖状態のHPの管理費名目で実兄に政務調査費計約262万円を支払い全額返還した"
+  },
+  {
     "date": "2014-07-11",
     "slug": "hashimoto-toru-gikai-shoshu-kyohi",
     "title": "橋下徹が地方自治法に反し野党の臨時市議会招集要求を拒否した"
@@ -373,6 +518,11 @@
     "date": "2014-08-12",
     "slug": "yamamoto-kei-line-threat-junior-high-girls",
     "title": "山本景（維新）が中学生らにLINEで「許さない」等の脅迫的メッセージを送り除団処分を受けた"
+  },
+  {
+    "date": "2014-09",
+    "slug": "takaichi-praised-nazi-glorifying-book",
+    "title": "高市早苗がナチス礼賛本に推薦文を寄せた"
   },
   {
     "date": "2014-10-31",
@@ -420,6 +570,11 @@
     "title": "足立康史（維新）が事務所スタッフに暴言・パワハラを行い元事務員に提訴された"
   },
   {
+    "date": "2015-07",
+    "slug": "ito-yoshika-lexus-seikatsuhi",
+    "title": "伊藤良夏（維新・大阪市議）が政務活動費でレクサスの購入費約80万円を「自動車リース費用」として計上し全額返還した"
+  },
+  {
     "date": "2015-07-13",
     "slug": "marukawa-peaceboat-hatsugen",
     "title": "丸川珠代が辻元清美のピースボート乗船について事実に反する発言をし謝罪した"
@@ -428,6 +583,11 @@
     "date": "2015-08-18",
     "slug": "kamiya-sohei-apple-snail-blog-2015",
     "title": "神谷宗幣がジャンボタニシ除草農法を無農薬田んぼの視察で肯定的に紹介した"
+  },
+  {
+    "date": "2015-09",
+    "slug": "nakano-takashi-furin",
+    "title": "中野隆司（維新）が柏原市長として公務時間中に複数の若い女性と会合しラブホテルに入室する映像が報道され市議会から全会一致で問責決議を受けた"
   },
   {
     "date": "2015-09-18",
@@ -450,6 +610,11 @@
     "title": "丸山穂高（維新）が蒲田駅周辺で泥酔し口論相手の手を噛む騒動を起こした"
   },
   {
+    "date": "2016-02",
+    "slug": "sugita-cedaw-discriminatory-blog",
+    "title": "杉田水脈が国連女性差別撤廃委員会出席後のブログで差別的投稿をした"
+  },
+  {
     "date": "2016-02-07",
     "slug": "marukawa-josen-hatsugen",
     "title": "丸川珠代が除染基準は科学的根拠もなく定められたと発言し撤回・謝罪した"
@@ -458,6 +623,11 @@
     "date": "2016-02-08",
     "slug": "takaichi-broadcast-suspension-remark",
     "title": "高市早苗の停波処分発言"
+  },
+  {
+    "date": "2016-03",
+    "slug": "kimoto-kohei-sashiosae",
+    "title": "木本保平（維新）が茨木市長として親族の市税滞納差し押さえを待つよう市職員に働きかけ百条委員会で証言拒否し大阪地検に告発された"
   },
   {
     "date": "2016-03-05",
@@ -505,6 +675,16 @@
     "title": "麻生太郎が高齢者にいつまで生きているつもりだと発言した"
   },
   {
+    "date": "2016-07",
+    "slug": "koike-seven-zeros-unfulfilled",
+    "title": "小池百合子・7つのゼロ公約不履行"
+  },
+  {
+    "date": "2016-07",
+    "slug": "umemura-satoshi-kosenko-ihan",
+    "title": "梅村聡の後援会職員2人が2016年参院選で公職選挙法違反（買収）容疑で逮捕された"
+  },
+  {
     "date": "2016-07-15",
     "slug": "nakatani-hiroyuki-senkan-ihan",
     "title": "中谷裕之のおおさか維新参院選出納責任者が選挙運動の日当支払いを約束し公職選挙法違反で逮捕された"
@@ -530,6 +710,11 @@
     "title": "長谷川豊（維新）が「人工透析患者は殺せ」とブログに投稿し炎上した"
   },
   {
+    "date": "2016-10",
+    "slug": "umezono-makoto-prius-shiyou",
+    "title": "梅園周（維新・大阪市議）が政務活動費でリースしたプリウスを実際には使用せず妻が私用に常用していた"
+  },
+  {
     "date": "2016-11-10",
     "slug": "zuckerberg-fake-news-crazy-idea",
     "title": "ザッカーバーグがフェイクニュースの選挙への影響を「ふざけている」と否定"
@@ -538,6 +723,11 @@
     "date": "2016-11-21",
     "slug": "hezuma-ryu-2016-tokuyama-theft-dismissal",
     "title": "へずまりゅうが2016年に徳山大学レスリング部室に侵入しシューズを盗み窃盗で逮捕され勤務先を懲戒解雇された"
+  },
+  {
+    "date": "2016-12",
+    "slug": "koike-harumi-land-sale-amakudari",
+    "title": "小池百合子・晴海選手村用地の格安売却と天下り問題"
   },
   {
     "date": "2016-12-09",
@@ -563,6 +753,11 @@
     "date": "2017-04-16",
     "slug": "yamamoto-kozo-curators-cancer-remark",
     "title": "山本幸三（自民）が学芸員を「がん」と呼び一掃すべきと発言した"
+  },
+  {
+    "date": "2017-06",
+    "slug": "yamamoto-nobuhiro-meishi-insatsu",
+    "title": "山本のぶひろ（柏原市議）が政務活動費でリースしたコピー機を使って副業の名刺印刷業の名刺を大量印刷し維新を離党した"
   },
   {
     "date": "2017-06-14",
@@ -625,6 +820,11 @@
     "title": "米軍ヘリが普天間第二小学校の運動場に窓を落下させた"
   },
   {
+    "date": "2018-01",
+    "slug": "musk-spacex-flight-attendant-harassment-settlement",
+    "title": "イーロン・マスクがSpaceX元客室乗務員へのセクハラ疑惑で25万ドルの和解金を支払う"
+  },
+  {
     "date": "2018-02-23",
     "slug": "haneda-tatsuya-clinic-insurance-fraud",
     "title": "羽田達也（維新）が経営する整骨院での療養費詐欺で逮捕・実刑判決を受け辞職勧告を拒否した末に辞職した"
@@ -642,7 +842,7 @@
   {
     "date": "2018-04-11",
     "slug": "yana-kazuo-yaita-eco-model-house",
-    "title": "簗和生（自民）が政治的に対立する市長の矢板市の事業を巡り環境省職員を議員会館に呼び聴取した"
+    "title": "簗和生（自民）が国交政務官在任中に環境省職員を議員会館に呼び、対立する市長の矢板市が進める補助施設の見直しに否定的な見解を伝えた"
   },
   {
     "date": "2018-04-12",
@@ -668,6 +868,16 @@
     "date": "2018-05-04",
     "slug": "aso-taro-no-such-crime-as-sexual-harassment-remark",
     "title": "麻生太郎がセクハラ罪という罪はないと発言した"
+  },
+  {
+    "date": "2018-06",
+    "slug": "sugita-ito-shiori-like",
+    "title": "杉田水脈が伊藤詩織を中傷するTwitter投稿に繰り返しいいねをし名誉毀損が確定した"
+  },
+  {
+    "date": "2018-07",
+    "slug": "sugita-lgbt-no-productivity",
+    "title": "杉田水脈が「同性愛者は生産性が無い」と寄稿した"
   },
   {
     "date": "2018-07-15",
@@ -720,9 +930,19 @@
     "title": "樽谷彰人（維新）が配偶者への傷害容疑で逮捕され県議会から辞職勧告決議を受ける"
   },
   {
+    "date": "2019",
+    "slug": "takemura-nobuhide-nikkan-tunnel-shukkai",
+    "title": "武村展英（自民）が旧統一教会関連団体「日韓トンネル推進滋賀県会議」に出席"
+  },
+  {
     "date": "2019-01-29",
     "slug": "zuckerberg-facebook-research-app",
     "title": "ザッカーバーグ率いるFacebookが未成年含むユーザーに金銭を払いスパイアプリで個人情報を収集"
+  },
+  {
+    "date": "2019-02",
+    "slug": "hasegawa-buraku-discriminatory-remarks",
+    "title": "長谷川豊（維新）が講演会で部落差別発言をし謝罪・撤回した"
   },
   {
     "date": "2019-02-03",
@@ -745,6 +965,11 @@
     "title": "丸山穂高（維新）が北方領土訪問時に「戦争で取り返す」という趣旨の発言をして除名された"
   },
   {
+    "date": "2019-06",
+    "slug": "nishibata-katsuki-takken-ihan",
+    "title": "西端勝樹（維新・守口市長）が取締役を務める不動産会社が宅建士資格のない市長本人や妻に重要事項説明をさせるなど宅建業法に違反していた"
+  },
+  {
     "date": "2019-06-24",
     "slug": "omura-immigration-nigerian-hunger-strike-death-2019",
     "title": "大村入国管理センターでナイジェリア人男性がハンガーストライキの末に死亡した"
@@ -753,6 +978,11 @@
     "date": "2019-06-25",
     "slug": "kinoshita-staff-desk-search-resignation-recommendation",
     "title": "木下章広（維新）が富山市議会事務局に侵入し女性職員の机を物色して辞職勧告を受けた"
+  },
+  {
+    "date": "2019-07",
+    "slug": "ishin-hasegawa-sangiin-yoritsu",
+    "title": "維新の会が透析患者差別ブログで炎上した長谷川豊を2019年参院選候補者として擁立した"
   },
   {
     "date": "2019-07-03",
@@ -768,6 +998,11 @@
     "date": "2019-08-01",
     "slug": "kuwabara-campaign-fund-false-entry",
     "title": "桑原久美子（維新）の選挙運動費用収支報告書に寄付収入400万円の虚偽記載疑惑が発覚した"
+  },
+  {
+    "date": "2019-09",
+    "slug": "koizumi-tautology-imanomama",
+    "title": "小泉進次郎が地球温暖化対策で「今のままではいけない。だからこそ日本は今のままではいけない」と発言した"
   },
   {
     "date": "2019-09-01",
@@ -823,6 +1058,11 @@
     "date": "2019-10-30",
     "slug": "takeda-tsuneyasu-omura-taikoutenji-yougo-2019",
     "title": "竹田恒泰が大村知事のヘイト指摘にお前がいうなと反論し排外主義的な対抗展示を擁護した"
+  },
+  {
+    "date": "2019-11",
+    "slug": "abe-shinzo-sakura-zennyasai-kyogi-toben-118",
+    "title": "安倍晋三が桜を見る会前夜祭問題で118回の虚偽答弁をした"
   },
   {
     "date": "2019-11-26",
@@ -965,6 +1205,11 @@
     "title": "へずまりゅうが首里城復興応援の寄せ書きボードに落書きをして炎上した"
   },
   {
+    "date": "2020-07",
+    "slug": "ishimaru-unpaid-election-poster-fee",
+    "title": "石丸伸二が安芸高田市長選のポスター代を未払いのまま最高裁で敗訴確定した"
+  },
+  {
     "date": "2020-07-09",
     "slug": "umemura-mizuho-shinjuku-mimaikin-yaya",
     "title": "梅村みずほ（維新）が新宿区のコロナ見舞金支給を若者がわざと感染するかのように揶揄した"
@@ -1003,6 +1248,16 @@
     "date": "2020-08-28",
     "slug": "un-wgad-arbitrary-detention-opinion-2020",
     "title": "国連作業部会が入管収容を恣意的拘禁と認定したが法務省は長期収容の実態を否定した"
+  },
+  {
+    "date": "2020-09",
+    "slug": "aso-taro-compulsory-education-enough-remark",
+    "title": "麻生太郎が義務教育は小学校までで十分と発言した"
+  },
+  {
+    "date": "2020-09",
+    "slug": "ishimaru-defamation-yamane-atsuko",
+    "title": "石丸伸二が安芸高田市長として山根温子市議について事実と認められない投稿をし市の賠償責任が最高裁で確定した"
   },
   {
     "date": "2020-09-01",
@@ -1048,6 +1303,11 @@
     "date": "2020-12-16",
     "slug": "nakatsugawa-drunk-hit-and-run",
     "title": "中津川将照（維新）が飲酒ひき逃げ事件で書類送検される"
+  },
+  {
+    "date": "2021",
+    "slug": "koike-olympics-facilities-deficit",
+    "title": "小池百合子・東京五輪施設の赤字問題"
   },
   {
     "date": "2021-01-27",
@@ -1300,6 +1560,11 @@
     "title": "直山仁（維新）が公職選挙法違反（買収）容疑で書類送検される"
   },
   {
+    "date": "2021-12",
+    "slug": "aso-taro-imperial-family-report-approval-2021",
+    "title": "麻生太郎が旧宮家養子案を盛り込んだ有識者会議報告書を「よくできている」と評価した"
+  },
+  {
     "date": "2021-12-10",
     "slug": "baba-nobuyuki-murakami-donation-not-prosecuted",
     "title": "馬場伸幸が村上世彰氏からの寄付で政治資金規正法違反の疑いで告発され不起訴となった"
@@ -1340,9 +1605,24 @@
     "title": "前川清成（維新）が公職選挙法違反（事前運動）で起訴され有罪確定し議員辞職"
   },
   {
+    "date": "2022-02",
+    "slug": "hashimoto-toru-oishi-akiko-slapp",
+    "title": "橋下徹がれいわ新選組の大石あきこ議員を名誉毀損で提訴しスラップ訴訟と批判されたが全請求が棄却された"
+  },
+  {
+    "date": "2022-02",
+    "slug": "kojima-shiga-kenren-seiji-shikin-ryuyo",
+    "title": "自民党滋賀県連事務局長・小島雄一郎が政務活動費約5140万円を不正流用し武村展英が引責辞任"
+  },
+  {
     "date": "2022-02-12",
     "slug": "izumi-fusaho-kawaju-kazei-tsuitto",
     "title": "泉房穂-川崎重工業の課税データを無断でSNS投稿"
+  },
+  {
+    "date": "2022-03",
+    "slug": "takaichi-fight-to-the-end-remark",
+    "title": "高市早苗の「戦闘員には最後まで戦っていただく」発言"
   },
   {
     "date": "2022-03-16",
@@ -1358,6 +1638,11 @@
     "date": "2022-03-31",
     "slug": "imai-yutaka-expulsion-reversal",
     "title": "日本維新の会が今井豊のヤミ献金疑惑を巡る除名処分を撤回した"
+  },
+  {
+    "date": "2022-04",
+    "slug": "miki-kee-bunshihi-misuse",
+    "title": "三木けえ（維新）が旧文通費で寝具・家電を購入していた"
   },
   {
     "date": "2022-04-13",
@@ -1388,6 +1673,16 @@
     "date": "2022-05-16",
     "slug": "misaki-maki-keireki-sansho",
     "title": "岬麻紀が2019年参院選の選挙公報に非常勤講師と虚偽記載し維新が厳重注意した"
+  },
+  {
+    "date": "2022-06",
+    "slug": "ishimaru-shame-remark-takeoka-harassment-deaths",
+    "title": "石丸伸二の「恥を知れ」発言を機に武岡隆文市議への誹謗中傷が過熱し武岡氏と妻が死去した"
+  },
+  {
+    "date": "2022-07",
+    "slug": "koike-jingu-gaien-redevelopment",
+    "title": "小池百合子・神宮外苑再開発と大規模樹木伐採"
   },
   {
     "date": "2022-07-08",
@@ -1445,6 +1740,11 @@
     "title": "麻生太郎が台湾有事は日本の有事になりうると発言した"
   },
   {
+    "date": "2022-09",
+    "slug": "takaichi-sanae-nara-split-2022",
+    "title": "高市早苗が荒井知事への支援約束を反故にして奈良知事選の候補調整を怠った"
+  },
+  {
     "date": "2022-09-01",
     "slug": "koike-kanto-earthquake-memorial-refusal-2022",
     "title": "小池百合子・2022年関東大震災朝鮮人犠牲者追悼文不送付"
@@ -1488,6 +1788,16 @@
     "date": "2022-10-30",
     "slug": "musk-paul-pelosi-attack-conspiracy-tweet",
     "title": "マスクがポール・ペロシ襲撃事件について根拠のない陰謀論をXに投稿"
+  },
+  {
+    "date": "2022-11",
+    "slug": "musk-x-csam-team-cuts",
+    "title": "イーロン・マスクが児童性的虐待対策を最優先と述べた直後に担当チームを半減させた"
+  },
+  {
+    "date": "2022-11",
+    "slug": "musk-x-trust-safety-layoffs-hate-speech-surge",
+    "title": "イーロン・マスクが信頼安全チームを大量解雇しX上のヘイト対応が悪化した"
   },
   {
     "date": "2022-11-04",
@@ -1550,6 +1860,16 @@
     "title": "秋葉賢也（自民）が旧統一教会との接点を就任時に否定したが事実と判明し復興大臣を辞任した"
   },
   {
+    "date": "2023",
+    "slug": "hyakuta-korea-war-katana-remark",
+    "title": "百田尚樹が「韓国と戦争したい、日本刀で真っ先に斬りに行く」と発言した"
+  },
+  {
+    "date": "2023",
+    "slug": "koike-projection-mapping-dentsu",
+    "title": "小池百合子・都庁プロジェクションマッピング事業での電通グループへの随意契約"
+  },
+  {
     "date": "2023-01-01",
     "slug": "baba-nobuyuki-policy-fund-unaccounted",
     "title": "馬場伸幸が幹事長時代の政策活動費使途不明金1億8773万円超を市民団体に批判された"
@@ -1610,6 +1930,11 @@
     "title": "Xがおすすめアルゴリズムを公開しマスク専用の優先表示コードが発覚した"
   },
   {
+    "date": "2023-04",
+    "slug": "nishida-kaoru-shushi-kyogi-kisai",
+    "title": "西田薫が2023年大阪府議選の選挙運動費用収支報告書に9人分の虚偽記載を行い維新に戒告処分された"
+  },
+  {
     "date": "2023-04-03",
     "slug": "twitter-logo-changed-to-doge-during-dogecoin-lawsuit",
     "title": "マスクがTwitterのロゴをドージコインの柴犬画像に変更し訴訟中の価格を急騰させた"
@@ -1638,6 +1963,16 @@
     "date": "2023-04-26",
     "slug": "tabata-kazunori-kosenho-violation-arrest",
     "title": "田畑和紀（維新）が愛知県議選で運動員に報酬を支払い公職選挙法違反で逮捕された"
+  },
+  {
+    "date": "2023-05",
+    "slug": "jmsdf-petty-officer-violent-guidance",
+    "title": "海自海曹が別の隊員に暴行を伴う指導をした"
+  },
+  {
+    "date": "2023-05",
+    "slug": "tesla-whistleblower-100gb-safety-complaint-leak",
+    "title": "内部告発者がテスラの安全苦情隠蔽を示すデータ100GBを流出させた"
   },
   {
     "date": "2023-05-26",
@@ -1738,6 +2073,11 @@
     "date": "2023-06-29",
     "slug": "us-forces-yokota-pfas-leak-undisclosed",
     "title": "在日米軍が横田基地でのPFAS泡消火剤漏出事故を10年以上公表していなかった"
+  },
+  {
+    "date": "2023-07",
+    "slug": "x-ccdh-lawsuit-dismissed-slapp",
+    "title": "Xがヘイト監視NPOのCCDHを提訴しSLAPPと認定され却下された"
   },
   {
     "date": "2023-07-01",
@@ -1975,6 +2315,11 @@
     "title": "杉並区議会自民党が学校給食費無償化に反対した"
   },
   {
+    "date": "2023-10-17",
+    "slug": "nippon-hoshuto-energy-policy-anti-renewables",
+    "title": "日本保守党が重点政策で再エネ賦課金廃止・火力発電の有効活用・EV補助金廃止を掲げた"
+  },
+  {
     "date": "2023-10-19",
     "slug": "okushita-political-funds-horiemon",
     "title": "奥下剛光（維新）が政治資金を堀江貴文関連の飲食・エンタメ事業に支出した"
@@ -1988,6 +2333,11 @@
     "date": "2023-10-27",
     "slug": "hayashi-ryuichi-rito",
     "title": "林隆一が和歌山県議として前任期中に報酬寄付方針に従わなかったとして維新から離党勧告を受け離党した"
+  },
+  {
+    "date": "2023-11",
+    "slug": "saito-motohiko-parade-hojokin",
+    "title": "斎藤元彦が優勝パレード補助金を「公金ゼロ」宣言に反して1億円から4億円に増額し背任容疑で刑事告発された"
   },
   {
     "date": "2023-11-02",
@@ -2035,6 +2385,11 @@
     "title": "米空軍オスプレイが屋久島沖で墜落した後も米軍が日本政府の飛行自粛要請に応じず飛行を続けた"
   },
   {
+    "date": "2023-12",
+    "slug": "minamide-kenichi-izumiotsu-homeopathy-covid-consultation",
+    "title": "南出賢一（泉大津市長）-泉大津市のコロナ後遺症相談事業でホメオパシー医師を起用"
+  },
+  {
     "date": "2023-12-01",
     "slug": "matsui-ichiro-mainichi-henkou-mujun",
     "title": "松井一郎が毎日新聞の万博インフラ費報道を偏向報道と批判したが過去の自身の発言と矛盾していた"
@@ -2078,6 +2433,16 @@
     "date": "2023-12-24",
     "slug": "washington-okinawa-girl-kidnapping-sexual-assault",
     "title": "ブレノン・ワシントン（米空軍兵）が沖縄で16歳未満の少女を誘拐し性的暴行を加え懲役5年の判決を受けた"
+  },
+  {
+    "date": "2024",
+    "slug": "koike-renewable-energy-fund-conflict",
+    "title": "小池百合子・再エネファンド利益相反疑惑と議会答弁拒否"
+  },
+  {
+    "date": "2024",
+    "slug": "okano-junko-power-harassment-chiba",
+    "title": "岡野純子が国民民主党千葉県連の地方議員らにパワーハラスメントを行い4人が相次いで離党した"
   },
   {
     "date": "2024-01-01",
@@ -2590,6 +2955,16 @@
     "title": "ザッカーバーグが上院公聴会で「血で手が汚れている」と非難され児童被害者家族に謝罪"
   },
   {
+    "date": "2024-02",
+    "slug": "matsuzawa-airi-furin",
+    "title": "松澤愛里（維新）が不倫し東京地裁に認定された"
+  },
+  {
+    "date": "2024-02",
+    "slug": "yoshimura-yoshimoto-41oku",
+    "title": "吉村洋文が万博強行の裏で吉本興業との蜜月関係を維持し41億円の受注につながっていると報じられた"
+  },
+  {
     "date": "2024-02-01",
     "slug": "inada-uragane",
     "title": "稲田朋美が安倍派パーティー券収入196万円を政治資金収支報告書に不記載だった"
@@ -2665,6 +3040,11 @@
     "title": "国民民主党が公認内定を取り消した高橋茉莉が後に自死し遺族が玉木雄一郎の責任を問うている"
   },
   {
+    "date": "2024-03",
+    "slug": "saito-motohiko-kokuhatsusha-tokutei-hofuku",
+    "title": "斎藤元彦が片山安孝副知事に指示し告発者特定とPC押収を行い告発文書を「うそ八百」と非難して告発者を懲戒処分にした"
+  },
+  {
     "date": "2024-03-05",
     "slug": "otokita-shun-koreisha-iryohi-3wari",
     "title": "音喜多駿（維新）が少子化対策財源として高齢者医療費窓口負担を3割にする改革案を発表した"
@@ -2698,6 +3078,11 @@
     "date": "2024-03-19",
     "slug": "suginami-jimin-partnership-system-walkout",
     "title": "杉並区議会自民党がパートナーシップ制度への事実婚適用陳情の採決を退席した"
+  },
+  {
+    "date": "2024-03-21",
+    "slug": "kamiya-sohei-decarbonization-0006-degrees",
+    "title": "神谷宗幣が参院財政金融委員会で脱炭素で下がる気温は0.006℃にすぎないと温暖化対策を批判した"
   },
   {
     "date": "2024-03-25",
@@ -2830,6 +3215,16 @@
     "title": "馬場伸幸が政策活動費の黒塗り10年後公開を容認する裏金規正法改正に単独合意した"
   },
   {
+    "date": "2024-06",
+    "slug": "misaki-maki-poster-hagashi",
+    "title": "岬麻紀（維新）が秘書にライバル候補のポスター剥がしを命じていた"
+  },
+  {
+    "date": "2024-06",
+    "slug": "takeda-tsuneyasu-reiwa-shoseki-kyokasho-ianfu-2024",
+    "title": "竹田恒泰代表の令和書籍の国史教科書が慰安婦の強制連行を否定する記述で批判された"
+  },
+  {
     "date": "2024-06-08",
     "slug": "tsuji-yoshitaka-soviet-renho",
     "title": "辻よしたか（公明）が「ソビエト蓮舫」などと中傷を投稿"
@@ -2915,9 +3310,19 @@
     "title": "坂本勇基（維新）が四條畷市議会の委員会で市職員に大声で怒鳴りつけ議場での陳謝の懲罰処分を受けた"
   },
   {
+    "date": "2024-08",
+    "slug": "saito-motohiko-onedari-gizoku",
+    "title": "斎藤元彦が視察先でカニや革ジャンなどの贈答品をおねだりしていたと職員アンケートで判明した"
+  },
+  {
     "date": "2024-08-06",
     "slug": "x-grok-ireland-dpc-training-data-suspension",
     "title": "アイルランドDPCの提訴でXがGrokのEUユーザーデータ学習利用を一時停止した"
+  },
+  {
+    "date": "2024-08-12",
+    "slug": "trump-climate-more-oceanfront-property",
+    "title": "トランプが気候変動で「海辺の不動産が増える」とマスクとの対談で発言した"
   },
   {
     "date": "2024-08-25",
@@ -2928,6 +3333,16 @@
     "date": "2024-08-30",
     "slug": "musk-brazil-x-ban-moraes-conflict",
     "title": "マスクがブラジル最高裁判事と対立しXが一時遮断される事態に発展した"
+  },
+  {
+    "date": "2024-09",
+    "slug": "hyakuta-tottori-population-mockery-apology",
+    "title": "百田尚樹が鳥取県の人口を揶揄する発言をし謝罪した"
+  },
+  {
+    "date": "2024-09",
+    "slug": "matsui-haruki-spy-mokunnin",
+    "title": "松井春樹（維新）が事務局長の対立候補へのスパイ行為を黙認し立候補辞退・離党した"
   },
   {
     "date": "2024-09-01",
@@ -3010,6 +3425,26 @@
     "title": "泉房穂が斎藤元彦への支持はSNS上で作られたと投稿し知事選で斎藤が当選すると謝罪した"
   },
   {
+    "date": "2024-11",
+    "slug": "saito-motohiko-merchu-kosenho",
+    "title": "斎藤元彦が知事選でPR会社merchuに報酬を支払い公選法違反疑惑が浮上したが不起訴となった"
+  },
+  {
+    "date": "2024-11",
+    "slug": "tachibana-maruo-meiyokison-baishomeirei",
+    "title": "立花孝志が丸尾牧県議への虚偽発言で民事訴訟に敗訴し賠償命令を受けた"
+  },
+  {
+    "date": "2024-11",
+    "slug": "tachibana-okuya-meiyokison-kyohaku-shorui",
+    "title": "立花孝志が奥谷謙一県議を名誉毀損・脅迫・威力業務妨害で書類送検されたが不起訴となった"
+  },
+  {
+    "date": "2024-11",
+    "slug": "tachibana-takashi-takeuchi-kuromaku-jitaku-yokoku",
+    "title": "立花孝志が兵庫県知事選中に竹内英明県議を告発文書問題の「黒幕」と名指しし自宅訪問を予告して竹内が県議を辞職した"
+  },
+  {
     "date": "2024-11-06",
     "slug": "imamura-hiroshi-corona-hojokin-fusei-jukyu",
     "title": "今村洋史（維新）がコロナ補助金1.6億円超を虚偽申請で不正受給し後に家宅捜索を受けた"
@@ -3048,6 +3483,11 @@
     "date": "2024-11-27",
     "slug": "sato-kaori-uguisujo-koshoku-senkyoho",
     "title": "佐藤香（維新）が衆院選でウグイス嬢に法定上限を超える報酬を支払い公選法違反容疑で書類送検された"
+  },
+  {
+    "date": "2024-12",
+    "slug": "saito-motohiko-hyakujo-iinkai-tojin-kuichigai",
+    "title": "斎藤元彦が百条委員会の尋問で県幹部の証言と食い違う答弁を行った"
   },
   {
     "date": "2024-12-02",
@@ -3090,6 +3530,21 @@
     "title": "大阪維新の会が政治資金パーティー券収支報告書に架空購入企業を記載していた"
   },
   {
+    "date": "2025-01",
+    "slug": "baba-nobuyuki-tanjoosai",
+    "title": "馬場伸幸が会費1万円の「生誕祭」を企画し文春の質問状後に中止した"
+  },
+  {
+    "date": "2025-01",
+    "slug": "tachibana-iwai-juusho-sarase-jishi",
+    "title": "立花孝志がボランティア男性の住所を晒し支持者による嫌がらせが続いた末に男性が自死した"
+  },
+  {
+    "date": "2025-01",
+    "slug": "x-alleged-insider-2-8-billion-data-leak-2025",
+    "title": "Xで内部関係者による疑いのある28億件規模のデータ流出が発覚した"
+  },
+  {
     "date": "2025-01-03",
     "slug": "musk-tommy-robinson-support-starmer-imprison",
     "title": "マスクが英国極右活動家トミー・ロビンソンを支持しスターマー首相を投獄すべきと主張した"
@@ -3125,6 +3580,11 @@
     "title": "イーロン・マスクがドナルド・トランプの大統領就任イベントの演説でナチス敬礼を披露"
   },
   {
+    "date": "2025-01-20",
+    "slug": "trump-paris-agreement-withdrawal-2025",
+    "title": "トランプがパリ協定からの再離脱を命じる大統領令に署名した"
+  },
+  {
     "date": "2025-01-21",
     "slug": "hase-hiroshi-uragane",
     "title": "馳浩（自民）が安倍派パーティー券収入819万円を政治資金収支報告書に不記載だった"
@@ -3133,6 +3593,11 @@
     "date": "2025-01-25",
     "slug": "musk-afd-election-support-germany",
     "title": "マスクがドイツ極右政党AfDを公然と支持し選挙介入と国際的に批判された"
+  },
+  {
+    "date": "2025-02",
+    "slug": "kawai-yusuke-kurd-video-dema-post",
+    "title": "河合悠祐（日本大和党）がクルド人の誕生日動画を「違法パーティー」とデマ投稿した"
   },
   {
     "date": "2025-02-04",
@@ -3230,6 +3695,11 @@
     "title": "吉村洋文が万博来場者数の「水増し」指摘に「内訳示せば問題ない」と反論した"
   },
   {
+    "date": "2025-05",
+    "slug": "microsoft-icc-email-shutdown",
+    "title": "Microsoftがトランプ大統領の命令で国際刑事裁判所職員のメールアカウントを停止"
+  },
+  {
     "date": "2025-05-02",
     "slug": "yoshimura-ring-preservation-cost-shift",
     "title": "吉村洋文が大屋根リング南側保存を提案し施工者負担のはずの撤去費用が大阪市負担になる懸念が指摘された"
@@ -3298,6 +3768,16 @@
     "date": "2025-06-27",
     "slug": "koizumi-eel-not-endangered",
     "title": "小泉進次郎農林水産大臣がウナギは絶滅危惧ではないと虚偽発言"
+  },
+  {
+    "date": "2025-07",
+    "slug": "okano-junko-hyoki-koshokusenkyoho-violation",
+    "title": "岡野純子（国民）が参院選で正しい標旗を掲げずに選挙演説を行い公職選挙法違反容疑で書類送検された"
+  },
+  {
+    "date": "2025-07",
+    "slug": "sanseito-climate-skeptic-platform",
+    "title": "参政党が選挙公約で地球温暖化に「科学的な議論の余地がある」としパリ協定離脱を掲げた"
   },
   {
     "date": "2025-07-01",
@@ -3375,6 +3855,11 @@
     "title": "テスラがフロリダ州オートパイロット死亡事故で2億4300万ドルの賠償を命じられる"
   },
   {
+    "date": "2025-08-05",
+    "slug": "kamiya-sohei-review-global-warming-measures",
+    "title": "神谷宗幣が猛暑の中で参院予算委員会において温暖化対策の見直しを提案した"
+  },
+  {
     "date": "2025-08-07",
     "slug": "grok-imagine-spicy-mode-nonconsensual-celebrity-deepfakes",
     "title": "Grok Imagineのスパイシーモードで著名人の非同意性的ディープフェイクが生成できる問題"
@@ -3425,6 +3910,21 @@
     "title": "石井章（維新）が秘書給与詐取疑惑で家宅捜索を受け辞職・除名され在宅起訴された"
   },
   {
+    "date": "2025-09",
+    "slug": "hezuma-ryu-nara-unread-bills-2025",
+    "title": "へずまりゅうが奈良市議の新人研修を欠席し議案書を読み込まず議会に臨んだ"
+  },
+  {
+    "date": "2025-09",
+    "slug": "takaichi-foreigner-non-prosecution-interpreter-claim",
+    "title": "高市早苗の「通訳が間に合わず外国人が不起訴になる」発言"
+  },
+  {
+    "date": "2025-09",
+    "slug": "xai-whistleblower-retaliation-devin-kim",
+    "title": "xAIがGrokの安全性懸念を訴えたエンジニアを報復解雇し提訴される"
+  },
+  {
     "date": "2025-09-01",
     "slug": "koike-kanto-earthquake-memorial-refusal-2025",
     "title": "小池百合子・2025年関東大震災朝鮮人犠牲者追悼文不送付"
@@ -3455,6 +3955,11 @@
     "title": "高市早苗が「外国人観光客が奈良公園のシカを蹴り上げるなど暴行している」と発言"
   },
   {
+    "date": "2025-09-23",
+    "slug": "trump-un-climate-change-con-job",
+    "title": "トランプが国連総会演説で気候変動を「史上最大の詐欺」と主張した"
+  },
+  {
     "date": "2025-09-24",
     "slug": "takaichi-nara-deer-no-evidence",
     "title": "高市早苗がシカ暴行発言の根拠を示さず奈良県庁も否定"
@@ -3473,6 +3978,11 @@
     "date": "2025-09-30",
     "slug": "hyakuta-sexual-harassment-close-eyes-remark",
     "title": "百田尚樹が「女性はセクハラされても目瞑っとけばええ」と発言した"
+  },
+  {
+    "date": "2025-10",
+    "slug": "expo-contractor-unpaid",
+    "title": "吉村洋文が万博パビリオン工事費未払い問題で公費補填を否定した"
   },
   {
     "date": "2025-10-01",
@@ -3720,6 +4230,26 @@
     "title": "吉村洋文が万博児童招待に反対した首長について「どうやってしょっぴいてやろうかと思いましたよ」と発言した"
   },
   {
+    "date": "2026-01",
+    "slug": "ishin-insurance-evasion-scheme-revealed",
+    "title": "維新議員364人が脱法的スキームで国民健康保険料を回避していたことが発覚"
+  },
+  {
+    "date": "2026-01",
+    "slug": "jsdf-soldier-steals-gold-ingot-from-vacant-house",
+    "title": "陸上自衛官と会社員が空き家から金のインゴットを盗み罪を認める"
+  },
+  {
+    "date": "2026-01",
+    "slug": "kuroiwa-rina-twitter-dispute",
+    "title": "黒岩里奈（チームみらい）が安野貴博の資産訂正騒動を巡りSNSで批判に応酬し炎上した"
+  },
+  {
+    "date": "2026-01",
+    "slug": "suginami-jimin-health-insurance-card-retention-opposition",
+    "title": "杉並区議会自民党が健康保険証の存続を求める陳情に反対した"
+  },
+  {
     "date": "2026-01-04",
     "slug": "japan-lawmakers-israel-visit-2026-01",
     "title": "パレスチナで虐殺を継続するイスラエルへ超党派議員団が表敬訪問しネタニヤフ首相と会談した"
@@ -3743,6 +4273,11 @@
     "date": "2026-01-05",
     "slug": "takaichi-venezuela-attack-no-comment",
     "title": "高市早苗がアメリカのベネズエラ攻撃にノーコメント"
+  },
+  {
+    "date": "2026-01-07",
+    "slug": "trump-unfccc-withdrawal",
+    "title": "トランプが国連気候変動枠組み条約を含む66の国際機関からの脱退を指示した"
   },
   {
     "date": "2026-01-08",
@@ -3796,6 +4331,11 @@
   },
   {
     "date": "2026-01-27",
+    "slug": "kamiya-sohei-co2-climate-only-japan",
+    "title": "神谷宗幣が街頭演説で「CO2で地球の気候が変動するなんて言ってるのは日本だけ」と発言した"
+  },
+  {
+    "date": "2026-01-27",
     "slug": "ldp-endorsed-43-slush-fund-lawmakers-takaichi-defended",
     "title": "自民党が裏金議員43人を衆院選で公認し高市早苗が擁護した"
   },
@@ -3833,6 +4373,16 @@
     "date": "2026-01-31",
     "slug": "team-mirai-same-sex-marriage-no-stance",
     "title": "チームみらいが同性婚法制化への賛否を「どちらともいえない」と回答し公開質問状にも回答しなかった"
+  },
+  {
+    "date": "2026-02",
+    "slug": "ishin-insurance-evasion-self-report-coverup",
+    "title": "維新が国保逃れ問題を自己申告アンケートのみで調査し6人の除名処分で幕引きを図った"
+  },
+  {
+    "date": "2026-02",
+    "slug": "suisancho-surumeika-gyokakuwaku-kakudai-kagakuteki-konkyo-kaku",
+    "title": "水産庁が科学的根拠を欠いたままスルメイカの漁獲枠を拡大し続けた"
   },
   {
     "date": "2026-02-01",
@@ -3880,6 +4430,11 @@
     "title": "吉村洋文と横山英幸が衆院選に合わせ大阪ダブル選を実施して28億円を浪費"
   },
   {
+    "date": "2026-02-12",
+    "slug": "trump-endangerment-finding-repeal",
+    "title": "トランプが温室効果ガスの「危険性認定」を撤回し気候変動対策を「史上最大の詐欺」と非難した"
+  },
+  {
     "date": "2026-02-19",
     "slug": "takaichi-just-becoming-a-normal-country-remark",
     "title": "高市早苗の「普通の国になるだけだ」発言"
@@ -3903,6 +4458,11 @@
     "date": "2026-02-26",
     "slug": "anthropic-refuses-pentagon-autonomous-weapons-surveillance",
     "title": "Anthropicが国防総省の自律型兵器・大規模監視への利用要求を拒否し政府調達から排除された"
+  },
+  {
+    "date": "2026-03",
+    "slug": "trump-anime-unauthorized-use",
+    "title": "トランプが日本のアニメ・漫画キャラクターを無断でSNS投稿に使用した"
   },
   {
     "date": "2026-03-02",
@@ -4123,6 +4683,16 @@
     "date": "2026-04-29",
     "slug": "jgsdf-elephant-rifle-logo-controversy",
     "title": "陸上自衛隊第1普通科連隊の中隊が小銃を持つゾウのロゴをXに投稿し批判を受け使用中止した"
+  },
+  {
+    "date": "2026-05",
+    "slug": "obuchi-yuko-shurijo-saiken-hatsugen",
+    "title": "小渕優子が首里城再建は「県ではなく政府与党」と発言した"
+  },
+  {
+    "date": "2026-05",
+    "slug": "tesla-robotaxi-crash-report-confidentiality",
+    "title": "テスラがロボタクシーの事故報告を企業秘密として非公開にし続けている"
   },
   {
     "date": "2026-05-09",
@@ -4913,6 +5483,11 @@
     "date": "2026-07-30",
     "slug": "yamanaka-takeharu-yokohama-power-harassment",
     "title": "山中竹春が横浜市長として重大なパワハラ行為を外部調査委員に認定された"
+  },
+  {
+    "date": "2026-08",
+    "slug": "hagiwara-keiichi-islam-imin-haigai-sns",
+    "title": "萩原圭一（和光市議）が川越の無許可モスク問題を材料にイスラム系移民排斥を煽るSNS投稿を繰り返した"
   },
   {
     "date": "2026-08-03",
