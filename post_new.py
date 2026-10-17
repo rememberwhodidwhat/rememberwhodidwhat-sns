@@ -22,7 +22,7 @@ import sys
 
 from atproto import Client, client_utils
 
-from post_today import EVENTS_FILE, SITE_URL, format_date
+from post_today import EVENTS_FILE, SITE_URL, add_hashtags, format_date
 
 
 def load_old_slugs(base_ref: str) -> set[str]:
@@ -52,6 +52,7 @@ def build_post(event: dict) -> client_utils.TextBuilder:
     tb = client_utils.TextBuilder()
     tb.text(f"【新規追加】{format_date(event['date'])}、{event['title']}\n")
     tb.link(url, url)
+    add_hashtags(tb, event, len(tb.build_text()))
     return tb
 
 

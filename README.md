@@ -4,7 +4,9 @@
 
 ## 仕組み
 
-- `events.json` — 公開対象の事件から `date` / `slug` / `title` のみを抽出したデータ。
+- `events.json` — 公開対象の事件から `date` / `slug` / `title` / `people` / `organizations` のみを抽出したデータ。
+  `people` / `organizations` はサイトにページがある人物・団体名で、投稿末尾にハッシュタグとして付ける
+  （括弧書き・空白は除き、300文字の上限を超える分は省略する）。
   `date` は判明している精度のまま `YYYY-MM-DD` / `YYYY-MM` / `YYYY` で記録する。
   RememberWhoDidWhat リポジトリ（private）で `uv run build/rememberwhodidwhat-sns.py <このリポジトリのディレクトリ>` を実行して
   このリポジトリの `events.json` に直接書き出し、手動で commit・push する。

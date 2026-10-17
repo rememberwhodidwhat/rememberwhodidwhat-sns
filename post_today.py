@@ -19,6 +19,7 @@ events.json は RememberWhoDidWhat リポジトリの
 
 import json
 import os
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -29,6 +30,8 @@ from atproto import Client, client_utils
 SITE_URL = "https://rememberwhodidwhat.github.io"
 EVENTS_FILE = Path(__file__).parent / "events.json"
 JST = ZoneInfo("Asia/Tokyo")
+# Bluesky の投稿文字数上限（grapheme 単位）。日本語・ASCII のみなら len() で近似できる
+MAX_POST_LENGTH = 300
 
 
 def parse_date(date: str) -> tuple[int, int | None, int | None]:
@@ -56,6 +59,24 @@ def load_todays_events(today: datetime) -> list[dict]:
     return sorted(matches, key=lambda e: e["date"])
 
 
+def hashtag(name: str) -> str:
+    """人物・団体名をハッシュタグ用に整形する（「X (Twitter)」→「X」のように括弧書きと空白を除く）。"""
+    return re.sub(r"\s+", "", re.sub(r"\s*[(（][^)）]*[)）]", "", name))
+
+
+def add_hashtags(tb: client_utils.TextBuilder, event: dict, length: int) -> None:
+    """事件の人物・団体をハッシュタグとして末尾に追記する。投稿文字数上限を超えるものは省略する。"""
+    tags = list(dict.fromkeys(hashtag(n) for n in event.get("people", []) + event.get("organizations", [])))
+    separator = "\n"
+    for tag in tags:
+        if not tag or length + len(separator) + 1 + len(tag) > MAX_POST_LENGTH:
+            continue
+        tb.text(separator)
+        tb.tag(f"#{tag}", tag)
+        length += len(separator) + 1 + len(tag)
+        separator = " "
+
+
 def build_post(event: dict, today: datetime) -> client_utils.TextBuilder:
     year, month, day = parse_date(event["date"])
     years_ago = today.year - year
@@ -73,6 +94,7 @@ def build_post(event: dict, today: datetime) -> client_utils.TextBuilder:
             when += f"の{month}月"
         tb.text(f"{when}、{event['title']}\n")
     tb.link(url, url)
+    add_hashtags(tb, event, len(tb.build_text()))
     return tb
 
 
