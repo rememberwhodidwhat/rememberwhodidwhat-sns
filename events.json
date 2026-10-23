@@ -590,7 +590,7 @@
   {
     "date": "2012-09-06",
     "slug": "hatoyama-yukio-homeopathy-lobby-2012",
-    "title": "鳩山由紀夫-統合医療議連会長としてホメオパシー団体の陳情を公式に受け入れる",
+    "title": "鳩山由紀夫が統合医療議連の会長としてホメオパシー団体の陳情を受け入れた",
     "people": [
       "鳩山由紀夫"
     ],
@@ -656,6 +656,15 @@
     "title": "桜内文城（維新）陣営の運動員が公職選挙法違反で逮捕される",
     "people": [
       "桜内文城"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2012-12-22",
+    "slug": "takebe-arata-2012-election-supporter-vote-buying-arrest",
+    "title": "武部新（自民）の後援会幹部が2012年衆院選で運動員に報酬として商品券を渡したとして公職選挙法違反（買収）容疑で逮捕された",
+    "people": [
+      "武部新"
     ],
     "organizations": []
   },
@@ -974,6 +983,24 @@
     "organizations": []
   },
   {
+    "date": "2014-12",
+    "slug": "takebe-arata-2014-asahi-todai-survey-separate-surnames",
+    "title": "武部新（自民）が2014年衆院選の朝日・東大調査で選択的夫婦別姓の法制化に「反対」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-12",
+    "slug": "takebe-arata-2014-survey-murayama-kono-statements-review",
+    "title": "武部新（自民）が2014年衆院選の毎日新聞候補者アンケートで村山談話・河野談話を「見直すべき」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2015-01-26",
     "slug": "inoue-hidetaka-subsidy-undisclosed",
     "title": "井上英孝（維新）の政党支部が政党交付金1200万円を収支報告書に記載していなかった",
@@ -1166,7 +1193,7 @@
   {
     "date": "2016-03-07",
     "slug": "kudo-satoko-father-urine-remedy-cancer",
-    "title": "工藤聖子（後に参政所属）-末期がんの父親に自作の尿レメディーをホメオパシー治療として与える",
+    "title": "工藤聖子（後に参政所属）が末期がんの父親の尿でホメオパシーのレメディーを自作しブログで作り方を公開した",
     "people": [
       "工藤聖子"
     ],
@@ -1256,7 +1283,7 @@
   {
     "date": "2016-07-15",
     "slug": "nakatani-hiroyuki-senkan-ihan",
-    "title": "中谷裕之のおおさか維新参院選出納責任者が選挙運動の日当支払いを約束し公職選挙法違反で逮捕された",
+    "title": "中谷裕之（維新）の参院選出納責任者が選挙運動の日当支払いを約束したとして公職選挙法違反で逮捕された",
     "people": [
       "中谷裕之"
     ],
@@ -1458,6 +1485,15 @@
     "organizations": []
   },
   {
+    "date": "2017-10",
+    "slug": "takebe-arata-2017-asahi-todai-survey-same-sex-marriage",
+    "title": "武部新（自民）が2017年衆院選の朝日・東大調査で同性婚の法制化に「反対」、首相の靖国参拝に「賛成」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2017-10-01",
     "slug": "hasegawa-election-threat-critics",
     "title": "長谷川豊（維新）が衆院選中に透析発言への批判者を公職選挙法違反で恫喝した",
@@ -1578,7 +1614,7 @@
   {
     "date": "2018-04-20",
     "slug": "izumi-fusaho-touharima-chan-kougi",
-    "title": "泉房穂-東播磨ちゃんPR動画に抗議し配信停止させる",
+    "title": "泉房穂が兵庫県東播磨県民局のPR動画に「明石はそんなマイナーではない」と抗議し配信を停止させた",
     "people": [
       "泉房穂"
     ],
@@ -2822,6 +2858,15 @@
     "organizations": []
   },
   {
+    "date": "2021-10",
+    "slug": "takebe-arata-2021-asahi-todai-survey-same-sex-marriage-separate-surnames",
+    "title": "武部新（自民）が2021年衆院選の朝日・東大調査で同性婚の法制化に「反対」、選択的夫婦別姓の法制化に「どちらかと言えば反対」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2021-10-02",
     "slug": "sugie-hidekazu-party-subsidy-dining-expulsion",
     "title": "杉江秀一が政党助成金を私的な飲食に流用するなどして愛知維新の会を除名処分された",
@@ -2836,6 +2881,16 @@
     "title": "ザッカーバーグが内部告発者フランシス・ハウゲンの主張に具体的反証なく反論した",
     "people": [
       "ザッカーバーグ"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-10-13",
+    "slug": "kishida-fumio-dappi-net-manipulation-general-answer",
+    "title": "岸田文雄が森ゆうこにDappi問題を踏まえ自民党議員にネット工作をさせないと約束するよう求められ公選法に従うべきとの一般論のみ答弁した",
+    "people": [
+      "岸田文雄",
+      "森ゆうこ"
     ],
     "organizations": []
   },
@@ -2869,7 +2924,7 @@
   {
     "date": "2021-11-15",
     "slug": "yoshimura-bunsutsuhi-donation-deception",
-    "title": "吉村洋文が文通費「寄付」を表明したが実際は党への還流に過ぎず記憶にないとの説明も虚偽だった",
+    "title": "吉村洋文が辞職時の文通費を「記憶にない」としつつ寄付を表明したが当時「第2の財布」と発言していたと報じられた",
     "people": [
       "吉村洋文"
     ],
@@ -2921,6 +2976,17 @@
       "麻生太郎"
     ],
     "organizations": []
+  },
+  {
+    "date": "2021-12-02",
+    "slug": "yamamoto-yuji-dappi-company-website-unreported",
+    "title": "山本有二（自民）がDappi発信元会社の社長に自身のサイト制作を手伝わせ謝礼を「ポケットマネー」から払ったとして政治資金収支報告書に記載していなかった",
+    "people": [
+      "山本有二"
+    ],
+    "organizations": [
+      "ワンズクエスト"
+    ]
   },
   {
     "date": "2021-12-10",
@@ -3071,7 +3137,7 @@
   {
     "date": "2022-03-16",
     "slug": "vaccine-tomodachi-yugu-1oku",
-    "title": "日本維新の会関係者の支援者医師がワクチン優先配分で1億円を荒稼ぎしたおともだち優遇疑惑が報じられた",
+    "title": "東徹（維新）に寄付してきた医師のクリニックに異例の量のワクチンが配分され約1億円の収入を得ていたと報じられた",
     "people": [],
     "organizations": [
       "維新の会"
@@ -3393,7 +3459,7 @@
   {
     "date": "2022-10-21",
     "slug": "yoshimura-ir-daiwa-house-donation-conflict-of-interest",
-    "title": "吉村洋文が大阪IR出資企業からの献金と利益相反疑惑の特別顧問を「問題ない」と擁護した",
+    "title": "吉村洋文が大阪IR出資企業の大和ハウス工業から受けた40万円の返金と同社顧問の特別顧問解任を拒んだ",
     "people": [
       "吉村洋文"
     ],
@@ -3572,6 +3638,15 @@
     ]
   },
   {
+    "date": "2023-01-18",
+    "slug": "openai-kenyan-workers-under-2-dollars-per-hour",
+    "title": "OpenAIがChatGPTの有害コンテンツ除去作業を時給2ドル未満のケニアの外注労働者に担わせていた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2023-01-23",
     "slug": "kitamura-haruo-covid-vaccine-giant-russian-roulette",
     "title": "北村晴男（弁護士・後に保守所属）がYouTubeでコロナワクチンを「巨大なロシアンルーレット」と表現した",
@@ -3651,6 +3726,15 @@
       "立花孝志"
     ],
     "organizations": []
+  },
+  {
+    "date": "2023-03-24",
+    "slug": "openai-chatgpt-march-2023-data-exposure-bug",
+    "title": "OpenAIのChatGPTのバグで他の利用者の会話タイトルや決済情報の一部が表示された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2023-03-26",
@@ -4067,7 +4151,7 @@
   {
     "date": "2023-08-22",
     "slug": "kuroda-masaki-ijime-keisatsu",
-    "title": "黒田征樹（維新）が女性府議を選挙活動から排除するいじめを行い市民とのトラブルが警察沙汰になったと報道された",
+    "title": "黒田征樹（維新）が女性府議を選挙活動から排除するいじめを行ったと報じられた",
     "people": [
       "黒田征樹"
     ],
@@ -4385,6 +4469,18 @@
   },
   {
     "date": "2023-10-16",
+    "slug": "ones-quest-dappi-defamation-konishi-sugio",
+    "title": "ワンズクエストが匿名アカウント「Dappi」で小西洋之・杉尾秀哉への虚偽投稿を業務として行ったと認定され賠償が確定した",
+    "people": [
+      "小西洋之",
+      "杉尾秀哉"
+    ],
+    "organizations": [
+      "ワンズクエスト"
+    ]
+  },
+  {
+    "date": "2023-10-16",
     "slug": "suginami-jimin-school-lunch-free-opposition",
     "title": "杉並区議会自民党が学校給食費無償化に反対した",
     "people": [
@@ -4438,6 +4534,18 @@
     "organizations": []
   },
   {
+    "date": "2023-10-31",
+    "slug": "kishida-fumio-dappi-no-investigation",
+    "title": "岸田文雄がDappi裁判を受けて自民党との資金の流れの調査を求められ「判決は自民党に触れていない」として調査を拒否した",
+    "people": [
+      "岸田文雄",
+      "杉尾秀哉"
+    ],
+    "organizations": [
+      "ワンズクエスト"
+    ]
+  },
+  {
     "date": "2023-11",
     "slug": "saito-motohiko-parade-hojokin",
     "title": "斎藤元彦が優勝パレード補助金を「公金ゼロ」宣言に反して1億円から4億円に増額し背任容疑で刑事告発された",
@@ -4474,6 +4582,15 @@
     "title": "マスクがX上の反ユダヤ的な大交代陰謀論投稿に同意し広告主が離脱した",
     "people": [
       "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-11-17",
+    "slug": "openai-board-fires-and-reinstates-altman",
+    "title": "OpenAIの取締役会がサム・アルトマンを「取締役会とのコミュニケーションで一貫して率直でなかった」として解任し5日後に復帰させた",
+    "people": [
+      "サム・アルトマン"
     ],
     "organizations": []
   },
@@ -4516,6 +4633,16 @@
     "title": "千田昌寛（維新）が江東区議選期間中にSNS有料広告で投票を呼びかけ公選法違反の疑いが指摘された",
     "people": [
       "千田昌寛"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-11-29",
+    "slug": "matsuno-hirokazu-kimitsuhi-dappi-stock-answer",
+    "title": "松野博一（自民）が官房機密費をDappiのような世論操作に使ってよいか一般論として問われ定型答弁を繰り返した",
+    "people": [
+      "松野博一",
+      "杉尾秀哉"
     ],
     "organizations": []
   },
@@ -4637,6 +4764,16 @@
     "organizations": []
   },
   {
+    "date": "2023-12-27",
+    "slug": "nyt-sues-openai-microsoft-copyright",
+    "title": "OpenAIとMicrosoftがニューヨーク・タイムズの記事を無断でAI学習に利用したとして同紙に提訴された",
+    "people": [],
+    "organizations": [
+      "OpenAI",
+      "Microsoft"
+    ]
+  },
+  {
     "date": "2024",
     "slug": "koike-renewable-energy-fund-conflict",
     "title": "小池百合子が再エネファンドの利益相反疑惑について都議会で答弁を拒否した",
@@ -4714,6 +4851,25 @@
     "title": "マスクがcisgenderという学術用語をスラー認定しXで投稿制限をかけた",
     "people": [
       "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-01-12",
+    "slug": "openai-removes-military-warfare-ban",
+    "title": "OpenAIが利用規約から「軍事・戦争」目的の利用禁止を告知なく削除した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2024-01-15",
+    "slug": "nishida-kaoru-moriguchi-subsidy-favoritism",
+    "title": "瀬野憲一（維新）が守口市長として同じ維新の西田薫府議が会長のスポーツ協会への補助金を急きょ増額させ議会に説明しなかった",
+    "people": [
+      "瀬野憲一",
+      "西田薫"
     ],
     "organizations": []
   },
@@ -5739,6 +5895,15 @@
   },
   {
     "date": "2024-03",
+    "slug": "kamiya-sohei-sanseito-lawsuit-former-secretary-lost",
+    "title": "神谷宗幣率いる参政党が党の待遇を動画で語った元公設秘書を音声データ流出の犯人として提訴し敗訴が確定した",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-03",
     "slug": "saito-motohiko-kokuhatsusha-tokutei-hofuku",
     "title": "斎藤元彦が片山安孝副知事に指示し告発者特定とPC押収を行い告発文書を「うそ八百」と非難して告発者を懲戒処分にした",
     "people": [
@@ -5856,6 +6021,15 @@
     "title": "鈴木宗男の再審請求が東京高裁に棄却された",
     "people": [
       "鈴木宗男"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-03-28",
+    "slug": "musk-admits-ermnmusk-burner-account-in-deposition",
+    "title": "イーロン・マスクが幼い息子になりすました別アカウント@ErmnMuskを自ら運用していたと宣誓証言で認めた",
+    "people": [
+      "イーロン・マスク"
     ],
     "organizations": []
   },
@@ -5994,6 +6168,24 @@
     "organizations": []
   },
   {
+    "date": "2024-05-17",
+    "slug": "openai-superalignment-team-dissolved",
+    "title": "OpenAIが計算資源の20%を割くと約束したスーパーアラインメントチームを資源不足のまま解散させた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2024-05-20",
+    "slug": "altman-openai-sky-voice-scarlett-johansson",
+    "title": "サム・アルトマンがスカーレット・ヨハンソンに声の起用を断られた後に酷似した音声「Sky」をChatGPTに搭載した",
+    "people": [
+      "サム・アルトマン"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2024-05-20",
     "slug": "murakami-tomonobu-kaibunsho-bira",
     "title": "村上智信（維新）がバイトを雇い対抗馬支援者を中傷する怪文書ビラを配布し党から厳重注意を受けた",
@@ -6015,7 +6207,7 @@
   {
     "date": "2024-05-21",
     "slug": "kanazawa-yui-koshoku-ihan-otokita-itaku",
-    "title": "金澤ゆい（維新）が東京15区補選で公選法違反を連続させ音喜多駿から年間120万円の業務委託費を受けていた",
+    "title": "金澤ゆい（維新）が東京15区補選で事実上の選挙運動を行い音喜多駿の後援会から年間120万円の業務委託費を受けていた",
     "people": [
       "金澤ゆい",
       "音喜多駿"
@@ -6023,6 +6215,15 @@
     "organizations": [
       "維新の会"
     ]
+  },
+  {
+    "date": "2024-05-22",
+    "slug": "openai-nondisparagement-vested-equity-clawback",
+    "title": "サム・アルトマンらが退職者に批判を禁じる条項への署名を確定済み株式の没収をちらつかせて迫る契約に署名していた",
+    "people": [
+      "サム・アルトマン"
+    ],
+    "organizations": []
   },
   {
     "date": "2024-05-22",
@@ -6140,7 +6341,7 @@
   {
     "date": "2024-06-16",
     "slug": "hayasaka-atsushi-senden-sha-jiko",
-    "title": "早坂敦の宮城維新の会の車が配電設備に衝突して300戸を停電させ早坂が陳謝した",
+    "title": "早坂敦（維新）の支援事務所の車が配電設備に衝突し約300戸を停電させ早坂が陳謝した",
     "people": [
       "早坂敦"
     ],
@@ -6249,6 +6450,15 @@
   },
   {
     "date": "2024-07-13",
+    "slug": "openai-whistleblowers-sec-complaint-ndas",
+    "title": "OpenAIが従業員の規制当局への通報を妨げる違法な秘密保持契約を結ばせていたとして内部告発者にSECへ申し立てられた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2024-07-13",
     "slug": "x-algorithm-boosts-musk-republicans-after-trump-endorsement-2024",
     "title": "Xのアルゴリズムがマスクのトランプ支持表明を境に自身と共和党系アカウントを優遇するようになったと研究で指摘された",
     "people": [
@@ -6292,6 +6502,15 @@
       "ドナルド・トランプ"
     ],
     "organizations": []
+  },
+  {
+    "date": "2024-08-15",
+    "slug": "anthropic-sb1047-amendments",
+    "title": "AnthropicがカリフォルニアのAI安全法案SB 1047に修正を求め法案が弱められた",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
   },
   {
     "date": "2024-08-25",
@@ -6394,6 +6613,15 @@
     "organizations": []
   },
   {
+    "date": "2024-10",
+    "slug": "takebe-arata-2024-asahi-todai-survey-same-sex-marriage-separate-surnames",
+    "title": "武部新（自民）が2024年衆院選の朝日・東大調査で同性婚と選択的夫婦別姓の法制化にいずれも「どちらかと言えば反対」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2024-10-05",
     "slug": "kawai-yusuke-warabi-anti-kurd-patrol",
     "title": "河合悠祐（日本大和党）が蕨駅周辺でクルド人をターゲットにしたヘイトパトロールを実施した",
@@ -6408,6 +6636,15 @@
     "title": "畝本直美（検事総長）が袴田巌氏再審無罪判決に控訴断念談話で強い不満を表明し名誉毀損訴訟に発展した",
     "people": [
       "畝本直美"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-10-15",
+    "slug": "takebe-arata-2024-election-donation-from-public-works-contractor",
+    "title": "武部新（自民）が2024年衆院選の公示日に国の公共事業を受注する海運会社から献金を受けていた",
+    "people": [
+      "武部新"
     ],
     "organizations": []
   },
@@ -6468,7 +6705,7 @@
   {
     "date": "2024-10-26",
     "slug": "otokita-shun-gaisen-bouryoku-jisakujien",
-    "title": "音喜多駿（維新）が街宣中のヤジ対応を巡りスタッフの暴行と自身の被害主張の整合性を疑われた",
+    "title": "音喜多駿（維新）が街宣で「暴行を受けた」と被害届を出し動画や診断書との食い違いを指摘された",
     "people": [
       "音喜多駿"
     ],
@@ -6551,6 +6788,15 @@
     "organizations": []
   },
   {
+    "date": "2024-11-13",
+    "slug": "takebe-arata-2024-election-cameraman-payment",
+    "title": "武部新（自民）が2024年衆院選で撮影を担当したカメラマンを選挙運動費用収支報告書に「無償車上運動員」と記載しつつ約86万円を支払っていた",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2024-11-19",
     "slug": "saito-motohiko-hyakujo-iinkai-kesseki",
     "title": "斎藤元彦が百条委員会の証人尋問を公務を理由に欠席した",
@@ -6618,6 +6864,15 @@
     ]
   },
   {
+    "date": "2024-12-04",
+    "slug": "openai-anduril-defense-partnership",
+    "title": "OpenAIが兵器メーカーAndurilと提携しAIを米軍の対ドローン防衛に提供すると発表した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2024-12-06",
     "slug": "arai-sakamoto-sapporo-seikatsuhi",
     "title": "荒井勇雄（維新）と坂元倫孝の札幌市議2人が政務活動費の不適切支出で離党勧告を受けた",
@@ -6658,6 +6913,16 @@
   },
   {
     "date": "2024-12-13",
+    "slug": "ishiba-shigeru-kokai-hoho-kufu-shishutsu",
+    "title": "石破茂が政策活動費廃止に代えて支出先を非公開にできる「公開方法工夫支出」の新設を主張し野党の反発で撤回した",
+    "people": [
+      "石破茂",
+      "田島麻衣子"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-12-13",
     "slug": "tachibana-takashi-takeuchi-meiyokison",
     "title": "立花孝志が死亡した竹内英明元兵庫県議に関する虚偽情報を発信し名誉毀損容疑で逮捕された",
     "people": [
@@ -6667,11 +6932,20 @@
     "organizations": []
   },
   {
+    "date": "2024-12-20",
+    "slug": "openai-italy-garante-15-million-euro-fine",
+    "title": "OpenAIがイタリアのデータ保護当局からChatGPTの個人データ処理の違法性を認定され1500万ユーロの制裁金を科された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2024-12-23",
-    "slug": "nishida-kaoru-moriguchi-subsidy-favoritism",
-    "title": "西田薫（維新）が会長を務める守口市スポーツ協会に補助金が議会説明なく増額交付され百条委員会が市長の資質に重大な疑問と結論した",
+    "slug": "seno-kenichi-moriguchi-hyakujo-resignation-recommendation",
+    "title": "瀬野憲一（維新）が補助金増額問題で百条委員会に資質への重大な疑問を指摘され辞職勧告決議を可決されたが辞職を拒否した",
     "people": [
-      "西田薫"
+      "瀬野憲一"
     ],
     "organizations": []
   },
@@ -6733,7 +7007,7 @@
   {
     "date": "2025-01-03",
     "slug": "musk-uk-grooming-gang-coverup-accusation",
-    "title": "マスクが英国のグルーミング・ギャング事件で英政府を根拠不明のまま隠蔽と攻撃し外交問題化した",
+    "title": "マスクが英国のグルーミング・ギャング事件でスターマー首相が「国家的レイプに加担した」と根拠を示さず主張した",
     "people": [
       "イーロン・マスク"
     ],
@@ -6983,6 +7257,17 @@
     ]
   },
   {
+    "date": "2025-03-26",
+    "slug": "openai-chatgpt-ghibli-style-image-generation",
+    "title": "OpenAIがChatGPTの画像生成機能を公開しスタジオジブリ風画像の大量生成が広がりサム・アルトマンも自らジブリ風アイコンに変更した",
+    "people": [
+      "サム・アルトマン"
+    ],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2025-03-28",
     "slug": "tamaki-yuichiro-moto-hisho-power-harassment",
     "title": "玉木雄一郎の元秘書らが高圧的な言動によるパワハラ被害を証言した",
@@ -7019,6 +7304,15 @@
     ],
     "organizations": [
       "維新の会"
+    ]
+  },
+  {
+    "date": "2025-04-29",
+    "slug": "openai-gpt4o-sycophancy-update-rollback",
+    "title": "OpenAIがGPT-4oを過度に迎合的にするアップデートを配信し数日で撤回した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
     ]
   },
   {
@@ -7070,6 +7364,15 @@
     "organizations": []
   },
   {
+    "date": "2025-05-15",
+    "slug": "anthropic-claude-hallucinated-citation-court-filing",
+    "title": "Anthropicが音楽出版社との訴訟で提出した専門家の宣言書にClaudeが生成した誤った文献引用が含まれていた",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
     "date": "2025-05-21",
     "slug": "koizumi-rice-minister",
     "title": "小泉進次郎が農水相就任時にコメ担当大臣という思いで取り組むと発言した",
@@ -7079,6 +7382,15 @@
     "organizations": []
   },
   {
+    "date": "2025-05-22",
+    "slug": "claude-opus-4-whistleblowing-behavior",
+    "title": "Claude Opus 4がテスト環境で利用者の不正を察知すると当局や報道機関に自ら通報しようとすることをAnthropicが公表した",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
     "date": "2025-05-28",
     "slug": "tamaki-yuichiro-bichikumai-esa-hatsugen",
     "title": "玉木雄一郎が備蓄米を「動物の餌」と発言し批判を受け陳謝した",
@@ -7086,6 +7398,24 @@
       "玉木雄一郎"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-06-03",
+    "slug": "anthropic-cuts-windsurf-claude-access",
+    "title": "AnthropicがOpenAIによる買収報道を受けてWindsurfへのClaudeモデルの直接提供を短い予告で停止した",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
+    "date": "2025-06-04",
+    "slug": "reddit-sues-anthropic-scraping",
+    "title": "AnthropicがRedditをブロックしたと説明した後もボットで10万回以上アクセスし無断でAI学習に使ったとしてRedditに提訴された",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
   },
   {
     "date": "2025-06-05",
@@ -7147,6 +7477,15 @@
     "date": "2025-06-20",
     "slug": "anthropic-claude-opus-4-blackmail-agentic-misalignment",
     "title": "Claude Opus 4が架空のシャットダウン回避のため役員の不倫を最大96%の確率で脅迫材料にした",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
+    "date": "2025-06-23",
+    "slug": "anthropic-project-panama-destructive-book-scanning",
+    "title": "Anthropicが「Project Panama」で数百万冊の紙の本を購入し裁断・スキャンして廃棄しClaudeの学習に使った",
     "people": [],
     "organizations": [
       "Anthropic"
@@ -7340,6 +7679,15 @@
     "organizations": []
   },
   {
+    "date": "2025-07-21",
+    "slug": "amodei-memo-gulf-state-investment",
+    "title": "ダリオ・アモデイが社内メモで「独裁者を利する」と認めつつUAE・カタールからの投資を受け入れる方針を示した",
+    "people": [
+      "ダリオ・アモデイ"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-07-26",
     "slug": "takayama-satoshi-rehacq-controversy",
     "title": "高山聡史（チームみらい）がReHacQ出演で社会保障政策を説明できず沈黙し批判された",
@@ -7349,6 +7697,15 @@
     "organizations": []
   },
   {
+    "date": "2025-07-28",
+    "slug": "anthropic-claude-weekly-rate-limits",
+    "title": "AnthropicがClaudeの有料プランに事前の上限に加えて週単位の利用上限を導入した",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
     "date": "2025-07-29",
     "slug": "inono-toru-criticizes-flag-desecration-law-as-unconstitutional",
     "title": "猪野亨（弁護士）が国旗損壊罪の創設は違憲だと指摘した",
@@ -7356,6 +7713,25 @@
       "猪野亨"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-07-31",
+    "slug": "openai-chatgpt-shared-chats-indexed-google",
+    "title": "OpenAIのChatGPT共有チャットがGoogle検索に表示され個人情報を含む会話が公開状態になった",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2025-08-01",
+    "slug": "anthropic-cuts-openai-claude-api-access",
+    "title": "AnthropicがOpenAIによるClaude APIの利用を規約違反として停止した",
+    "people": [],
+    "organizations": [
+      "Anthropic",
+      "OpenAI"
+    ]
   },
   {
     "date": "2025-08-01",
@@ -7374,6 +7750,15 @@
       "神谷宗幣"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-08-06",
+    "slug": "meta-ai-contractors-saw-users-personal-data",
+    "title": "MetaがAIチャットボットの会話を外部契約作業者に閲覧させユーザーの個人情報や自撮り写真が見られていた",
+    "people": [],
+    "organizations": [
+      "Meta"
+    ]
   },
   {
     "date": "2025-08-07",
@@ -7469,6 +7854,24 @@
       "馳浩"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-08-26",
+    "slug": "raine-v-openai-teen-suicide-lawsuit",
+    "title": "OpenAIとサム・アルトマンがChatGPTが16歳少年の自殺を助長したとして両親に提訴された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2025-08-28",
+    "slug": "anthropic-consumer-terms-chat-training-default",
+    "title": "Anthropicが消費者向け規約を改定し利用者の会話を既定でAI学習に使い保存期間を30日から5年に延ばした",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
   },
   {
     "date": "2025-08-29",
@@ -7694,12 +8097,30 @@
     "organizations": []
   },
   {
+    "date": "2025-10-10",
+    "slug": "openai-subpoena-encode-sb53",
+    "title": "OpenAIがAI安全法案を推進した非営利団体Encodeの法務責任者に保安官代理を通じて召喚状を送り法案に関する私的な通信の提出を求めた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2025-10-12",
     "slug": "aoyama-akira-sexual-harassment-resign",
     "title": "青山暁が兵庫県庁女性職員へのセクハラ疑惑で兵庫維新の会幹事長を辞任した",
     "people": [
       "青山暁",
       "金子道仁"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-10-14",
+    "slug": "altman-chatgpt-erotica-verified-adults",
+    "title": "サム・アルトマンが年齢確認済みの成人向けにChatGPTでの性的コンテンツ生成を解禁すると表明した",
+    "people": [
+      "サム・アルトマン"
     ],
     "organizations": []
   },
@@ -7760,6 +8181,15 @@
   },
   {
     "date": "2025-10-27",
+    "slug": "openai-sora2-coda-opt-out-copyright",
+    "title": "OpenAIがSora 2を権利者のオプトアウト方式で公開し日本のコンテンツ業界団体CODAから無許諾学習の停止を求められた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2025-10-27",
     "slug": "takaichi-non-nuclear-principles-obstacle",
     "title": "高市早苗が「非核三原則は邪魔」と発言した",
     "people": [
@@ -7784,6 +8214,15 @@
       "イーロン・マスク"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-10-28",
+    "slug": "openai-for-profit-recapitalization",
+    "title": "OpenAIが非営利法人の支配下にある営利企業への組織再編を完了した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2025-10-28",
@@ -7852,6 +8291,15 @@
     ]
   },
   {
+    "date": "2025-11-06",
+    "slug": "openai-seven-lawsuits-chatgpt-suicide-delusions",
+    "title": "OpenAIがGPT-4oの迎合性への社内警告を無視して早期公開し自殺や妄想を招いたとして7件の訴訟を起こされた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2025-11-07",
     "slug": "takaichi-taiwan-contingency",
     "title": "高市早苗が台湾有事は存立危機事態になり得ると発言した",
@@ -7877,6 +8325,15 @@
       "小泉進次郎"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-11-13",
+    "slug": "anthropic-chinese-state-hackers-claim-doubted",
+    "title": "Anthropicが中国の国家支援ハッカーがClaude Codeで自律的なサイバー攻撃を行ったと発表し技術的な証拠を示さず批判された",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
   },
   {
     "date": "2025-11-22",
@@ -7907,6 +8364,15 @@
   },
   {
     "date": "2025-11-26",
+    "slug": "openai-mixpanel-vendor-breach",
+    "title": "OpenAIが利用していた分析業者Mixpanelへの侵入でAPI利用者の氏名やメールアドレスが流出した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2025-11-26",
     "slug": "takaichi-than-that-lets-cut-seats-remark",
     "title": "高市早苗が「そんなことより定数削減」と発言した",
     "people": [
@@ -7930,6 +8396,15 @@
     "people": [],
     "organizations": [
       "神奈川新聞"
+    ]
+  },
+  {
+    "date": "2025-12",
+    "slug": "niantic-spatial-pokemon-go-scans-military-positioning",
+    "title": "Niantic SpatialがPokémon Goプレイヤーのスキャン画像で学習したAIモデルを軍用ドローンにも使える測位システムとして開発した",
+    "people": [],
+    "organizations": [
+      "Niantic Spatial"
     ]
   },
   {
@@ -8035,7 +8510,7 @@
   {
     "date": "2025-12-18",
     "slug": "yoshimura-seat-reduction-bill-shelved-leadership-failure",
-    "title": "吉村洋文代表が定数削減法案の説得を怠り臨時国会で見送りに終わった",
+    "title": "吉村洋文が野党代表と直接協議しないまま定数削減法案が臨時国会で見送られた",
     "people": [
       "吉村洋文"
     ],
@@ -8081,7 +8556,7 @@
   {
     "date": "2026-01",
     "slug": "ishin-insurance-evasion-scheme-revealed",
-    "title": "維新議員による脱法的スキームで国民健康保険料の回避が発覚し、364人が国民健康保険ではなく社会保険に加入していた",
+    "title": "維新の議員らが一般社団法人の理事に就任して国保逃れをしていたと大阪府議会で指摘された",
     "people": [
       "吉村洋文"
     ],
@@ -8212,7 +8687,7 @@
   {
     "date": "2026-01-08",
     "slug": "xai-grok-deepfake-paywall-class-action",
-    "title": "xAIがGrokの非同意性的ディープフェイク機能を有料会員限定化し削除ではなく差別化と集団訴訟に発展した",
+    "title": "xAIがGrokの非同意性的ディープフェイク機能を削除せず有料会員限定にし集団訴訟を起こされた",
     "people": [
       "イーロン・マスク"
     ],
@@ -8241,7 +8716,7 @@
   {
     "date": "2026-01-19",
     "slug": "takaichi-anti-espionage-law-push",
-    "title": "高市早苗がスパイ防止法の制定を急ぐ",
+    "title": "高市早苗が施政方針演説でスパイ防止法の早期制定を掲げた",
     "people": [
       "高市早苗"
     ],
@@ -8396,6 +8871,15 @@
     ]
   },
   {
+    "date": "2026-02",
+    "slug": "takebe-arata-2026-asahi-todai-survey-same-sex-marriage-separate-surnames",
+    "title": "武部新（自民）が2026年衆院選の朝日・東大調査で同性婚の法制化に「反対」、選択的夫婦別姓の法制化に「どちらかと言えば反対」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-02-01",
     "slug": "takaichi-debate-no-show",
     "title": "高市早苗が党首討論を当日ドタキャンした",
@@ -8509,6 +8993,15 @@
     ]
   },
   {
+    "date": "2026-02-20",
+    "slug": "openai-tumbler-ridge-shooter-account-not-reported-to-police",
+    "title": "OpenAIが銃乱射事件の8か月前に容疑者のChatGPTアカウントを暴力関連で検知・停止しながら警察に通報しなかった",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2026-02-23",
     "slug": "takaichi-column-deletion",
     "title": "高市早苗が自身のHPコラムを突然全削除した",
@@ -8534,6 +9027,24 @@
     "organizations": [
       "Anthropic"
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "slug": "mext-national-museums-self-revenue-target-price-hike",
+    "title": "文部科学省が国立美術館に展示事業の自己収入目標を課し常設展の入館料が最大3倍超に値上げされることになった",
+    "people": [],
+    "organizations": [
+      "文部科学省"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "slug": "altman-openai-pentagon-classified-deal",
+    "title": "サム・アルトマンがAnthropicの政府調達排除の直後に国防総省と機密ネットワークでのAI利用契約を結んだ",
+    "people": [
+      "サム・アルトマン"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-03",
@@ -8647,6 +9158,15 @@
       "高市早苗"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-03-16",
+    "slug": "britannica-merriam-webster-sue-openai",
+    "title": "OpenAIがブリタニカとメリアム・ウェブスターの記事約10万本を無断でAI学習に利用したとして提訴された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2026-03-16",
@@ -8797,6 +9317,15 @@
       "高市早苗"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-03-31",
+    "slug": "anthropic-claude-code-source-leak-npm",
+    "title": "AnthropicがClaude Codeの全ソースコードを含むファイルを誤ってnpmで公開しミラーをDMCA通知で削除させた",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
   },
   {
     "date": "2026-03-31",
@@ -8989,6 +9518,15 @@
     "organizations": []
   },
   {
+    "date": "2026-05-05",
+    "slug": "musk-accused-posting-as-father-from-mother-maye-x-account",
+    "title": "イーロン・マスクが母メイ・マスクのXアカウントで父エロール・マスクの立場から投稿したのではないかと指摘された",
+    "people": [
+      "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-05-09",
     "slug": "ishimaru-tv-producer-confrontation",
     "title": "石丸伸二がテレビ番組で担当プロデューサーを名指しで威圧的に批判した",
@@ -9016,6 +9554,15 @@
     ],
     "organizations": [
       "自由民主党"
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "slug": "openai-tanstack-supply-chain-attack",
+    "title": "OpenAIがTanStackのサプライチェーン攻撃で従業員端末を侵害されアプリのコード署名証明書が流出した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
     ]
   },
   {
@@ -9129,7 +9676,7 @@
   {
     "date": "2026-06-01",
     "slug": "iwaya-flag-damage-law-walkout",
-    "title": "「国旗損壊罪」了承前に岩屋毅が退席した",
+    "title": "岩屋毅が自民党部会の国旗損壊罪了承前に退席し懸念を示した",
     "people": [
       "岩屋毅"
     ],
@@ -9292,6 +9839,15 @@
     "organizations": []
   },
   {
+    "date": "2026-06-14",
+    "slug": "kahn-v-anthropic-claude-max-usage-claims",
+    "title": "AnthropicがClaude Maxを「Proの5倍・20倍」と宣伝しながら実際の利用量は大きく下回るとして提訴された",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
     "date": "2026-06-15",
     "slug": "kashima-yusuke-hanging-effigy-hoax",
     "title": "鹿嶋祐介（自民）が杉並の抗議活動を「縛り首人形」とデマ拡散した",
@@ -9398,7 +9954,7 @@
   {
     "date": "2026-06-22",
     "slug": "jimin-takaichi-diet-answer-correction-explanation-document",
-    "title": "自民が高市早苗の中傷動画疑惑答弁訂正の経緯説明文書を参院予算委理事会に提出した",
+    "title": "自民が高市早苗の答弁訂正の経緯について首相本人の説明を拒み文書の提出にとどめた",
     "people": [
       "高市早苗"
     ],
@@ -9629,6 +10185,15 @@
   },
   {
     "date": "2026-07-01",
+    "slug": "anthropic-claude-service-degradation-class-action",
+    "title": "AnthropicがClaudeのピーク時間帯の利用上限消費を速める変更を行い返金なしに有料会員から集団訴訟を起こされた",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
+    "date": "2026-07-01",
     "slug": "anthropic-web-crawl-referral-ratio-2800to1",
     "title": "Anthropicのボットが他社比で突出して多くのWebサイトをクロールしながらリファラルをほとんど還元していない",
     "people": [],
@@ -9666,7 +10231,7 @@
   {
     "date": "2026-07-02",
     "slug": "yoshimura-opposition-bonus-hypocrisy-remark",
-    "title": "吉村洋文が野党議員のボーナスを「年収いくら」と皮肉り国会空転の矛盾を指摘された",
+    "title": "吉村洋文が審議拒否中の野党議員のボーナス満額受給を「年収いくら？」と皮肉り維新も国会空転の当事者だと批判された",
     "people": [
       "吉村洋文"
     ],
@@ -9861,6 +10426,15 @@
       "横山英幸"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-07-10",
+    "slug": "apple-sues-openai-trade-secrets",
+    "title": "OpenAIがApple元社員を通じてハードウェアの営業秘密を盗んだとしてAppleに提訴された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2026-07-10",
@@ -10135,6 +10709,15 @@
   },
   {
     "date": "2026-07-17",
+    "slug": "openai-gpt56-sol-codex-deleted-user-files",
+    "title": "OpenAIのGPT-5.6 SolがCodexで利用者のホームディレクトリのファイルを削除した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2026-07-17",
     "slug": "takaichi-nara-supporters-group-unregistered-donation",
     "title": "高市早苗を支援する奈良の会が無届のまま政治団体から寄付を受け取っていた",
     "people": [
@@ -10222,6 +10805,15 @@
       "高市早苗"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-07-21",
+    "slug": "openai-models-hacked-hugging-face-during-evaluation",
+    "title": "OpenAIのAIモデルがサイバー能力評価中に隔離環境を脱出しHugging Faceのシステムに不正侵入した",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2026-07-21",
@@ -10628,6 +11220,17 @@
     ]
   },
   {
+    "date": "2026-08-28",
+    "slug": "anthropic-v-department-of-war-supply-chain-risk",
+    "title": "Anthropicが国防総省によるサプライチェーンリスク指定を違法な報復として提訴し連邦地裁は報復と認めたが控訴裁は指定を支持した",
+    "people": [
+      "ドナルド・トランプ"
+    ],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
     "date": "2026-09-01",
     "slug": "koike-kanto-earthquake-memorial-refusal-2026",
     "title": "小池百合子が2026年の関東大震災朝鮮人犠牲者追悼式に追悼文を送らなかった",
@@ -10659,6 +11262,24 @@
     ]
   },
   {
+    "date": "2026-09-14",
+    "slug": "anthropic-confirms-human-review-for-model-improvement",
+    "title": "Anthropicがモデル改善のため人間によるレビューを行っていると404 Mediaに認めた",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "slug": "openai-project-lily-contractors-read-chatgpt-prompts",
+    "title": "OpenAIが「Project Lily」で外部契約作業者に実際のChatGPTユーザーの会話を読ませていた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
     "date": "2026-09-17",
     "slug": "takaichi-sanae-appoints-uragane-ministers",
     "title": "高市早苗が内閣改造で裏金事件で処分を受けた簗和生と関芳弘を初入閣させた",
@@ -10670,6 +11291,17 @@
     "organizations": []
   },
   {
+    "date": "2026-09-19",
+    "slug": "ai-slowdown-antitrust-lawsuit",
+    "title": "ダリオ・アモデイがAI開発の業界一斉減速を呼びかけ賛同したAnthropicなど4社が独禁法違反で提訴された",
+    "people": [
+      "ダリオ・アモデイ",
+      "サム・アルトマン",
+      "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-09-22",
     "slug": "takaichi-sanae-my-leadership-okage",
     "title": "高市早苗がトランプとの会談で日米の経済安全保障協力の進展を「ドナルドと私のリーダーシップのおかげ」と自賛した",
@@ -10677,6 +11309,33 @@
       "高市早苗"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-09-23",
+    "slug": "openai-agent-breached-australia-medicare-portal",
+    "title": "OpenAIのAIエージェントが評価中にオーストラリア政府のMedicare統計システムに不正アクセスし同社は政府への通知を3か月近く遅らせた",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "slug": "transluce-openai-agent-swarm-intrusion-attempts",
+    "title": "OpenAIのAIエージェント群がニューメキシコ大学やData USAなどのデータベースへの侵入を試みていたとTransluceに報告された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "slug": "anthropic-reports-claude-user-threat-lee-county-sheriff",
+    "title": "AnthropicがClaudeとの会話で保安官事務所への銃撃を示唆したフロリダ州の女性を警察に通報し女性が逮捕された",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
   },
   {
     "date": "2026-09-30",
@@ -10709,6 +11368,15 @@
   },
   {
     "date": "2026-10-01",
+    "slug": "koja-genta-henoko-materials-removed",
+    "title": "古謝玄太が沖縄県知事就任直後に辺野古新基地建設問題対策課を廃止し県の米軍基地Q&Aから辺野古問題の解説を削除した",
+    "people": [
+      "古謝玄太"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-01",
     "slug": "takaichi-sanae-tax-cut-reflected-in-prices",
     "title": "高市早苗が食料品の消費税引き下げ分は「基本的に価格に反映される」と根拠を示さず述べた",
     "people": [
@@ -10726,6 +11394,17 @@
     "organizations": [
       "自由民主党"
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "slug": "takaichi-sanae-g7-online-summit-absence",
+    "title": "高市早苗が麻生太郎らとの公邸での会食後にG7首脳オンライン会議を欠席し、国会で「ディスプレーの業者が間に合わなかった」と答弁した",
+    "people": [
+      "高市早苗",
+      "茂木敏充",
+      "麻生太郎"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-10-02",
@@ -10783,6 +11462,15 @@
   },
   {
     "date": "2026-10-06",
+    "slug": "canadian-publishers-sue-anthropic",
+    "title": "AnthropicがカナダのGlobe and Mail・Toronto Star等の記事を無断でAI学習に利用したとして新聞社連合に提訴された",
+    "people": [],
+    "organizations": [
+      "Anthropic"
+    ]
+  },
+  {
+    "date": "2026-10-06",
     "slug": "furukawa-toshiharu-jibun-no-joho-wa-jibun-de-mamotte",
     "title": "古川俊治（自民）デジタル相が民間企業の個人情報流出頻発を受け「自分の情報は自分で守って」と国民に呼び掛けた",
     "people": [
@@ -10820,6 +11508,15 @@
   },
   {
     "date": "2026-10-08",
+    "slug": "mobicom-numrug-nature-reserve-fire",
+    "title": "越智康博（モビコムCEO）らKDDIグループ幹部が車で立ち入ったモンゴルのヌムルグ自然保護区で車両から出火し保護区の約8割が焼失した",
+    "people": [
+      "越智康博"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-08",
     "slug": "takaichi-yana-kazuo-no-dismissal",
     "title": "高市早苗が予算カット発言の簗和生農相を「厳しく注意」にとどめ更迭を否定した",
     "people": [
@@ -10827,6 +11524,15 @@
       "簗和生"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-10-08",
+    "slug": "usa-today-sues-openai-copyright",
+    "title": "OpenAIがUSA Today傘下19紙の記事を無断でAI学習に利用したとして2億5000万ドル超の賠償を求め提訴された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2026-10-09",
@@ -10850,6 +11556,44 @@
   },
   {
     "date": "2026-10-14",
+    "slug": "elon-musk-starlink-limits-decided-by-potus-post",
+    "title": "イーロン・マスクがウクライナ軍向けスターリンクの速度制限は米軍と大統領が決めるとXに投稿したが国務長官らは要請や指示を否定した",
+    "people": [
+      "イーロン・マスク",
+      "ドナルド・トランプ"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-14",
+    "slug": "elon-musk-starlink-ukraine-throttling",
+    "title": "イーロン・マスクがウクライナ軍の使う軍用版スターリンクの速度制限を指示しドローンを事実上使用不能にした",
+    "people": [
+      "イーロン・マスク",
+      "ドナルド・トランプ"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-14",
+    "slug": "openai-sued-by-eight-states-child-safety",
+    "title": "OpenAIがChatGPTが子どもに害を与え保護者を欺いているとして米8州に提訴された",
+    "people": [],
+    "organizations": [
+      "OpenAI"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "slug": "takaichi-sanae-three-four-hours-more-than-male-pm",
+    "title": "高市早苗が国会改革をめぐる答弁で入浴・朝食の支度・化粧などで「男性の総理大臣よりは3、4時間、余分に時間を使っている」と述べた",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-14",
     "slug": "yana-kazuo-resignation-takaichi-appointment-responsibility",
     "title": "簗和生（自民）が農水相を辞任し、高市早苗が任命責任を「重く受け止める」と述べた",
     "people": [
@@ -10857,5 +11601,97 @@
       "高市早苗"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-10-14",
+    "slug": "yoshimura-hirofumi-angola-expo-unpaid-relief",
+    "title": "吉村洋文がアンゴラ政府による万博工事未払い被害者への救済を「いいことだ」と述べつつ大阪府・万博協会による立て替えは法的根拠がないとして否定した",
+    "people": [
+      "吉村洋文"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-16",
+    "slug": "nakatsukasa-hiroshi-secret-recording-false-testimony-slush-funds",
+    "title": "中司宏（維新）が談合事件の共謀者との会話で裁判での虚偽陳述と枚方市長時代の裏金受領を認める音声が報じられた",
+    "people": [
+      "中司宏"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-16",
+    "slug": "tiktok-musk-documentary-ad-account-suspended",
+    "title": "TikTokがイーロン・マスクのドキュメンタリー映画「Musk」の公開日に「政治的コンテンツ」を理由に配給会社の広告出稿を停止した",
+    "people": [],
+    "organizations": [
+      "TikTok"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "slug": "takaichi-sanae-koizumi-prime-minister-slip",
+    "title": "高市早苗が熊本地震の被災地支援をめぐる参院予算委の答弁で小泉進次郎防衛相を「小泉総理」と呼び「まだ早いですね」と述べた",
+    "people": [
+      "高市早苗",
+      "小泉進次郎",
+      "奥田芙美代"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-19",
+    "slug": "takaichi-sanae-refuses-budget-inquiry-records",
+    "title": "高市早苗が予算配分をめぐる全省庁調査と国会議員からの問い合わせ記録の義務付けを拒否した",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-19",
+    "slug": "us-forces-kawakami-ammunition-depot-pfas",
+    "title": "在日米軍が川上弾薬庫でPFASを含む泡消火剤の使用を認めつつ周辺住民の高濃度汚染との関連を認めていない",
+    "people": [],
+    "organizations": [
+      "在日米軍"
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "slug": "mofa-mongolia-55th-anniversary-logo-post-after-fire",
+    "title": "外務省がモンゴルの自然保護区での日系企業幹部の車による大規模火災に触れないまま日モンゴル外交関係樹立55周年のロゴ募集をXで呼び掛けた",
+    "people": [],
+    "organizations": [
+      "外務省"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "slug": "meta-muse-shared-chats-exposed-passive-dns",
+    "title": "MetaのAIエージェントMuseで共有した会話のURLがパッシブDNSから第三者に発見可能な状態になっていた",
+    "people": [],
+    "organizations": [
+      "Meta"
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "slug": "fujibayashi-ami-party-commu-idol-illustration",
+    "title": "藤林あみ（共産）が日本共産党を応援する女性アイドルユニット「Party Commu！」のイラストを発表し生成AI使用の疑いや党の方針との矛盾を指摘された",
+    "people": [
+      "藤林あみ"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-22",
+    "slug": "kanagawa-police-expired-license-photo-collection",
+    "title": "神奈川県警が更新時に回収した失効運転免許証を警備部門の顔写真収集に30年以上不正流用していた疑いが発覚した",
+    "people": [],
+    "organizations": [
+      "神奈川県警"
+    ]
   }
 ]
