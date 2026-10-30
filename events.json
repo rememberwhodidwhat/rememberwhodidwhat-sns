@@ -2271,6 +2271,15 @@
     "organizations": []
   },
   {
+    "date": "2020-07",
+    "slug": "nikai-toshihiro-goto-travel-donations",
+    "title": "二階俊博がGoToトラベル事業の受託団体側から献金を受けながら事業の早期実施を推進した",
+    "people": [
+      "二階俊博"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2020-07-09",
     "slug": "umemura-mizuho-shinjuku-mimaikin-yaya",
     "title": "梅村みずほ（維新）が新宿区のコロナ見舞金支給を若者がわざと感染するかのように揶揄した",
@@ -2458,6 +2467,26 @@
     "organizations": []
   },
   {
+    "date": "2021-01-13",
+    "slug": "suga-yoshihide-business-travel-continued",
+    "title": "菅義偉が変異株の国内確認後もビジネス関係者の入国を例外として継続した",
+    "people": [
+      "菅義偉"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-01-18",
+    "slug": "matsumoto-jun-ginza-club-emergency",
+    "title": "松本純・大塚高司・田野瀬太道が緊急事態宣言下に銀座のクラブを訪れ松本純が「一人で行った」と虚偽の説明をした",
+    "people": [
+      "松本純",
+      "大塚高司",
+      "田野瀬太道"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2021-01-27",
     "slug": "takaichi-flag-desecration-defeated-nation-claim-false",
     "title": "高市早苗が国旗損壊罪不在の理由を「敗戦国だから」と誤って説明し記述を削除した",
@@ -2506,11 +2535,29 @@
     "organizations": []
   },
   {
+    "date": "2021-02-03",
+    "slug": "mori-yoshiro-women-meetings-remark",
+    "title": "森喜朗が「女性がたくさん入っている理事会の会議は時間がかかる」と発言した",
+    "people": [
+      "森喜朗"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2021-02-04",
     "slug": "mitsumoto-keisuke-demon-slayer-poster-apology",
     "title": "光本圭佑（維新）が鬼滅の刃に酷似した政治ポスターを作成し批判を受け謝罪・差し替えた",
     "people": [
       "光本圭佑"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-02-10",
+    "slug": "shirasuka-takaki-lounge-emergency",
+    "title": "白須賀貴樹（自民）が緊急事態宣言下に女性と高級ラウンジを訪れた",
+    "people": [
+      "白須賀貴樹"
     ],
     "organizations": []
   },
@@ -2579,11 +2626,30 @@
     "organizations": []
   },
   {
+    "date": "2021-03-10",
+    "slug": "noda-takaichi-ntt-dinners",
+    "title": "野田聖子と高市早苗が総務相在任中にNTT社長らと会食していたと報じられた",
+    "people": [
+      "野田聖子",
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2021-03-17",
     "slug": "sasagawa-osamu-furitsu-koko-100ko",
     "title": "笹川理（維新）が府立高校を154校から100校に減らし公設民営化を進める再編案を府議会で提案した",
     "people": [
       "笹川理"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-03-17",
+    "slug": "takeda-ryota-ntt-dinner",
+    "title": "武田良太が総務相在任中にNTT社長らとの会食に同席しながら国会で「国民の疑念を招くような会食に応じることはない」と繰り返していた",
+    "people": [
+      "武田良太"
     ],
     "organizations": []
   },
@@ -2700,6 +2766,15 @@
     "organizations": []
   },
   {
+    "date": "2021-05-13",
+    "slug": "mihara-junko-late-health-committee",
+    "title": "三原じゅん子が厚生労働副大臣として参院厚生労働委員会に約30分遅刻し法案採決が見送られた",
+    "people": [
+      "三原じゅん子"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2021-05-18",
     "slug": "immigration-law-amendment-2021-shelved",
     "title": "法務省が名古屋入管の死亡事案への野党反発を受け入管法改正案の成立を断念した",
@@ -2719,10 +2794,28 @@
   },
   {
     "date": "2021-05-20",
+    "slug": "nakayama-yasuhide-late-diplomacy-committee",
+    "title": "中山泰秀が防衛副大臣として参院外交防衛委員会の質疑に2分遅刻し委員会が流会した",
+    "people": [
+      "中山泰秀"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-05-20",
     "slug": "yana-kazuo-lgbt-shu-no-hozon",
     "title": "簗和生がLGBTは「生物学上、種の保存に背く」と自民党会合で発言した",
     "people": [
       "簗和生"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-06",
+    "slug": "hirai-takuya-nec-threat-favoritism",
+    "title": "平井卓也がNECを「脅しておいた方がいい」と職員に指示しデジタル庁発注事業への親密企業の参加を求めた",
+    "people": [
+      "平井卓也"
     ],
     "organizations": []
   },
@@ -2732,6 +2825,15 @@
     "title": "福岡憲宏（維新）がコロナ自粛期間中に人妻と密会し香芝市議会で説明を拒否した",
     "people": [
       "福岡憲宏"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-06-18",
+    "slug": "kawai-katsuyuki-vote-buying-conviction",
+    "title": "河井克行が参院選買収事件で懲役3年の実刑判決を受けた",
+    "people": [
+      "河井克行"
     ],
     "organizations": []
   },
@@ -2771,6 +2873,16 @@
     "title": "南出賢一（泉大津市長）が接種券に「ワクチンは感染予防効果を期待できるものではない」とする誤情報を同封した",
     "people": [
       "南出賢一"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-07-08",
+    "slug": "nishimura-yasutoshi-bank-pressure-restaurants",
+    "title": "西村康稔が酒類提供を続ける飲食店に金融機関から提供停止を働きかけさせる方針を示し翌日撤回された",
+    "people": [
+      "西村康稔",
+      "菅義偉"
     ],
     "organizations": []
   },
@@ -3099,6 +3211,15 @@
     "organizations": []
   },
   {
+    "date": "2022-02",
+    "slug": "noda-seiko-husband-former-yakuza-ruling",
+    "title": "野田聖子が夫を元暴力団員とする報道を否定し続け裁判で報道の真実相当性が認められた後も説明を避けた",
+    "people": [
+      "野田聖子"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-02-06",
     "slug": "tanimoto-seiichi-mask-refusal-flight-conspiracy",
     "title": "谷本誠一（呉市議）が機内でマスク着用を拒否して降機させられ、コロナは「闇の組織による陰謀」と語った",
@@ -3201,6 +3322,15 @@
     "organizations": []
   },
   {
+    "date": "2022-05",
+    "slug": "hosoda-hiroyuki-sexual-harassment-allegation",
+    "title": "細田博之が女性記者らへのセクハラ疑惑を報じられ事実無根と主張しつつ説明を拒んだ",
+    "people": [
+      "細田博之"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-05-01",
     "slug": "shimizu-takayuki-undisclosed-party-donation",
     "title": "清水貴之の政治団体が維新国会議員団からの寄付計300万円を収支報告書に記載していなかった",
@@ -3228,11 +3358,29 @@
     "organizations": []
   },
   {
+    "date": "2022-05-26",
+    "slug": "yoshikawa-takamori-egg-bribery-conviction",
+    "title": "吉川貴盛（自民）が農水相在任中に鶏卵業者から500万円を受け取ったとして収賄罪で有罪判決を受けた",
+    "people": [
+      "吉川貴盛"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-06",
     "slug": "ishimaru-shame-remark-takeoka-harassment-deaths",
     "title": "石丸伸二の「恥を知れ」発言を機に武岡隆文市議への誹謗中傷が過熱し武岡氏と妻が死去した",
     "people": [
       "石丸伸二"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-06-03",
+    "slug": "nishimura-yasutoshi-bijin-zukan",
+    "title": "西村康稔が自身のHPに無断撮影を含む女性の写真を「世界各国美人図鑑」として掲載していた",
+    "people": [
+      "西村康稔"
     ],
     "organizations": []
   },
@@ -3439,6 +3587,15 @@
     "organizations": []
   },
   {
+    "date": "2022-10",
+    "slug": "okada-naoki-poster-board-fees",
+    "title": "岡田直樹の党支部が選挙区内の有権者に「広報掲示板維持管理料」を支払っていた",
+    "people": [
+      "岡田直樹"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-10-06",
     "slug": "matsuo-shota-seimuhi-fusei",
     "title": "松尾翔太（維新）が吹田市議として会派の政務活動費口座から13回にわたって不適切な出入金を繰り返しけじめとして議員辞職した",
@@ -3557,6 +3714,24 @@
     "organizations": []
   },
   {
+    "date": "2022-11-20",
+    "slug": "terada-minoru-dismissed-political-funds",
+    "title": "寺田稔（自民）が政治資金を巡る問題の相次ぐ発覚で総務相を更迭された",
+    "people": [
+      "寺田稔"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-11-24",
+    "slug": "kishida-fumio-blank-receipts",
+    "title": "岸田文雄が衆院選の選挙運動費用収支報告書に宛名や但し書きのない領収書94枚を添付していた",
+    "people": [
+      "岸田文雄"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-11-26",
     "slug": "tamaki-yuichiro-chi-wo-nagasu-kakugo",
     "title": "玉木雄一郎が「安全保障の議論はいついかなる時に日本国民は血を流す覚悟ができるかだ」と発言した",
@@ -3567,11 +3742,38 @@
     "organizations": []
   },
   {
+    "date": "2022-11-28",
+    "slug": "maruyama-daisuke-wife-murder-arrest",
+    "title": "丸山大輔（長野県議）が妻を殺害したとして殺人容疑で逮捕された",
+    "people": [
+      "丸山大輔"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-12",
+    "slug": "sonoura-kentaro-underreported-party-income",
+    "title": "薗浦健太郎（自民）がパーティー収入約4000万円を政治資金収支報告書に過少記載したとして略式起訴され議員辞職した",
+    "people": [
+      "薗浦健太郎"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-12-02",
     "slug": "musk-twitter-files-hunter-biden-release",
     "title": "マスクがTwitter Filesを公開し検閲の証拠を誇示したが本人が選んだ記者にも否定された",
     "people": [
       "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-12-02",
+    "slug": "sugita-mio-partial-retraction-dismissal",
+    "title": "杉田水脈が総務政務官として過去の差別発言の一部のみを撤回し差別とは認めないまま更迭された",
+    "people": [
+      "杉田水脈"
     ],
     "organizations": []
   },
@@ -4349,6 +4551,15 @@
     "organizations": []
   },
   {
+    "date": "2023-09-27",
+    "slug": "akimoto-masatoshi-offshore-wind-bribery",
+    "title": "秋本真利（自民）が洋上風力発電事業を巡り約7286万円の賄賂を受け取ったとして受託収賄罪で起訴された",
+    "people": [
+      "秋本真利"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2023-09-28",
     "slug": "tesla-eeoc-fremont-racial-harassment-lawsuit",
     "title": "EEOCがテスラ・フリーモント工場の黒人従業員への人種差別を容認したとして提訴した",
@@ -4531,6 +4742,15 @@
     "title": "音喜多駿（維新）がサウナのSNS投稿で陰部が映り込み謝罪した",
     "people": [
       "音喜多駿"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-10-26",
+    "slug": "yamada-taro-affair-resignation",
+    "title": "山田太郎（自民）が20代女性との不倫を報じられ文部科学政務官を辞任した",
+    "people": [
+      "山田太郎"
     ],
     "organizations": []
   },
@@ -5970,6 +6190,15 @@
     "organizations": []
   },
   {
+    "date": "2024-03-14",
+    "slug": "kakizawa-mito-koto-vote-buying-conviction",
+    "title": "柿沢未途（自民）が江東区長選で区議らを買収したとして有罪判決を受けた",
+    "people": [
+      "柿沢未途"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2024-03-15",
     "slug": "ishigaki-noriko-apple-snail-diet-question-2024",
     "title": "石垣のり子（立憲）がジャンボタニシの特定外来生物指定を求める質問主意書を提出した",
@@ -6126,6 +6355,15 @@
     "people": [
       "石井章",
       "馬場伸幸"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-04-23",
+    "slug": "miyazawa-hiroyuki-papakatsu-resignation",
+    "title": "宮沢博行（自民）が緊急事態宣言下に金銭援助を伴って28歳女性と同棲していたと報じられ議員辞職した",
+    "people": [
+      "宮沢博行"
     ],
     "organizations": []
   },
@@ -6528,6 +6766,33 @@
     "title": "上島一彦（維新）が北大阪急行延伸を自身の実績として宣伝し前市長の功績を横取りした",
     "people": [
       "上島一彦"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-08-26",
+    "slug": "takaichi-sanae-excess-corporate-donation",
+    "title": "高市早苗の党支部が企業から政治資金規正法の上限を超える1000万円の寄付を受けていた",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-08-29",
+    "slug": "horii-manabu-condolence-money-summary-indictment",
+    "title": "堀井学（自民）が選挙区内の有権者に香典を配ったとして公職選挙法違反で略式起訴された",
+    "people": [
+      "堀井学"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-08-30",
+    "slug": "hirose-megumi-secretary-salary-fraud",
+    "title": "広瀬めぐみ（自民）が勤務実態のない公設秘書の給与約358万円を国からだまし取ったとして詐欺罪で在宅起訴された",
+    "people": [
+      "広瀬めぐみ"
     ],
     "organizations": []
   },
@@ -7317,6 +7582,15 @@
     ]
   },
   {
+    "date": "2025-04-28",
+    "slug": "kajimura-mitsuru-assault-arrest",
+    "title": "梶村充（横浜市議）がキャバクラで女性従業員を蹴ったとして傷害容疑で現行犯逮捕された",
+    "people": [
+      "梶村充"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-04-29",
     "slug": "openai-gpt4o-sycophancy-update-rollback",
     "title": "OpenAIがGPT-4oを過度に迎合的にするアップデートを配信し数日で撤回した",
@@ -7480,6 +7754,15 @@
     "title": "安野貴博が喘息治療薬の保険適用除外を提案し批判を受け謝罪した",
     "people": [
       "安野貴博"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-06-19",
+    "slug": "aizawa-takafumi-kiryu-bid-rigging-arrest",
+    "title": "相沢崇文（群馬県議）が桐生市新庁舎建設工事の入札を巡り公競売入札妨害容疑で逮捕された",
+    "people": [
+      "相沢崇文"
     ],
     "organizations": []
   },
@@ -8477,6 +8760,33 @@
     "title": "小泉進次郎防衛相が中国軍機レーダー照射事案で「通告なし」から一夜にして説明を訂正した",
     "people": [
       "小泉進次郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-12-13",
+    "slug": "kawasaki-hideto-unreported-donation-2024",
+    "title": "川崎秀人（自民）の党支部が日本保険薬局政治連盟からの寄付50万円を政治資金収支報告書に記載していなかった",
+    "people": [
+      "川崎秀人"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-12-13",
+    "slug": "kobayashi-takayuki-unreported-donation-2024",
+    "title": "小林鷹之の党支部が日本医師連盟からの寄付30万円を政治資金収支報告書に記載していなかった",
+    "people": [
+      "小林鷹之"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-12-13",
+    "slug": "matsushima-midori-unreported-donation-2024",
+    "title": "松島みどり（自民）の党支部が衆院選公示日に受けた寄付計30万円を政治資金収支報告書に記載していなかった",
+    "people": [
+      "松島みどり"
     ],
     "organizations": []
   },
@@ -11408,7 +11718,7 @@
   {
     "date": "2026-10-02",
     "slug": "takaichi-sanae-g7-online-summit-absence",
-    "title": "高市早苗が麻生太郎らとの公邸での会食後にG7首脳オンライン会議を欠席し、国会で「ディスプレーの業者が間に合わなかった」と答弁した",
+    "title": "高市早苗が麻生太郎ら自民党幹部と公邸で会食した後にG7首脳オンライン会議を欠席し外務審議官を代理出席させた",
     "people": [
       "高市早苗",
       "茂木敏充",
@@ -11451,6 +11761,16 @@
     "organizations": [
       "在日米軍"
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "slug": "takaichi-sanae-g7-online-summit-absence-france-short-notice-post",
+    "title": "高市早苗がG7首脳オンライン会議の欠席を「議長国フランスが当日直前に急遽設定した」とTwitterで釈明し仏大統領府が「数日前に案内した」と反論した",
+    "people": [
+      "高市早苗",
+      "木原稔"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-10-05",
@@ -11556,6 +11876,15 @@
     ]
   },
   {
+    "date": "2026-10-09",
+    "slug": "seki-yoshihiro-diet-building-fundraiser",
+    "title": "関芳弘（自民）が衆院議員会館内で禁止されている政治資金パーティーを開催していた",
+    "people": [
+      "関芳弘"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-10-13",
     "slug": "gsdf-local-intelligence-unit-reports-not-public-documents",
     "title": "陸自の現地情報隊が協力者情報の報告書を情報公開請求の対象とならないよう公文書として扱っていなかった",
@@ -11623,10 +11952,28 @@
   },
   {
     "date": "2026-10-16",
+    "slug": "abe-hiroki-political-funds-to-self",
+    "title": "阿部弘樹（自民、以前に維新所属）が代表だった党支部が本人への車両レンタル代や親族の神社への家賃など政治資金を自身と身内に支出していた",
+    "people": [
+      "阿部弘樹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-16",
     "slug": "nakatsukasa-hiroshi-secret-recording-false-testimony-slush-funds",
     "title": "中司宏（維新）が談合事件の共謀者との会話で裁判での虚偽陳述と枚方市長時代の裏金受領を認める音声が報じられた",
     "people": [
       "中司宏"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-16",
+    "slug": "takaichi-sanae-g7-online-summit-absence-display-vendor-answer",
+    "title": "高市早苗がG7首脳オンライン会議の欠席理由を参院予算委で「ディスプレーの業者が間に合わなかった」と答弁し、直前の会食は「会議の出欠と関係ない」と述べた",
+    "people": [
+      "高市早苗"
     ],
     "organizations": []
   },
@@ -11702,6 +12049,35 @@
     "people": [],
     "organizations": [
       "神奈川県警"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "slug": "motegi-toshimitsu-g7-online-summit-absence-one-remark-answer",
+    "title": "茂木敏充が高市早苗のG7欠席を「発言は1回きり」と外務省判断で正当化し、首相答弁との矛盾を問われ「ディスプレイの問題まで承知しておりません」と述べた",
+    "people": [
+      "茂木敏充"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-28",
+    "slug": "takebe-arata-double-booked-election-expenses",
+    "title": "武部新（自民）が2014年と2017年の衆院選の支出計約3000万円を選挙運動費用収支報告書と後援会の政治資金収支報告書に二重計上していた",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-29",
+    "slug": "haraguchi-kazuhiro-meiji-seika-defamation-ruling",
+    "title": "原口一博（元総務相）がレプリコンワクチンを「生物兵器」と呼んだ発信を名誉毀損と認定され東京地裁に220万円の賠償を命じられた",
+    "people": [
+      "原口一博"
+    ],
+    "organizations": [
+      "Meiji Seikaファルマ"
     ]
   }
 ]
