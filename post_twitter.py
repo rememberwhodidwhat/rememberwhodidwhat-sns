@@ -22,6 +22,7 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 import urllib.error
 import urllib.request
@@ -49,6 +50,8 @@ LIGHT_RANGES = ((0x0000, 0x10FF), (0x2000, 0x200D), (0x2010, 0x201F), (0x2032, 0
 URL_PATTERN = re.compile(r"https?://\S+")
 # 対象がこの件数を超えたら、1件ずつではなくまとめ投稿を1件だけ出す
 SUMMARY_THRESHOLD = 10
+# 連続投稿がスパムと判定されにくいよう、投稿と投稿の間にこの秒数だけ待つ
+POST_INTERVAL_SECONDS = 60
 ELLIPSIS = "…"
 
 BUFFER_API_URL = "https://api.buffer.com"
@@ -216,7 +219,9 @@ def main() -> None:
         posts = build_new_posts(events)
 
     failed = 0
-    for label, text in posts:
+    for i, (label, text) in enumerate(posts):
+        if i > 0:
+            time.sleep(POST_INTERVAL_SECONDS)
         try:
             post_id = post_to_buffer(text, api_key, channel_id)
             print(f"投稿しました: {label} → {post_id}")
