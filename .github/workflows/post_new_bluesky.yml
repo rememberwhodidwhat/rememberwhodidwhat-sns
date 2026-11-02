@@ -19,4 +19,4 @@ jobs:
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
-        run: uv run post_new.py ${{ github.event.before }}
+        run: uv run post_bluesky.py new ${{ github.event.before }}
