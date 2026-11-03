@@ -406,6 +406,15 @@
     "organizations": []
   },
   {
+    "date": "2010-04",
+    "slug": "nonaka-hiromu-kimitsuhi-hyouronka",
+    "title": "野中広務が官房長官時代に機密費を政治評論家らに盆暮れ500万円ずつ届けていたと証言した",
+    "people": [
+      "野中広務"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2010-04-19",
     "slug": "hashimoto-toru-osaka-ishin-kessei",
     "title": "橋下徹が地域政党・大阪維新の会を結成し代表に就任した",
@@ -970,6 +979,17 @@
     "title": "高市早苗がナチス礼賛本に推薦文を寄せた",
     "people": [
       "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-09-08",
+    "slug": "takaichi-inada-nishida-neo-nazi-photo",
+    "title": "高市早苗・稲田朋美・西田昌司（自民）がネオナチ団体代表との記念写真を団体サイトに掲載されていたと報じられ高市が「不可抗力」と説明した",
+    "people": [
+      "高市早苗",
+      "稲田朋美",
+      "西田昌司"
     ],
     "organizations": []
   },
@@ -1564,6 +1584,17 @@
       "イーロン・マスク"
     ],
     "organizations": []
+  },
+  {
+    "date": "2018-01-19",
+    "slug": "kamiwaki-hiroshi-kanbou-kimitsuhi-saikousai-ichibu-kaiji",
+    "title": "上脇博之（神戸学院大教授）と政治資金オンブズマンが官房機密費の情報公開訴訟で最高裁に国の不開示処分の一部を取り消させた",
+    "people": [
+      "上脇博之"
+    ],
+    "organizations": [
+      "政治資金オンブズマン"
+    ]
   },
   {
     "date": "2018-02-23",
@@ -3586,6 +3617,15 @@
   },
   {
     "date": "2022-07-08",
+    "slug": "abe-akie-seiji-dantai-keishou",
+    "title": "安倍昭恵が安倍晋三の政治団体を継承し約2億4400万円の政治資金を非課税で引き継いだ",
+    "people": [
+      "安倍昭恵"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-07-08",
     "slug": "takeda-tsuneyasu-miso-unko-hiyu-2022",
     "title": "竹田恒泰が女性天皇容認論を味噌汁に入ったうんこに例え愛子さまへの侮辱と批判された",
     "people": [
@@ -4311,6 +4351,15 @@
     "title": "マスクがTwitterのロゴをドージコインの柴犬画像に変更し訴訟中の価格を急騰させた",
     "people": [
       "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-04-06",
+    "slug": "kamiya-sohei-america-no-senso",
+    "title": "神谷宗幣が参院財政金融委員会でロシアのウクライナ侵攻を米国の機関投資家らがNATO東進を進めロシアの怒りを買って始まった「アメリカの戦争」と述べた",
+    "people": [
+      "神谷宗幣"
     ],
     "organizations": []
   },
@@ -5510,6 +5559,15 @@
     "people": [
       "瀬野憲一",
       "西田薫"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-01-18",
+    "slug": "kishida-fumio-koukikai-kaisan",
+    "title": "岸田文雄が裏金事件を受けて岸田派（宏池会）の解散を表明し安倍派・二階派も解散に追随した",
+    "people": [
+      "岸田文雄"
     ],
     "organizations": []
   },
@@ -7418,6 +7476,16 @@
   },
   {
     "date": "2024-10-23",
+    "slug": "moriyama-hiroshi-hikounin-shibu-2000man-en",
+    "title": "森山裕（自民）が裏金事件で非公認とした衆院選候補の党支部に政党交付金2000万円を支給し「候補者に支給したものではない」と釈明した",
+    "people": [
+      "森山裕",
+      "石破茂"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-10-23",
     "slug": "yamashita-makoto-kessan-funintei",
     "title": "山下真（維新・奈良県知事）が記録も議論もなく公共事業の予算執行を停止し県議会が決算を不認定とした",
     "people": [
@@ -8337,6 +8405,15 @@
     "organizations": []
   },
   {
+    "date": "2025-07",
+    "slug": "taira-masaaki-gaikoku-senkyo-kainyuu",
+    "title": "平将明（自民）が参院選での外国勢力によるSNSを通じた選挙介入の可能性に言及し対策の司令塔となる部署の設置を訴えた",
+    "people": [
+      "平将明"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-07-01",
     "slug": "fukuoka-ishin-shushi-mitodoke",
     "title": "福岡維新の会が2年連続で政治資金収支報告書を提出せず無届け状態で政党交付金を受給していた",
@@ -8455,6 +8532,17 @@
     "title": "神谷宗幣が参院選の松山市での街頭演説でLGBTQについて「生物学的に線引きするのが正しい社会の在り方じゃないか」と発言した",
     "people": [
       "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-07-14",
+    "slug": "shioiri-sayaka-sputnik-interview",
+    "title": "塩入清香（参政）が参院選中にロシア国営メディア「スプートニク」のインタビューを受け神谷宗幣が「参政党は親露派ではない」と反論した",
+    "people": [
+      "塩入清香",
+      "神谷宗幣",
+      "小野寺五典"
     ],
     "organizations": []
   },
@@ -10554,6 +10642,17 @@
     "organizations": []
   },
   {
+    "date": "2026-06-02",
+    "slug": "takaichi-smear-video-campaign-2026-general-election",
+    "title": "高市早苗陣営が2026年衆院選でも枝野幸男・岡田克也ら野党候補を中傷する動画を作成・拡散していたと報じられた",
+    "people": [
+      "高市早苗",
+      "枝野幸男",
+      "岡田克也"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-06-03",
     "slug": "shizuoka-shimbun-editorial-against-flag-desecration-bill",
     "title": "静岡新聞が社説で国旗損壊罪法案に反対を表明した",
@@ -11972,6 +12071,15 @@
     "organizations": []
   },
   {
+    "date": "2026-08-06",
+    "slug": "takaichi-sanae-hikaku-sangensoku-yodan-hiroshima-2026",
+    "title": "高市早苗が広島の平和記念式典後の会見で非核三原則を将来にわたり堅持するかについて「予断することは差し控える」と述べた",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-08-08",
     "slug": "ohama-ichiro-tamaki-denny-baseless-claim",
     "title": "大浜一郎（自民・沖縄県議）が玉城デニーを「極左暴力集団が支えている」と根拠なく非難した",
@@ -12092,11 +12200,47 @@
     ]
   },
   {
+    "date": "2026-08-31",
+    "slug": "mod-fy2027-budget-request-record",
+    "title": "小泉進次郎が率いる防衛省が2027年度予算の概算要求で過去最大の約8兆9千億円を計上した",
+    "people": [
+      "小泉進次郎"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-09-01",
     "slug": "koike-kanto-earthquake-memorial-refusal-2026",
     "title": "小池百合子が2026年の関東大震災朝鮮人犠牲者追悼式に追悼文を送らなかった",
     "people": [
       "小池百合子"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-09-01",
+    "slug": "onoda-kimi-yami-senkyo-jimusho",
+    "title": "小野田紀美が2022年参院選で届け出ていない瀬戸内市の事務所を選挙事務所として使っていた公選法違反の疑いを報じられた",
+    "people": [
+      "小野田紀美"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-09-03",
+    "slug": "yoshimura-hirofumi-wakatte-tv",
+    "title": "吉村洋文が学歴イジリで炎上したYouTubeチャンネル「wakatte.TV」について会見で「全否定するというのは違う」と擁護した",
+    "people": [
+      "吉村洋文"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-09-10",
+    "slug": "kihara-minoru-urakane-shinnin",
+    "title": "木原稔（自民）が裏金事件に関係した衆院議員について「既に2回選挙を経て国民の信任を得ている」と述べ閣僚登用に含みを持たせた",
+    "people": [
+      "木原稔"
     ],
     "organizations": []
   },
@@ -12150,6 +12294,15 @@
       "関芳弘"
     ],
     "organizations": []
+  },
+  {
+    "date": "2026-09-18",
+    "slug": "gsdf-staff-office-whistleblower-not-confirmed",
+    "title": "陸上幕僚監部が現地情報隊の報告書を行政文書として扱っていないとする公益通報に「事実は確認されなかった」とのみ通知した",
+    "people": [],
+    "organizations": [
+      "自衛隊"
+    ]
   },
   {
     "date": "2026-09-19",
@@ -12426,6 +12579,15 @@
     "organizations": []
   },
   {
+    "date": "2026-10-09",
+    "slug": "yana-kazuo-kuso-mitaina-shitsumon",
+    "title": "簗和生（自民）が熊本の被災地視察で地元首長らに「クソみたいな質問をしてくる記者を連れてきてすみません」と発言したと報じられた",
+    "people": [
+      "簗和生"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-10-13",
     "slug": "gsdf-local-intelligence-unit-reports-not-public-documents",
     "title": "陸自の現地情報隊が協力者情報の報告書を情報公開請求の対象とならないよう公文書として扱っていなかった",
@@ -12502,6 +12664,15 @@
   },
   {
     "date": "2026-10-16",
+    "slug": "koizumi-shinjiro-bsd-report-authenticity",
+    "title": "小泉進次郎が陸自現地情報隊の個人BSD報告書について「真正性が確認できない」として国会でも会見でも存在するかどうかの答えを避けた",
+    "people": [
+      "小泉進次郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-16",
     "slug": "nakatsukasa-hiroshi-secret-recording-false-testimony-slush-funds",
     "title": "中司宏（維新）が談合事件の共謀者との会話で裁判での虚偽陳述と枚方市長時代の裏金受領を認める音声が報じられた",
     "people": [
@@ -12526,6 +12697,15 @@
     "organizations": [
       "TikTok"
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "slug": "takaichi-sanae-yasukuni-masakaki-2026-10",
+    "title": "高市早苗が靖国神社の秋季例大祭に「内閣総理大臣」名で真榊を奉納した",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-10-19",
@@ -12593,11 +12773,47 @@
     ]
   },
   {
+    "date": "2026-10-23",
+    "slug": "hosono-goshi-excess-election-offices",
+    "title": "細野豪志（自民）が2024年衆院選で上限を超える数の選挙事務所を置いていた疑いを報じられ「事務的なミス」として収支報告書を訂正した",
+    "people": [
+      "細野豪志"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-26",
+    "slug": "ibayashi-tatsunori-fundraising-party-as-minister",
+    "title": "井林辰憲（自民）が国交相在任中に政治資金パーティーを開き「就任前から準備していた」として大臣規範に抵触しないと述べた",
+    "people": [
+      "井林辰憲"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-10-27",
     "slug": "motegi-toshimitsu-g7-online-summit-absence-one-remark-answer",
     "title": "茂木敏充が高市早苗のG7欠席を「発言は1回きり」と外務省判断で正当化し、首相答弁との矛盾を問われ「ディスプレイの問題まで承知しておりません」と述べた",
     "people": [
       "茂木敏充"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-28",
+    "slug": "koizumi-shinjiro-amraam-production-japan",
+    "title": "小泉進次郎が米国防長官と会談しF35搭載のAMRAAMミサイルの最終組み立て施設を日本国内に新設することで合意した",
+    "people": [
+      "小泉進次郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-28",
+    "slug": "mogami-yoshinori-cervical-cancer-common-cold",
+    "title": "最上佳則（参政・都議）が都議補選の応援演説で「子宮頸がんは風邪の一部」と発言した",
+    "people": [
+      "最上佳則"
     ],
     "organizations": []
   },
@@ -12620,5 +12836,25 @@
     "organizations": [
       "Meiji Seikaファルマ"
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "slug": "ldp-ishin-dpfp-proportional-seats-cut-31",
+    "title": "自民・維新・国民の3党が衆院の比例代表定数を31削減する案に正式合意した",
+    "people": [],
+    "organizations": [
+      "自由民主党",
+      "維新の会",
+      "国民民主党"
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "slug": "yamaguchi-tetsuichi-anti-ai-pubcom-not-creators",
+    "title": "山口哲一（知財本部WG委員）がパブコメで反AI意見が多かったことについて知財戦略会議で「5年後クリエイターではないので気にしなくて良い」と発言したと投稿した",
+    "people": [
+      "山口哲一"
+    ],
+    "organizations": []
   }
 ]
