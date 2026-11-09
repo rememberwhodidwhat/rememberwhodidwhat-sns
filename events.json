@@ -1,5 +1,16 @@
 [
   {
+    "date": "1958-05",
+    "slug": "ldp-cia-secret-funding",
+    "title": "自民党と佐藤栄作が1950年代後半から60年代にかけてCIAから秘密資金の提供を受けていた",
+    "people": [
+      "佐藤栄作"
+    ],
+    "organizations": [
+      "自由民主党"
+    ]
+  },
+  {
     "date": "1976-05-14",
     "slug": "miyazawa-no-arms-export",
     "title": "宮沢喜一外務大臣が「武器輸出するほど日本は落ちぶれていない」と発言した",
@@ -14,6 +25,15 @@
     "title": "麻生太郎が初出馬時の演説で有権者を「下々の皆さん」と呼んだ",
     "people": [
       "麻生太郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "1982",
+    "slug": "ozawa-ichiro-mikoshi-karukute-pa",
+    "title": "小沢一郎（自民）が1982年の総裁選で田中派が中曽根康弘を支持した際に「担ぐ神輿は軽くてパーがいい」とオフレコで発言した",
+    "people": [
+      "小沢一郎"
     ],
     "organizations": []
   },
@@ -140,6 +160,25 @@
     "organizations": []
   },
   {
+    "date": "2002-10-25",
+    "slug": "ishii-koki-murder",
+    "title": "伊藤白水（右翼団体代表）が石井紘基（民主）を自宅駐車場で刺殺し無期懲役が確定した",
+    "people": [
+      "伊藤白水",
+      "石井紘基"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2003-03",
+    "slug": "koizumi-junichiro-iraq-hisento-chiiki",
+    "title": "小泉純一郎がイラク戦争を支持して自衛隊をイラクに派遣し「自衛隊の活動している地域は非戦闘地域だ」と答弁した",
+    "people": [
+      "小泉純一郎"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2003-05-31",
     "slug": "aso-taro-korean-name-change-remark",
     "title": "麻生太郎が創氏改名は朝鮮人の要求だったと発言した",
@@ -181,6 +220,15 @@
     "title": "ウィリアム・オリバー・リース・ジュニア（米海軍）が横須賀で女性を殺害し現金を奪い無期懲役の判決を受けた",
     "people": [
       "ウィリアム・オリバー・リース・ジュニア"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2006-02-01",
+    "slug": "koizumi-junichiro-kakusa-warui-koto-dewanai",
+    "title": "小泉純一郎が参院予算委で「格差が出るのは別に悪いこととは思っておりません」と答弁した",
+    "people": [
+      "小泉純一郎"
     ],
     "organizations": []
   },
@@ -356,6 +404,15 @@
     "people": [
       "麻生太郎",
       "鳩山由紀夫"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2009-08",
+    "slug": "takenaka-heizo-pasona",
+    "title": "竹中平蔵（元経済財政相）が労働者派遣の規制緩和を進めた後に派遣大手パソナの会長に就き政府の規制改革関連会議の民間議員を務めた",
+    "people": [
+      "竹中平蔵"
     ],
     "organizations": []
   },
@@ -3562,6 +3619,15 @@
     "organizations": []
   },
   {
+    "date": "2022-06",
+    "slug": "kamiya-sohei-qa-book-developmental-disorders-do-not-exist",
+    "title": "神谷宗幣が著書『参政党Q&Aブック 基礎編』で「そもそも、発達障害など存在しません」と記述した",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-06-03",
     "slug": "nishimura-yasutoshi-bijin-zukan",
     "title": "西村康稔が自身のHPに無断撮影を含む女性の写真を「世界各国美人図鑑」として掲載していた",
@@ -4771,6 +4837,15 @@
     "title": "黒田征樹（維新・堺市議）が女性府議を選挙活動から排除するいじめを行ったと報じられた",
     "people": [
       "黒田征樹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-09",
+    "slug": "kamiya-sohei-cancer-did-not-exist-before-war-remark",
+    "title": "神谷宗幣が講演でがんは昔は存在せず戦後に食べ物が原因で増えたと発言した",
+    "people": [
+      "神谷宗幣"
     ],
     "organizations": []
   },
@@ -7647,6 +7722,17 @@
   },
   {
     "date": "2024-12",
+    "slug": "rikken-kigyou-dantai-kenkin-kinshi-seiji-dantai-jogai",
+    "title": "立憲民主党など野党5党派が政治団体を禁止対象から除いた企業・団体献金禁止法案を提出し労組系政治団体からの献金が残る抜け穴だと指摘された",
+    "people": [
+      "玉木雄一郎"
+    ],
+    "organizations": [
+      "立憲民主党"
+    ]
+  },
+  {
+    "date": "2024-12",
     "slug": "saito-motohiko-hyakujo-iinkai-tojin-kuichigai",
     "title": "斎藤元彦が百条委員会の尋問で県幹部の証言と食い違う答弁を行った",
     "people": [
@@ -8541,8 +8627,7 @@
     "title": "塩入清香（参政）が参院選中にロシア国営メディア「スプートニク」のインタビューを受け神谷宗幣が「参政党は親露派ではない」と反論した",
     "people": [
       "塩入清香",
-      "神谷宗幣",
-      "小野寺五典"
+      "神谷宗幣"
     ],
     "organizations": []
   },
@@ -8990,6 +9075,16 @@
     "organizations": [
       "自由民主党"
     ]
+  },
+  {
+    "date": "2025-10-07",
+    "slug": "takaichi-sanae-aso-suzuki-shunichi-jinji",
+    "title": "高市早苗が総裁選で支援を受けた麻生太郎を副総裁に、麻生の義弟の鈴木俊一を幹事長に起用した",
+    "people": [
+      "高市早苗",
+      "麻生太郎"
+    ],
+    "organizations": []
   },
   {
     "date": "2025-10-09",
