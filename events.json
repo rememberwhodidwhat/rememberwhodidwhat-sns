@@ -2154,6 +2154,17 @@
     ]
   },
   {
+    "date": "2019-12",
+    "slug": "tesla-fremont-injury-underreporting-cal-osha",
+    "title": "テスラがフリーモント工場の労災を政府への年次報告から大量に除外していたとカリフォルニア州当局に指摘されマスクの「過少報告はない」との説明と矛盾した",
+    "people": [
+      "イーロン・マスク"
+    ],
+    "organizations": [
+      "Tesla"
+    ]
+  },
+  {
     "date": "2019-12-13",
     "slug": "twitter-private-list-add-notification-bug-2019",
     "title": "Twitterの非公開リスト追加がバグで本人に通知され特定される問題が発覚した",
@@ -3746,6 +3757,15 @@
     "organizations": []
   },
   {
+    "date": "2022-07-14",
+    "slug": "tamaki-yuichiro-sekainippo-interviews",
+    "title": "玉木雄一郎が旧統一教会系の世界日報のインタビューに複数回応じていた",
+    "people": [
+      "玉木雄一郎"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-07-20",
     "slug": "tamaki-yuichiro-sekainippo-kenkin",
     "title": "玉木雄一郎が世界日報元社長から献金を受けていたことが判明した",
@@ -4659,6 +4679,15 @@
     "organizations": []
   },
   {
+    "date": "2023-06-22",
+    "slug": "meta-brazil-generals-speech-oversight-board",
+    "title": "Metaがブラジル議会襲撃の5日前に投稿された議会・最高裁への侵入を呼びかける動画を通報後も削除せず監督委員会に自社規則からの明確な逸脱と指摘された",
+    "people": [],
+    "organizations": [
+      "Meta"
+    ]
+  },
+  {
     "date": "2023-06-24",
     "slug": "satake-riho-harassment-shinsei-mikuri",
     "title": "佐竹璃保（維新・大阪市議）が党の評判を理由にハラスメント調査への申請を見送ったと投稿した",
@@ -5330,6 +5359,17 @@
       "加賀奈々恵"
     ],
     "organizations": []
+  },
+  {
+    "date": "2023-11-10",
+    "slug": "spacex-worker-injuries-reuters-2023",
+    "title": "SpaceXが労災統計の年次報告を規制当局に何年も怠りReutersに600件超の未報告の労災を報じられマスクが安全色の黄色の着用を嫌っていたと証言された",
+    "people": [
+      "イーロン・マスク"
+    ],
+    "organizations": [
+      "SpaceX"
+    ]
   },
   {
     "date": "2023-11-15",
@@ -10128,6 +10168,15 @@
   },
   {
     "date": "2026-03-05",
+    "slug": "anno-takahiro-iran-attack-no-judgment",
+    "title": "安野貴博がイスラエル・米国によるイラン攻撃について国際法上の判断に「十分な情報が集まりきっていない」と述べ評価を示さなかった",
+    "people": [
+      "安野貴博"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-03-05",
     "slug": "koizumi-premature-iran-evacuation-post",
     "title": "小泉進次郎がイラン情勢緊迫化を受け外務省の正式依頼前に自衛隊機派遣準備着手をX投稿した",
     "people": [
@@ -11189,6 +11238,15 @@
     "organizations": [
       "しんぶん赤旗"
     ]
+  },
+  {
+    "date": "2026-06-28",
+    "slug": "elon-musk-usaid-no-deaths-claim",
+    "title": "イーロン・マスクがUSAID解体で死者は出ていないと主張し続け死亡者の名前を挙げたクリストフ記者を「嘘つき」と罵倒した",
+    "people": [
+      "イーロン・マスク"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-06-29",
@@ -12749,6 +12807,15 @@
     "organizations": []
   },
   {
+    "date": "2026-10-15",
+    "slug": "meta-brazil-election-2026-lula-restriction",
+    "title": "Metaがブラジル大統領選でルラ陣営のInstagram投稿を制限しボルソナロ陣営を推奨したとして選挙裁判所に平等な扱いを命じられた",
+    "people": [],
+    "organizations": [
+      "Meta"
+    ]
+  },
+  {
     "date": "2026-10-16",
     "slug": "abe-hiroki-political-funds-to-self",
     "title": "阿部弘樹（自民、以前に維新所属）が代表だった党支部が本人への車両レンタル代や親族の神社への家賃など政治資金を自身と身内に支出していた",
@@ -12890,7 +12957,8 @@
     "slug": "motegi-toshimitsu-g7-online-summit-absence-one-remark-answer",
     "title": "茂木敏充が高市早苗のG7欠席を「発言は1回きり」と外務省判断で正当化し、首相答弁との矛盾を問われ「ディスプレイの問題まで承知しておりません」と述べた",
     "people": [
-      "茂木敏充"
+      "茂木敏充",
+      "高市早苗"
     ],
     "organizations": []
   },
@@ -12944,11 +13012,32 @@
     ]
   },
   {
+    "date": "2026-10-29",
+    "slug": "mofa-refused-to-correct-motegi-g7-chair-answer",
+    "title": "外務省が立憲民主党の会議で茂木敏充の答弁にある議長国の誤りを認めず「訂正しない」と回答した",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": [
+      "外務省"
+    ]
+  },
+  {
     "date": "2026-10-31",
     "slug": "yamaguchi-tetsuichi-anti-ai-pubcom-not-creators",
     "title": "山口哲一（知財本部WG委員）がパブコメで反AI意見が多かったことについて知財戦略会議で「5年後クリエイターではないので気にしなくて良い」と発言したと投稿した",
     "people": [
       "山口哲一"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-05",
+    "slug": "motegi-toshimitsu-g7-proxy-attendance-chair-memory-error",
+    "title": "茂木敏充が菅政権時のG7首脳会議への代理出席理由を「日本が議長国だった」と答弁し、英国が議長国だったと指摘されて「記憶違い」と訂正した",
+    "people": [
+      "茂木敏充",
+      "高市早苗"
     ],
     "organizations": []
   },
@@ -12979,12 +13068,31 @@
   },
   {
     "date": "2026-11-06",
+    "slug": "takaichi-sanae-g7-online-summit-absence-comprehensive-judgment-answer",
+    "title": "高市早苗がG7首脳オンライン会議の欠席を衆院財務金融委で「総合的に判断された」と答弁し具体的な理由を示さなかった",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-06",
     "slug": "tanaka-shiho-hatamoto-yoshimasa-election-car-public-funds-to-relatives",
     "title": "田中志歩・畑本義允（維新・京都府議）が親族から借りた選挙カーのレンタル料を選挙公営の公費から親族側に支払っていた",
     "people": [
       "田中志歩",
       "畑本義允",
       "畑本久仁枝"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-09",
+    "slug": "kihara-minoru-takaichi-g7-absence-no-drinking-statement",
+    "title": "木原稔が記者会見で高市早苗はG7欠席当日の会食で「全く飲酒をしておらず」と述べた",
+    "people": [
+      "木原稔",
+      "高市早苗"
     ],
     "organizations": []
   }
