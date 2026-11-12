@@ -687,7 +687,9 @@
     "people": [
       "松井一郎"
     ],
-    "organizations": []
+    "organizations": [
+      "政治資金オンブズマン"
+    ]
   },
   {
     "date": "2012-11-06",
@@ -901,6 +903,15 @@
     "organizations": []
   },
   {
+    "date": "2014",
+    "slug": "sato-masahisa-iraq-haken-jisatsu-hatsugen",
+    "title": "佐藤正久（自民）がイラク派遣から帰国後に自殺した自衛隊員28人について「イラクが原因かというと必ずしもそうではない」と発言した",
+    "people": [
+      "佐藤正久"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2014-01-01",
     "slug": "tokura-shogo-gyosha-yuchaku",
     "title": "橋下徹が最終面接を実施した公募区長・都倉尚吾が受注業者と不適切な会食を繰り返し降格された",
@@ -1072,6 +1083,33 @@
     "date": "2014-12",
     "slug": "takebe-arata-2014-survey-murayama-kono-statements-review",
     "title": "武部新（自民）が2014年衆院選の毎日新聞候補者アンケートで村山談話・河野談話を「見直すべき」と回答した",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-12",
+    "slug": "takebe-arata-unreported-30-million-donation-to-himself",
+    "title": "武部新（自民）の政党支部が2014年と2017年の衆院選で武部新個人への計約3000万円の寄付を政治資金収支報告書に記載していなかった",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-12-03",
+    "slug": "takebe-arata-2014-2021-election-donations-from-public-works-contractors",
+    "title": "武部新（自民）の政党支部が2014年と2021年の衆院選期間中に国の公共事業を受注する企業4社から計85万円の寄付を受けていた",
+    "people": [
+      "武部新"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-12-07",
+    "slug": "takebe-arata-2014-election-beer-in-lodging-expenses",
+    "title": "武部新（自民）が2014年衆院選の選挙運動費用収支報告書で運動員の宿泊費に生ビール17杯分の代金を含めて計上していた",
     "people": [
       "武部新"
     ],
@@ -1768,6 +1806,15 @@
     "title": "小池百合子が2018年の関東大震災朝鮮人犠牲者追悼式に追悼文を送らなかった",
     "people": [
       "小池百合子"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2018-10",
+    "slug": "takebe-arata-supporters-party-lottery-prizes",
+    "title": "武部新（自民）の後援会が会費2000円のパーティーで会費を上回るとみられる景品が当たる抽選会を開いていた",
+    "people": [
+      "武部新"
     ],
     "organizations": []
   },
@@ -3325,7 +3372,9 @@
     "people": [
       "馬場伸幸"
     ],
-    "organizations": []
+    "organizations": [
+      "政治資金オンブズマン"
+    ]
   },
   {
     "date": "2021-12-23",
@@ -3535,7 +3584,8 @@
     "slug": "shibata-political-funds-false-entry-complaint",
     "title": "柴田巧（維新）が政治資金収支報告書の虚偽記載疑惑で刑事告発される",
     "people": [
-      "柴田巧"
+      "柴田巧",
+      "上脇博之"
     ],
     "organizations": []
   },
@@ -3599,6 +3649,15 @@
     "title": "岬麻紀が2019年参院選の選挙公報に非常勤講師と虚偽記載し維新が厳重注意した",
     "people": [
       "岬麻紀"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-05-26",
+    "slug": "takebe-arata-party-branch-grant-discrepancies",
+    "title": "武部新（自民）の政党支部と地域支部の政治資金収支報告書で2022〜2024年の交付金の記載に計約85万円の食い違いがあった",
+    "people": [
+      "武部新"
     ],
     "organizations": []
   },
@@ -3873,6 +3932,15 @@
     "title": "城内実（自民）が自民党の性的マイノリティーに関する会合で差別解消に取り組む人を「お花畑正義感の人たち」と発言した",
     "people": [
       "城内実"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-08-26",
+    "slug": "satake-norihisa-hinai-jidori-katai",
+    "title": "佐竹敬久（秋田県知事）が大雨被害の支援を求められた場で比内地鶏を「硬い」「3倍うまいかは分からない」と発言した",
+    "people": [
+      "佐竹敬久"
     ],
     "organizations": []
   },
@@ -5278,6 +5346,15 @@
     "title": "音喜多駿（維新）がサウナのSNS投稿で陰部が映り込み謝罪した",
     "people": [
       "音喜多駿"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-10-23",
+    "slug": "satake-norihisa-shikoku-binbokusai",
+    "title": "佐竹敬久（秋田県知事）が講演で四国の料理を「貧乏くさい」「酒もうまくない」と述べた",
+    "people": [
+      "佐竹敬久"
     ],
     "organizations": []
   },
@@ -6885,7 +6962,7 @@
   {
     "date": "2024-03-28",
     "slug": "yoshizumi-kenichi-shinjuku-park-bench-sns-rebuttal",
-    "title": "吉住健一（新宿区長）が区立公園の座りにくいベンチを「意地悪ベンチ」とする批判に対し「非現実的な投稿」とSNSで反論した",
+    "title": "吉住健一（新宿区長）が区立公園の座りにくいベンチを「意地悪ベンチ」とする批判に対し「ホームレス対策ではなく夜間の騒音防止です」とSNSで反論した",
     "people": [
       "吉住健一"
     ],
@@ -7771,17 +7848,6 @@
   },
   {
     "date": "2024-12",
-    "slug": "rikken-kigyou-dantai-kenkin-kinshi-seiji-dantai-jogai",
-    "title": "立憲民主党など野党5党派が政治団体を禁止対象から除いた企業・団体献金禁止法案を提出し労組系政治団体からの献金が残る抜け穴だと指摘された",
-    "people": [
-      "玉木雄一郎"
-    ],
-    "organizations": [
-      "立憲民主党"
-    ]
-  },
-  {
-    "date": "2024-12",
     "slug": "saito-motohiko-hyakujo-iinkai-tojin-kuichigai",
     "title": "斎藤元彦が百条委員会の尋問で県幹部の証言と食い違う答弁を行った",
     "people": [
@@ -7828,6 +7894,15 @@
   },
   {
     "date": "2024-12-10",
+    "slug": "hamaguchi-makoto-toyota-roso-kenkin",
+    "title": "浜口誠（国民）がトヨタ系労組の政治団体から関連政治団体4つに分散する形で計約2億4853万円の寄付を受けていたと報じられた",
+    "people": [
+      "浜口誠"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-12-10",
     "slug": "koizumi-shinjiro-excess-corporate-donation",
     "title": "小泉進次郎の自民党支部が献金上限を超える1000万円を受領した",
     "people": [
@@ -7863,6 +7938,15 @@
     "people": [
       "立花孝志",
       "竹内英明"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2024-12-17",
+    "slug": "satake-norihisa-kuma-okuru",
+    "title": "佐竹敬久（秋田県知事）が県議会でクマ駆除への苦情電話には「お前のところにクマ送るから住所を送ってくれ」と相手を威嚇すると答弁した",
+    "people": [
+      "佐竹敬久"
     ],
     "organizations": []
   },
@@ -8173,6 +8257,19 @@
   },
   {
     "date": "2025-03-19",
+    "slug": "rikken-yatou-kigyou-dantai-kenkin-kinshi-houan",
+    "title": "立憲民主党・日本維新の会・参政党・社民党・有志の会が企業・団体献金禁止法案を共同提出した",
+    "people": [],
+    "organizations": [
+      "立憲民主党",
+      "維新の会",
+      "参政党",
+      "社会民主党",
+      "有志の会"
+    ]
+  },
+  {
+    "date": "2025-03-19",
     "slug": "saito-motohiko-daisansha-iinkai-ninnte",
     "title": "斎藤元彦のパワハラと告発者特定が第三者委員会・百条委員会により違法と認定された",
     "people": [
@@ -8245,6 +8342,15 @@
     "date": "2025-03-28",
     "slug": "tamaki-yuichiro-moto-hisho-power-harassment",
     "title": "玉木雄一郎の元秘書らが高圧的な言動によるパワハラ被害を証言した",
+    "people": [
+      "玉木雄一郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-03-31",
+    "slug": "tamaki-yuichiro-kigyou-dantai-kenkin-mujun",
+    "title": "玉木雄一郎が野党が一致すれば企業・団体献金禁止に賛成すると述べた後に自民・公明と献金を存続させる案で合意した",
     "people": [
       "玉木雄一郎"
     ],
@@ -12750,6 +12856,15 @@
     "organizations": []
   },
   {
+    "date": "2026-10-10",
+    "slug": "harasawa-atsumi-kyojuchi-shitsumon-tachisaru",
+    "title": "原澤敦美（横浜市長候補）が街頭演説で有権者に居住地を問われて答えずに立ち去った",
+    "people": [
+      "原澤敦美"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-10-13",
     "slug": "gsdf-local-intelligence-unit-reports-not-public-documents",
     "title": "陸自の現地情報隊が協力者情報の報告書を情報公開請求の対象とならないよう公文書として扱っていなかった",
@@ -13042,6 +13157,15 @@
   },
   {
     "date": "2026-11-05",
+    "slug": "harasawa-atsumi-chosen-gakko-hojokin-shikyu-shinai",
+    "title": "原澤敦美（横浜市長）が市会で朝鮮学校への補助金を「引き続き支給する状況にない」と答弁した",
+    "people": [
+      "原澤敦美"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-05",
     "slug": "motegi-toshimitsu-g7-proxy-attendance-chair-memory-error",
     "title": "茂木敏充が菅政権時のG7首脳会議への代理出席理由を「日本が議長国だった」と答弁し、英国が議長国だったと指摘されて「記憶違い」と訂正した",
     "people": [
@@ -13097,11 +13221,48 @@
   },
   {
     "date": "2026-11-09",
+    "slug": "harasawa-atsumi-jimin-party-after-ippan-shitsumon-uchikiri",
+    "title": "原澤敦美（横浜市長）が体調不良で市会の一般質問を打ち切った4日後に自民党横浜市連のパーティーに出席した",
+    "people": [
+      "原澤敦美"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-09",
     "slug": "kihara-minoru-takaichi-g7-absence-no-drinking-statement",
     "title": "木原稔が記者会見で高市早苗はG7欠席当日の会食で「全く飲酒をしておらず」と述べた",
     "people": [
       "木原稔",
       "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-10",
+    "slug": "koizumi-shinjiro-mcv-naha-before-governor-briefing",
+    "title": "小泉進次郎が古謝玄太知事への説明前に16式機動戦闘車を那覇駐屯地に搬入し理由を「部隊運用の保全」と説明した",
+    "people": [
+      "小泉進次郎",
+      "古謝玄太"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-12",
+    "slug": "abe-keishi-article-9-2-deletion-national-defense-army",
+    "title": "阿部圭史（維新）が衆院憲法審査会で9条2項の削除と集団的自衛権の全面容認・国防軍の創設を主張した",
+    "people": [
+      "阿部圭史"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-12",
+    "slug": "shindo-yoshitaka-article-9-2-proposal",
+    "title": "新藤義孝（自民）が衆院憲法審査会で「国防規定が欠落している」として9条の2の創設を主張した",
+    "people": [
+      "新藤義孝"
     ],
     "organizations": []
   }
