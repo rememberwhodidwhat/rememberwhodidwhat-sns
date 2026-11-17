@@ -764,6 +764,15 @@
     "organizations": []
   },
   {
+    "date": "2013-03-28",
+    "slug": "hata-tomoko-hpv-vaccine-0004-percent-routine-opposition",
+    "title": "はたともこ（生活）が国会でHPVワクチンで予防の可能性があるのは女性の0.004%にすぎないとして定期接種化に反対した",
+    "people": [
+      "はたともこ"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2013-03-30",
     "slug": "ido-masatoshi-petition-trash",
     "title": "井戸正利（維新・大阪市議）が大阪市民の陳情書をゴミ箱に捨てた写真をブログに掲載し処分を受けた",
@@ -816,6 +825,15 @@
     "title": "橋下徹が「慰安婦制度は必要だった」と発言し在沖縄米軍に風俗業活用を勧め国内外から批判を受けた",
     "people": [
       "橋下徹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2013-05-20",
+    "slug": "hata-tomoko-hpv-vaccine-0007-percent-suspension-demand",
+    "title": "はたともこ（生活）が国会でHPVワクチンの必要性を「0.007%」と試算し接種の即刻中止を求めた",
+    "people": [
+      "はたともこ"
     ],
     "organizations": []
   },
@@ -964,6 +982,15 @@
     "title": "橋下徹が経営者向け講演で「愛人を2〜3人住まわせて」と女性蔑視発言をした",
     "people": [
       "橋下徹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-05",
+    "slug": "takenaka-heizo-tokku-pasona-orix",
+    "title": "竹中平蔵が国家戦略特区諮問会議の民間議員として外国人家事支援事業を提案し、自身が会長のパソナが同事業の事業者に選ばれた",
+    "people": [
+      "竹中平蔵"
     ],
     "organizations": []
   },
@@ -1545,6 +1572,15 @@
     "organizations": []
   },
   {
+    "date": "2017-03-17",
+    "slug": "takahashi-chizuko-hpv-vaccine-expert-selection-question",
+    "title": "高橋千鶴子（共産）が衆院厚労委でHPVワクチンの意見交換会の人選を厚労省がWHO諮問委員会委員長に相談していたと追及した",
+    "people": [
+      "高橋千鶴子"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2017-04-16",
     "slug": "yamamoto-kozo-curators-cancer-remark",
     "title": "山本幸三（自民）が学芸員を「がん」と呼び一掃すべきと発言した",
@@ -1679,6 +1715,15 @@
     "organizations": [
       "在日米軍"
     ]
+  },
+  {
+    "date": "2018-01",
+    "slug": "aoki-kano-cervical-screening-zero-risk-blog",
+    "title": "青木かの（中央区議）がブログで子宮がん検診には「リスクはゼロ」としてHPVワクチンより検診を訴えた",
+    "people": [
+      "青木かの"
+    ],
+    "organizations": []
   },
   {
     "date": "2018-01",
@@ -1866,7 +1911,7 @@
   {
     "date": "2018-11-17",
     "slug": "hyakuta-nihonkokuki-plagiarism-allegations",
-    "title": "百田尚樹の著書『日本国紀』がWikipedia等からの無断転載疑惑を持たれた",
+    "title": "百田尚樹が著書『日本国紀』にWikipediaの記述を無断転載していたことが発覚した",
     "people": [
       "百田尚樹"
     ],
@@ -1980,6 +2025,15 @@
     "title": "丸山穂高（維新）が北方領土訪問時に「戦争で取り返す」という趣旨の発言をして除名された",
     "people": [
       "丸山穂高"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2019-06",
+    "slug": "komoriya-sayaka-hpv-vaccine-0007-percent-tsukuba",
+    "title": "小森谷さやか（つくば市議）が市議会でHPVワクチンは「10万人に7人にしか有効でない」と発言した",
+    "people": [
+      "小森谷さやか"
     ],
     "organizations": []
   },
@@ -2124,6 +2178,15 @@
     "title": "石崎徹が秘書への暴行で罰金刑を受け自民を離党し維新から出馬した",
     "people": [
       "石崎徹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2019-10",
+    "slug": "ito-junko-hpv-vaccine-child-cervical-cancer-death-claim",
+    "title": "伊藤純子（伊勢崎市議・後に保守所属）がFacebookで「4歳以下の子供が子宮頚がんで亡くなっている」としてHPVワクチンの接種勧奨に反対した",
+    "people": [
+      "伊藤純子"
     ],
     "organizations": []
   },
@@ -2285,6 +2348,15 @@
     "organizations": []
   },
   {
+    "date": "2020-01-15",
+    "slug": "takenaka-heizo-kuko-hikohyo-shiryo",
+    "title": "竹中平蔵がオリックス社外取締役のまま未来投資会議の分科会会長として国交省に空港運営の非公表資料を「竹中会長限り」で提出させていた",
+    "people": [
+      "竹中平蔵"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2020-01-28",
     "slug": "abe-shinzo-tsunottewa-ita-ga-boshuu-wa-shiteinai",
     "title": "安倍晋三が桜を見る会問題で「募ってはいるが募集はしていない」と答弁した",
@@ -2310,6 +2382,15 @@
     "people": [
       "小泉進次郎",
       "本多平直"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2020-02-29",
+    "slug": "abe-shinzo-corona-kaiken-uchikiri",
+    "title": "安倍晋三が新型コロナ対応の首相会見を事前に質問を受けた記者への回答だけで打ち切り「まだ聞きたいことがあります」と求めた江川紹子に答えず退席した",
+    "people": [
+      "安倍晋三"
     ],
     "organizations": []
   },
@@ -2435,6 +2516,26 @@
     "organizations": []
   },
   {
+    "date": "2020-06",
+    "slug": "takenaka-heizo-jizokuka-kyufukin-pasona",
+    "title": "竹中平蔵（パソナ会長）が持続化給付金の外注をパソナが受けていた問題で週刊新潮の直撃に「会社を通してください」と答えなかった",
+    "people": [
+      "竹中平蔵"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2020-06",
+    "slug": "takenaka-heizo-pasona-jizokuka-kyufukin-kanryu",
+    "title": "竹中平蔵が会長を務めるパソナに、自社も設立に加わった一般社団法人と電通を経由して持続化給付金の事務委託費約171億円が還流した",
+    "people": [
+      "竹中平蔵"
+    ],
+    "organizations": [
+      "パソナ"
+    ]
+  },
+  {
     "date": "2020-06-04",
     "slug": "aso-taro-mindo-covid-remark",
     "title": "麻生太郎がコロナ死者の少なさを民度のレベルが違うと発言した",
@@ -2442,6 +2543,17 @@
       "麻生太郎"
     ],
     "organizations": []
+  },
+  {
+    "date": "2020-06-05",
+    "slug": "meti-jizokuka-kyufukin-dentsu-saiitaku",
+    "title": "経済産業省が持続化給付金の事務を電通・パソナらの設立した一般社団法人に769億円で委託し電通グループを経由する多重の再委託・外注が行われていた",
+    "people": [],
+    "organizations": [
+      "経済産業省",
+      "パソナ",
+      "電通"
+    ]
   },
   {
     "date": "2020-06-18",
@@ -2667,6 +2779,15 @@
     "organizations": []
   },
   {
+    "date": "2020-11-27",
+    "slug": "takenaka-heizo-asanama-rieki-sohan",
+    "title": "竹中平蔵が『朝まで生テレビ！』で空港の非公表資料を「提出させてません」と否定し利益相反の追及を「民間議員の言論を封じる」と反発した",
+    "people": [
+      "竹中平蔵"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2020-12-16",
     "slug": "nakatsugawa-drunk-hit-and-run",
     "title": "中津川将照（維新・江戸川区議）が飲酒ひき逃げ事件で書類送検される",
@@ -2776,6 +2897,15 @@
     "title": "白須賀貴樹（自民）が緊急事態宣言下に女性と高級ラウンジを訪れた",
     "people": [
       "白須賀貴樹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-03",
+    "slug": "suga-yoshihide-shusho-kaiken-tokyo-shimbun-shimei-zero",
+    "title": "菅義偉が首相就任後の9回の会見で質問の事前問い合わせに応じない東京新聞から一度も質問を受けなかった",
+    "people": [
+      "菅義偉"
     ],
     "organizations": []
   },
@@ -2933,6 +3063,15 @@
     "people": [
       "山田豪",
       "田中孝博"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2021-04-20",
+    "slug": "kawada-ryuhei-hpv-vaccine-leaflet-question-2021",
+    "title": "川田龍平（立憲）が参院厚労委でHPVワクチンのリーフレットに積極的勧奨の差し控えが明記されていないと追及した",
+    "people": [
+      "川田龍平"
     ],
     "organizations": []
   },
@@ -3288,6 +3427,15 @@
       "赤木正幸"
     ],
     "organizations": []
+  },
+  {
+    "date": "2021-11-12",
+    "slug": "mhlw-hpv-vaccine-proactive-recommendation-resumed",
+    "title": "厚生労働省の副反応検討部会がHPVワクチンの積極的勧奨の再開を8年5か月ぶりに了承した",
+    "people": [],
+    "organizations": [
+      "厚生労働省"
+    ]
   },
   {
     "date": "2021-11-15",
@@ -3752,6 +3900,15 @@
     "organizations": []
   },
   {
+    "date": "2022-06-26",
+    "slug": "tamaki-yuichiro-saiene-fukakin-choshu-teishi",
+    "title": "玉木雄一郎が電気代高騰対策として再エネ賦課金の徴収停止を参院選の追加公約に掲げ国民民主党が停止法案を参議院に提出した",
+    "people": [
+      "玉木雄一郎"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-07",
     "slug": "koike-jingu-gaien-redevelopment",
     "title": "小池百合子が大規模な樹木伐採を伴う神宮外苑再開発に理解を示した",
@@ -4073,6 +4230,15 @@
     "organizations": []
   },
   {
+    "date": "2022-10-28",
+    "slug": "kishida-fumio-denki-hojokin-fukakin-katagawari",
+    "title": "岸田文雄が電気代の負担軽減策で再エネ賦課金の徴収停止ではなく電力小売会社への補助金を選び企業向けは賦課金相当額を政府が肩代わりした",
+    "people": [
+      "岸田文雄"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-10-30",
     "slug": "musk-paul-pelosi-attack-conspiracy-tweet",
     "title": "マスクがポール・ペロシ襲撃事件について根拠のない陰謀論をXに投稿した",
@@ -4288,7 +4454,9 @@
     "people": [
       "小池百合子"
     ],
-    "organizations": []
+    "organizations": [
+      "電通"
+    ]
   },
   {
     "date": "2023-01-04",
@@ -5183,15 +5351,6 @@
   },
   {
     "date": "2023-10",
-    "slug": "hiro-kotaro-mie-assembly-video-removed-vaccine-misinformation",
-    "title": "廣耕太郎（三重県議）の一般質問動画がワクチンに関する発言を理由にYouTubeから削除された",
-    "people": [
-      "廣耕太郎"
-    ],
-    "organizations": []
-  },
-  {
-    "date": "2023-10",
     "slug": "tokushige-masatoki-lgbt-yudan-naranu",
     "title": "徳重政時（三原市議）が市の「性の多様性と子育て」講演会の告知に「着々とLGBT？に向かっているかも。油断なりません」と投稿した",
     "people": [
@@ -5214,6 +5373,15 @@
     "title": "伏見隆（維新・枚方市長）が市長選当選後に祝勝会の横断幕が掲げられた集会に参加し公選法抵触の恐れがあるとして問責決議が可決された",
     "people": [
       "伏見隆"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-10-02",
+    "slug": "hiro-kotaro-mie-assembly-video-removed-vaccine-misinformation",
+    "title": "廣耕太郎（三重県議）の一般質問動画がワクチンに関する発言を理由にYouTubeから削除された",
+    "people": [
+      "廣耕太郎"
     ],
     "organizations": []
   },
@@ -7478,6 +7646,15 @@
   },
   {
     "date": "2024-08",
+    "slug": "jcp-kamiya-takayuki-expulsion-dismissal",
+    "title": "日本共産党が松竹伸幸の除名見直しを提案した議論をブログで公開した党職員の神谷貴行を除籍・解雇した",
+    "people": [],
+    "organizations": [
+      "日本共産党"
+    ]
+  },
+  {
+    "date": "2024-08",
     "slug": "saito-motohiko-onedari-gizoku",
     "title": "斎藤元彦が視察先でカニや革ジャンなどの贈答品をおねだりしていたと職員アンケートで判明した",
     "people": [
@@ -7796,6 +7973,15 @@
       "竹内英明"
     ],
     "organizations": []
+  },
+  {
+    "date": "2024-11-06",
+    "slug": "enecho-denki-gas-hojokin-hakuhodo-itaku",
+    "title": "経済産業省資源エネルギー庁が電気・ガス補助金の事務局を担う博報堂の多重委託を理由の記載も判断の記録もないまま認めていたと会計検査院が指摘した",
+    "people": [],
+    "organizations": [
+      "経済産業省"
+    ]
   },
   {
     "date": "2024-11-06",
@@ -9761,6 +9947,16 @@
     ]
   },
   {
+    "date": "2025-12-26",
+    "slug": "hayashi-yoshimasa-2024-election-fictitious-labor-costs",
+    "title": "林芳正陣営が2024年衆院選で実態のない「労務費」13人分を選挙運動費用収支報告書に計上していたと認め私設秘書の経理処理として謝罪した",
+    "people": [
+      "林芳正",
+      "上脇博之"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-12-28",
     "slug": "muto-youko-discards-anti-discrimination-rose-poster",
     "title": "むとう葉子（共産・戸田市議）が反差別の薔薇ポスターを分断を生むとして破棄した",
@@ -10860,6 +11056,16 @@
     "title": "簗和生（自民）が衆院選で自身を支援しなかった首長の自治体の道路予算を「大幅にカットした」と発言した",
     "people": [
       "簗和生"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-05-25",
+    "slug": "takaichi-sanae-hosei-yosan-burasagari-shitsumon-seigen",
+    "title": "高市早苗が補正予算と電気・ガス料金支援の説明を内閣記者会限定の「ぶら下がり」で行い質問は全社で1度とされた",
+    "people": [
+      "高市早苗",
+      "木原稔"
     ],
     "organizations": []
   },
@@ -12317,6 +12523,15 @@
     "organizations": []
   },
   {
+    "date": "2026-08",
+    "slug": "koizumi-shinjiro-children-defense-white-paper-school-distribution",
+    "title": "小泉進次郎が自衛官の採用案内を載せた子ども向け防衛白書を希望する教育委員会や学校に配布すると表明し配布を中学・高校に広げる方針を示した",
+    "people": [
+      "小泉進次郎"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-08-03",
     "slug": "matsuo-tosho-resigns-chairman-apology",
     "title": "松尾統章（自民・福岡県議）が政治資金パーティー発言への批判を受け県議団会長を辞任し謝罪した",
@@ -12589,6 +12804,15 @@
     ]
   },
   {
+    "date": "2026-09-16",
+    "slug": "netanyahu-naza-citizenship-revocation-bill",
+    "title": "ネタニヤフがガザの民間人被害を描いた映画「NAZA」の監督らを名指しし国外でイスラエル軍兵士を中傷した者の市民権を剥奪する法案を提出すると表明した",
+    "people": [
+      "ネタニヤフ"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-09-17",
     "slug": "takaichi-sanae-appoints-uragane-ministers",
     "title": "高市早苗が内閣改造で裏金事件で処分を受けた簗和生と関芳弘を初入閣させた",
@@ -12596,6 +12820,15 @@
       "高市早苗",
       "簗和生",
       "関芳弘"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-09-17",
+    "slug": "takaichi-sanae-seishiki-kaiken-6kai-freelance-zero",
+    "title": "高市早苗が首相就任から11か月で官邸会見室での正式な記者会見を6回しか開かず延べ54人の質問者にフリーランス記者はいなかった",
+    "people": [
+      "高市早苗"
     ],
     "organizations": []
   },
@@ -12949,6 +13182,15 @@
   },
   {
     "date": "2026-10-14",
+    "slug": "tamura-takumi-saitama-assembly-baka-heckling",
+    "title": "田村琢実（自民・埼玉県議）が県議会の特別委員会で別の県議の質疑中に「そんなわけないだろ、ばか」とやじを飛ばした",
+    "people": [
+      "田村琢実"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-14",
     "slug": "yana-kazuo-resignation-takaichi-appointment-responsibility",
     "title": "簗和生（自民）が農水相を辞任し、高市早苗が任命責任を「重く受け止める」と述べた",
     "people": [
@@ -13051,6 +13293,17 @@
   },
   {
     "date": "2026-10-19",
+    "slug": "takaichi-sanae-seki-yoshihiro-fusai-giin-correction-retention",
+    "title": "高市早苗が参院予算委で関芳弘らを「裏金議員」ではなく「不記載があった議員」と訂正し、議員会館でのパーティー開催が判明した関芳弘を続投させる方針を示した",
+    "people": [
+      "高市早苗",
+      "山添拓",
+      "関芳弘"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-19",
     "slug": "us-forces-kawakami-ammunition-depot-pfas",
     "title": "在日米軍が川上弾薬庫でPFASを含む泡消火剤の使用を認めつつ周辺住民の高濃度汚染との関連を認めていない",
     "people": [],
@@ -13104,11 +13357,38 @@
     "organizations": []
   },
   {
+    "date": "2026-10-25",
+    "slug": "ishii-megumi-nail-rebuttal-apology",
+    "title": "石井めぐみ（維新）が審議中に爪を触る様子への批判に「爪の長さやネイルで政治家の仕事が決まるとは思っていません」と反論し翌日謝罪した",
+    "people": [
+      "石井めぐみ"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-10-26",
     "slug": "ibayashi-tatsunori-fundraising-party-as-minister",
     "title": "井林辰憲（自民）が国交相在任中に政治資金パーティーを開き「就任前から準備していた」として大臣規範に抵触しないと述べた",
     "people": [
       "井林辰憲"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-26",
+    "slug": "suzuki-keisuke-not-communist-state-livelihood-guarantee",
+    "title": "鈴木馨祐（自民）がBS番組で消費税支援金について「日本は共産主義国家ではないので、すべての国民の生活をすべて国が保障するというスタイルではない」と述べた",
+    "people": [
+      "鈴木馨祐"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-10-26",
+    "slug": "twitter-giant-hand-promote-post-button",
+    "title": "Twitterが投稿画面に有料プロモーション機能へ誘導する巨大な「手」を表示し投稿ボタンを隠した",
+    "people": [
+      "イーロン・マスク"
     ],
     "organizations": []
   },
@@ -13136,7 +13416,8 @@
     "slug": "mogami-yoshinori-cervical-cancer-common-cold",
     "title": "最上佳則（参政・都議）が都議補選の応援演説で「子宮頸がんは風邪の一部」と発言した",
     "people": [
-      "最上佳則"
+      "最上佳則",
+      "神谷宗幣"
     ],
     "organizations": []
   },
@@ -13275,6 +13556,19 @@
     "organizations": []
   },
   {
+    "date": "2026-11-09",
+    "slug": "suzuki-shunichi-ldp-reprimands-tax-cut-abstainers",
+    "title": "鈴木俊一（自民）が消費税減税関連法案の採決を棄権した石破茂ら4議員を戒告処分にした",
+    "people": [
+      "鈴木俊一",
+      "石破茂",
+      "小渕優子",
+      "古川禎久",
+      "船田元"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2026-11-10",
     "slug": "koizumi-shinjiro-mcv-naha-before-governor-briefing",
     "title": "小泉進次郎が古謝玄太知事への説明前に16式機動戦闘車を那覇駐屯地に搬入し理由を「部隊運用の保全」と説明した",
@@ -13295,10 +13589,37 @@
   },
   {
     "date": "2026-11-12",
+    "slug": "ishiba-shigeru-questions-proportional-seats-cut-31-bill",
+    "title": "石破茂が自民党などが提出した衆院比例定数31削減法案に「少数意見を尊重するために入れた比例代表を削るというのは考え方としてどうか」と疑問を呈した",
+    "people": [
+      "石破茂"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-12",
     "slug": "shindo-yoshitaka-article-9-2-proposal",
     "title": "新藤義孝（自民）が衆院憲法審査会で「国防規定が欠落している」として9条の2の創設を主張した",
     "people": [
       "新藤義孝"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-13",
+    "slug": "takaichi-naikaku-fuyu-denki-gas-hojo-yobihi-6500oku",
+    "title": "高市早苗内閣が冬の電気・ガス料金補助などに予備費から約6500億円の支出を閣議決定した",
+    "people": [
+      "高市早苗"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-16",
+    "slug": "seki-yoshihiro-bio-forum-mhlw-official-lecturer",
+    "title": "関芳弘（自民）が議員会館で開いたパーティーに厚労省の担当課長を講師として招きバイオ医薬品企業9人から各9万円の会費を受け取っていた",
+    "people": [
+      "関芳弘"
     ],
     "organizations": []
   }
