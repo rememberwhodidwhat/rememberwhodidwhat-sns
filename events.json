@@ -435,6 +435,29 @@
     "organizations": []
   },
   {
+    "date": "2010-01-15",
+    "slug": "rikuzankai-false-reporting-ozawa-secretaries",
+    "title": "石川知裕（民主）ら小沢一郎の元秘書3人が陸山会の土地購入資金4億円を政治資金収支報告書に記載せず逮捕・起訴され有罪が確定した",
+    "people": [
+      "石川知裕",
+      "大久保隆規",
+      "池田光智",
+      "小沢一郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2010-01-18",
+    "slug": "koizumi-jiyu-ga-nai-no-ga-minshuto",
+    "title": "小泉進次郎が通常国会召集日に「自由があるのが自民党。自由がないのが民主党」と発言した",
+    "people": [
+      "小泉進次郎"
+    ],
+    "organizations": [
+      "民主党"
+    ]
+  },
+  {
     "date": "2010-01-28",
     "slug": "nagatsuma-akira-homeopathy-diet-answer-2010",
     "title": "長妻昭が国会答弁でホメオパシーを伝統医学に位置づけ研究予算計上を表明した",
@@ -4284,6 +4307,15 @@
     "organizations": []
   },
   {
+    "date": "2022-11-05",
+    "slug": "matsuda-manabu-japanese-identity-cures-mental-illness",
+    "title": "松田学（参政）がTwitterで「自分は日本人だと納得するだけで殆どの方の精神疾患が治った」と投稿した",
+    "people": [
+      "松田学"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-11-10",
     "slug": "musk-x-twitter-blue-eli-lilly-impersonation",
     "title": "イーロン・マスクが有料認証バッジ導入でなりすましを招きEli Lilly株価が下落した",
@@ -4651,6 +4683,15 @@
   },
   {
     "date": "2023-04",
+    "slug": "hayashimoto-masako-daichowa-hado-mai",
+    "title": "林元政子（参政・和歌山支部長）が「大調和の波動を転写した」とする大調和波動米を仮想通貨「米本位制コイン」と組み合わせて販売した",
+    "people": [
+      "林元政子"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-04",
     "slug": "nishida-kaoru-shushi-kyogi-kisai",
     "title": "西田薫が2023年大阪府議選の選挙運動費用収支報告書に9人分の虚偽記載を行い維新に戒告処分された",
     "people": [
@@ -4989,7 +5030,7 @@
     "organizations": []
   },
   {
-    "date": "2023-07-09",
+    "date": "2023-07-10",
     "slug": "sanseito-nara-branch-apple-snail-facebook-2023",
     "title": "参政党奈良県支部がジャンボタニシを使った田植え実習をSNSで発信した",
     "people": [],
@@ -5061,6 +5102,15 @@
     "organizations": []
   },
   {
+    "date": "2023-07-25",
+    "slug": "musk-x-seizes-x-handle-from-gene-hwang",
+    "title": "イーロン・マスクがTwitterのX改称に伴い2007年から@xを使っていた写真家のハンドルを無断で取り上げた",
+    "people": [
+      "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2023-07-26",
     "slug": "yoshimura-gairoju-koukyobutsu-boomerang",
     "title": "吉村洋文が街路樹伐採を推進してきたにもかかわらず街路樹は公共物と投稿し批判された",
@@ -5075,6 +5125,15 @@
     "title": "馬場伸幸が統一地方選の公認を巡り堺市議にハラスメント発言を行った",
     "people": [
       "馬場伸幸"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-08-03",
+    "slug": "musk-x-seizes-music-handle-from-jeremy-vaught",
+    "title": "イーロン・マスクのXが16年間@musicを運用し約50万フォロワーを持つユーザーからハンドルを取り上げ自社アカウントに転用した",
+    "people": [
+      "イーロン・マスク"
     ],
     "organizations": []
   },
@@ -5668,7 +5727,9 @@
     "people": [
       "サム・アルトマン"
     ],
-    "organizations": []
+    "organizations": [
+      "OpenAI"
+    ]
   },
   {
     "date": "2023-11-18",
@@ -7669,6 +7730,15 @@
     "people": [],
     "organizations": [
       "X (Twitter)"
+    ]
+  },
+  {
+    "date": "2024-08-10",
+    "slug": "sanseito-fundraising-party-hado-water",
+    "title": "参政党の政治資金パーティーで党の農業部会とみられる出店者が「弘法大師の波動が込められている」とする水を販売した",
+    "people": [],
+    "organizations": [
+      "参政党"
     ]
   },
   {
@@ -13620,6 +13690,16 @@
     "title": "関芳弘（自民）が議員会館で開いたパーティーに厚労省の担当課長を講師として招きバイオ医薬品企業9人から各9万円の会費を受け取っていた",
     "people": [
       "関芳弘"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-17",
+    "slug": "harasawa-atsumi-shichokosha-kariage-jukyo",
+    "title": "原澤敦美（横浜市長）が市長公舎に住まず市が月額約37万円を負担する借上げ住居に住んでいた",
+    "people": [
+      "原澤敦美",
+      "井上さくら"
     ],
     "organizations": []
   }
