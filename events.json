@@ -5101,7 +5101,9 @@
     "people": [
       "神谷宗幣"
     ],
-    "organizations": []
+    "organizations": [
+      "産経新聞"
+    ]
   },
   {
     "date": "2023-07-11",
@@ -5110,7 +5112,9 @@
     "people": [
       "神谷宗幣"
     ],
-    "organizations": []
+    "organizations": [
+      "産経新聞"
+    ]
   },
   {
     "date": "2023-07-12",
@@ -5357,11 +5361,10 @@
     "slug": "sudo-genki-sanseito-party-conspiracy-is-fact",
     "title": "須藤元気（参院議員）が参政党の政治資金パーティーで神谷宗幣と対談し「今は陰謀こそが事実なんじゃないか」と述べた",
     "people": [
-      "須藤元気"
+      "須藤元気",
+      "神谷宗幣"
     ],
-    "organizations": [
-      "参政党"
-    ]
+    "organizations": []
   },
   {
     "date": "2023-09-09",
@@ -7191,7 +7194,7 @@
   {
     "date": "2024-03",
     "slug": "sanseito-candidate-secretary-suicide-cold-weather-remark",
-    "title": "参政党の衆院選候補者が新橋の街頭演説で神谷宗幣の元公設秘書の自殺報道を追及され「自殺の原因って寒さが影響するんですよ」と述べた",
+    "title": "参政党の衆院選候補者が新橋の街頭演説で神谷宗幣の元公設秘書の自殺報道を追及され笑いながら「自殺の原因って寒さが影響するんですよ」と矮小化する発言をした",
     "people": [],
     "organizations": [
       "参政党"
@@ -8910,7 +8913,8 @@
       "岩本麻奈",
       "石破茂",
       "小泉進次郎",
-      "玉木雄一郎"
+      "玉木雄一郎",
+      "米山隆一"
     ],
     "organizations": []
   },
@@ -9958,7 +9962,9 @@
     "people": [
       "塩入清香"
     ],
-    "organizations": []
+    "organizations": [
+      "産経新聞"
+    ]
   },
   {
     "date": "2025-11-22",
