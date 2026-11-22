@@ -260,6 +260,24 @@
     "organizations": []
   },
   {
+    "date": "2007-01-27",
+    "slug": "yanagisawa-hakuo-umu-kikai-hatsugen",
+    "title": "柳沢伯夫（自民）が講演で女性を「産む機械」と発言した",
+    "people": [
+      "柳沢伯夫"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2007-02-01",
+    "slug": "abe-shinzo-yanagisawa-himen-kyohi",
+    "title": "安倍晋三が「産む機械」発言の柳沢伯夫厚労相の罷免要求を拒み続投させた",
+    "people": [
+      "安倍晋三"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2007-05-23",
     "slug": "hashimoto-toru-hikari-bengodan-choukai-seikyu",
     "title": "橋下徹がテレビ番組で光市母子殺害事件の弁護団への懲戒請求を視聴者に呼びかけた",
@@ -531,11 +549,29 @@
     "organizations": []
   },
   {
+    "date": "2010-12-01",
+    "slug": "inada-tomomi-chi-wo-nagasu-kakugo",
+    "title": "稲田朋美が集会で「自分の国を守るためには血を流す覚悟をしなければなりません」と演説した",
+    "people": [
+      "稲田朋美"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2011-03",
     "slug": "hashimoto-osaka-suicides",
     "title": "橋下徹が大阪府知事時代に知事部局で7人の自殺者を出した",
     "people": [
       "橋下徹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2011-03",
+    "slug": "inada-tomomi-seiron-kodomo-teate-kaku-hoyu",
+    "title": "稲田朋美が『正論』の対談で子ども手当分を防衛費に回すべきと述べ、日本独自の核保有を国家戦略として検討すべきと主張した",
+    "people": [
+      "稲田朋美"
     ],
     "organizations": []
   },
@@ -657,6 +693,15 @@
     "title": "野村修也（維新）が大阪市特別顧問として憲法違反の職員思想調査アンケートを実施し弁護士懲戒処分を受けた",
     "people": [
       "野村修也"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2012-04-16",
+    "slug": "inada-tomomi-kokumin-no-seikatsu-hatsugen",
+    "title": "稲田朋美が講演で「国民の生活が大事なんて政治はですね、私は間違っていると思います」「世界中で日本だけが道義大国を目指す資格があるんです」と発言した",
+    "people": [
+      "稲田朋美"
     ],
     "organizations": []
   },
@@ -1155,6 +1200,15 @@
       "高市早苗",
       "稲田朋美",
       "西田昌司"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-10",
+    "slug": "obuchi-yuko-seiji-shikin-kyogi-kisai-drill",
+    "title": "小渕優子の元秘書が政治資金収支報告書に約3億2100万円を虚偽記載し、捜索時にはパソコンのハードディスクがドリルで破壊されていた",
+    "people": [
+      "小渕優子"
     ],
     "organizations": []
   },
@@ -10663,6 +10717,15 @@
     "organizations": [
       "チームみらい"
     ]
+  },
+  {
+    "date": "2026-01-31",
+    "slug": "tsuchida-shin-chi-wo-nagashite-hatsugen",
+    "title": "土田慎（自民）が衆院選の候補者討論会で「場合によっては血を流していただかないといけないこともあるかもしれません」と発言した",
+    "people": [
+      "土田慎"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-02",
