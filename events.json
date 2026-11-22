@@ -1212,6 +1212,16 @@
     "organizations": []
   },
   {
+    "date": "2015-06",
+    "slug": "koizumi-shinjiro-karuizawa-hotel-political-funds",
+    "title": "小泉進次郎が不倫相手との密会が報じられたホテルの宿泊費を政治資金で支出していた",
+    "people": [
+      "小泉進次郎",
+      "本多平直"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2015-06-08",
     "slug": "ido-masatoshi-sexual-harassment",
     "title": "井戸正利（維新・大阪市議）が酒席で女性市議の胸を触るセクハラ行為に及び委員長を辞任した",
@@ -3824,6 +3834,15 @@
     "organizations": []
   },
   {
+    "date": "2022-05-13",
+    "slug": "matsuda-manabu-ukraine-hitler-poland-analogy",
+    "title": "松田学（参政）が新橋の街頭演説でロシアのウクライナ侵攻をヒトラーのポーランド侵攻になぞらえ「侵攻した側が百パーセント悪いという訳ではない」と述べた",
+    "people": [
+      "松田学"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2022-05-16",
     "slug": "misaki-maki-keireki-sansho",
     "title": "岬麻紀が2019年参院選の選挙公報に非常勤講師と虚偽記載し維新が厳重注意した",
@@ -3883,6 +3902,15 @@
     "title": "西村康稔が自身のHPに無断撮影を含む女性の写真を「世界各国美人図鑑」として掲載していた",
     "people": [
       "西村康稔"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2022-06-04",
+    "slug": "matsuda-manabu-third-dose-murder-monkeypox-claim",
+    "title": "松田学（参政）が反ワクチン集会で3回目接種の推進は「殺人罪になっちゃう」と述べワクチンで自然免疫が下がりサル痘などにかかると主張した",
+    "people": [
+      "松田学"
     ],
     "organizations": []
   },
@@ -4609,6 +4637,24 @@
     "organizations": []
   },
   {
+    "date": "2023-03-04",
+    "slug": "kamiya-sohei-conspiracy-fine-pfizer-stock-remark",
+    "title": "神谷宗幣が党の政治資金パーティーで「陰謀論でけっこう」と述べワクチン推進者は「ファイザーの株でも買ってんじゃないか」と語った",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-03-04",
+    "slug": "takeda-kunihiko-global-warming-european-lie",
+    "title": "武田邦彦（参政アドバイザー）が党の政治資金パーティーで地球温暖化は「ヨーロッパ人の嘘」でヨーロッパ人は「騙すことしかできない」と講演した",
+    "people": [
+      "武田邦彦"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2023-03-08",
     "slug": "takaichi-refuses-resign-broadcast-law-docs",
     "title": "高市早苗が放送法文書の行政文書認定後も「捏造」主張を撤回せず辞職を拒否し立証責任を追及側に求めた",
@@ -4769,6 +4815,16 @@
     "title": "マスクがNPR等公共放送に「政府系メディア」ラベルを付与し反発を受けて撤回した",
     "people": [
       "イーロン・マスク"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-04-15",
+    "slug": "tanaka-yoshihito-kishida-attack-staged-tweet",
+    "title": "田中義人（参政ボードメンバー）が岸田首相襲撃事件を「支持率上げのための仕込みかも」とTwitterに投稿した",
+    "people": [
+      "田中義人",
+      "岸田文雄"
     ],
     "organizations": []
   },
@@ -5040,8 +5096,26 @@
   },
   {
     "date": "2023-07-11",
+    "slug": "kamiya-sohei-karasuyama-mental-illness-virus-remarks",
+    "title": "神谷宗幣が世田谷区の講演会で「精神病は薬で作っている」「ワクチンを売るためにウイルスを撒いた可能性がある」と発言した",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-07-11",
     "slug": "kamiya-sohei-lgbt-nanka-iranai-setagaya",
     "title": "神谷宗幣が世田谷区の講演会で「LGBTなんかいらない」と発言し後に「一言も言ってない」と否定した",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-07-12",
+    "slug": "kamiya-sohei-lgbt-law-buttigieg-claim",
+    "title": "神谷宗幣が新橋の街頭演説でLGBT理解増進法の背景に米運輸長官を大統領候補に担ぐ狙いがあるという「声も聴いている」と述べた",
     "people": [
       "神谷宗幣"
     ],
@@ -5271,10 +5345,39 @@
   },
   {
     "date": "2023-09-09",
+    "slug": "sanseito-party-matt-schlapp-gun-democrats-speech",
+    "title": "参政党が政治資金パーティーにマット・シュラップを招き同氏が「アメリカはほぼ全ての州でガンを持てるから、悪い民主党を退治してくれるんじゃないか」と演説した",
+    "people": [],
+    "organizations": [
+      "参政党"
+    ]
+  },
+  {
+    "date": "2023-09-09",
+    "slug": "sudo-genki-sanseito-party-conspiracy-is-fact",
+    "title": "須藤元気（参院議員）が参政党の政治資金パーティーで神谷宗幣と対談し「今は陰謀こそが事実なんじゃないか」と述べた",
+    "people": [
+      "須藤元気"
+    ],
+    "organizations": [
+      "参政党"
+    ]
+  },
+  {
+    "date": "2023-09-09",
     "slug": "ueno-hotaru-45man-senkyo",
     "title": "上野蛍（維新）が富山県議選候補から選挙運動報酬として45万円を受け取り公職選挙法違反に抵触の可能性が指摘された",
     "people": [
       "上野蛍"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2023-09-09",
+    "slug": "yoshino-toshiaki-muscat-diabetes-kono-china-claim",
+    "title": "吉野敏明（参政アドバイザー）が党の政治資金パーティーで「マスカットみたいなものを食べると糖尿病になる」と述べ河野太郎が中国人を日本人にする戦略を進めていると語った",
+    "people": [
+      "吉野敏明"
     ],
     "organizations": []
   },
@@ -6983,6 +7086,15 @@
     "organizations": []
   },
   {
+    "date": "2024-02-08",
+    "slug": "kamiya-sohei-former-secretary-suicide-power-harassment-report",
+    "title": "神谷宗幣の元公設秘書がパワハラ的言動に悩んだ末に自殺したと週刊文春が報じ神谷は「厳しいことを言ったのは事実」と述べた",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2024-02-12",
     "slug": "urahira-yoshihiro-taibatsu-chirashi-enjo",
     "title": "浦平美博（維新・和歌山県議）が生徒への体罰有罪判決を美化する選挙チラシで炎上した",
@@ -7075,6 +7187,15 @@
       "片山安孝"
     ],
     "organizations": []
+  },
+  {
+    "date": "2024-03",
+    "slug": "sanseito-candidate-secretary-suicide-cold-weather-remark",
+    "title": "参政党の衆院選候補者が新橋の街頭演説で神谷宗幣の元公設秘書の自殺報道を追及され「自殺の原因って寒さが影響するんですよ」と述べた",
+    "people": [],
+    "organizations": [
+      "参政党"
+    ]
   },
   {
     "date": "2024-03-05",
@@ -8185,6 +8306,15 @@
     "organizations": []
   },
   {
+    "date": "2024-12-07",
+    "slug": "sanseito-souken-fes-jason-morgan-tears-constitution",
+    "title": "参政党が「創憲フェス」にジェイソン・モーガンを招き同氏が「ジェノサイドに長けている白人」が作った憲法だとして日本国憲法の紙を破り捨てた",
+    "people": [],
+    "organizations": [
+      "参政党"
+    ]
+  },
+  {
     "date": "2024-12-10",
     "slug": "hamaguchi-makoto-toyota-roso-kenkin",
     "title": "浜口誠（国民）がトヨタ系労組の政治団体から関連政治団体4つに分散する形で計約2億4853万円の寄付を受けていたと報じられた",
@@ -8736,6 +8866,16 @@
     "organizations": []
   },
   {
+    "date": "2025-05-10",
+    "slug": "kamiya-sohei-defends-nishida-himeyuri-remark",
+    "title": "神谷宗幣が青森の街頭演説で西田昌司のひめゆり発言を「本質的に間違っていない」と擁護し「日本軍が悪かった。そんなわけない」と述べた",
+    "people": [
+      "神谷宗幣",
+      "西田昌司"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-05-14",
     "slug": "tamaki-yuichiro-yamao-shiori-yotate-sodo",
     "title": "玉木雄一郎が山尾志桜里氏を参院選候補に擁立し批判を受け公認を取り消した",
@@ -8761,6 +8901,27 @@
     "organizations": [
       "Anthropic"
     ]
+  },
+  {
+    "date": "2025-05-17",
+    "slug": "iwamoto-mana-ai-diagnosis-mockery-at-party",
+    "title": "岩本麻奈（参政）が党の政治資金パーティーでAI画像を使い石破茂首相らに病名を付けて揶揄した",
+    "people": [
+      "岩本麻奈",
+      "石破茂",
+      "小泉進次郎",
+      "玉木雄一郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2025-05-17",
+    "slug": "marutani-hajime-nuclear-armament-sanseito-party",
+    "title": "丸谷元人（危機管理コンサルタント）が参政党の政治資金パーティーで「核、持ちましょうよ」と核保有を訴えインドやアフリカには「秩序なんてない」と述べた",
+    "people": [
+      "丸谷元人"
+    ],
+    "organizations": []
   },
   {
     "date": "2025-05-21",
@@ -9375,6 +9536,15 @@
     "organizations": []
   },
   {
+    "date": "2025-09-07",
+    "slug": "kamiya-sohei-charlie-kirk-lecture",
+    "title": "神谷宗幣が参政党主催の講演会にチャーリー・カークを迎えトランプとともに持ち上げ「参政党の国民運動にも通じる」と述べた",
+    "people": [
+      "神谷宗幣"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-09-12",
     "slug": "hezuma-ryu-nara-mayor-shout-2025",
     "title": "へずまりゅうが奈良市議として初の一般質問で市長に「どのツラ下げて」と怒鳴り厳重注意を受けた",
@@ -9780,6 +9950,15 @@
     "organizations": [
       "Anthropic"
     ]
+  },
+  {
+    "date": "2025-11-13",
+    "slug": "shioiri-sayaka-karasuyama-joint-lecture-kawasoe",
+    "title": "塩入清香（参政）が産経新聞販売所主催の講演会でディープステートやイルミナティを説く河添恵子と合同講演した",
+    "people": [
+      "塩入清香"
+    ],
+    "organizations": []
   },
   {
     "date": "2025-11-22",
@@ -10618,6 +10797,15 @@
     "organizations": [
       "自衛隊"
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "slug": "adachi-yuji-three-year-sakoku-proposal",
+    "title": "安達悠司（参政）が党の政治資金パーティーで「政権をとったら3年間の鎖国」を提案した",
+    "people": [
+      "安達悠司"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-03-08",
@@ -12535,6 +12723,15 @@
     "people": [
       "松尾統章",
       "服部誠太郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-07-28",
+    "slug": "umemura-mizuho-flag-desecration-law-taunt-protesters",
+    "title": "梅村みずほ（参政）が新橋の街頭演説で抗議者に向けて国旗損壊罪の成立は「妨害してくれたおかげ」だと感謝してみせた",
+    "people": [
+      "梅村みずほ"
     ],
     "organizations": []
   },
