@@ -540,6 +540,26 @@
     "organizations": []
   },
   {
+    "date": "2011-03-02",
+    "slug": "sankei-kyoto-univ-exam-posting-false-report",
+    "title": "産経新聞が京大入試問題の投稿事件に「東京の男子高校生2人が関与」と報じ誤報として謝罪した",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
+    "date": "2011-03-16",
+    "slug": "sankei-tsujimoto-kiyomi-defamation",
+    "title": "産経新聞が辻元清美が阪神大震災の被災地で「反政府ビラをまいた」と報じ名誉毀損で賠償を命じられた",
+    "people": [
+      "辻元清美"
+    ],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
     "date": "2011-05-01",
     "slug": "lasalle-ishii-asada-mao-ecchi-remark",
     "title": "ラサール石井が「真央ちゃんはエッチすべき」と発言した",
@@ -556,6 +576,15 @@
       "橋下徹"
     ],
     "organizations": []
+  },
+  {
+    "date": "2011-07-07",
+    "slug": "sankei-jiang-zemin-death-false-report",
+    "title": "産経新聞が江沢民の死去を号外で報じ中国側が否定した後も3か月間撤回しなかった",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
   },
   {
     "date": "2011-07-11",
@@ -682,6 +711,15 @@
     "title": "橋下徹が大阪府知事就任前の2006年頃に北新地のホステスと不倫関係を持ち市長時代に報道され一部を認めた",
     "people": [
       "橋下徹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2012-07-23",
+    "slug": "saegusa-gentaro-sankei-11-wards-sdf-drill-false-report",
+    "title": "三枝玄太郎（産経新聞記者）が都内11区が自衛隊の防災演習で庁舎への立ち入りを拒否したと報じ産経が誤報として謝罪した",
+    "people": [
+      "三枝玄太郎"
     ],
     "organizations": []
   },
@@ -1166,6 +1204,15 @@
     "organizations": []
   },
   {
+    "date": "2014-12-06",
+    "slug": "sankei-egawa-shoko-fabricated-comment",
+    "title": "産経新聞が江川紹子の承諾を得ずに作成したコメントを本人の談話として掲載し取り消した",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
     "date": "2014-12-07",
     "slug": "takebe-arata-2014-election-beer-in-lodging-expenses",
     "title": "武部新（自民）が2014年衆院選の選挙運動費用収支報告書で運動員の宿泊費に生ビール17杯分の代金を含めて計上していた",
@@ -1447,6 +1494,15 @@
     "organizations": []
   },
   {
+    "date": "2016-06-16",
+    "slug": "sankei-peace-boat-sakura-false-report",
+    "title": "産経新聞が都知事選を巡る街頭インタビューの女性をピースボートスタッフの「サクラ」と疑う記事を当事者に取材せず掲載し削除・謝罪した",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
     "date": "2016-06-17",
     "slug": "aso-taro-how-long-do-you-plan-to-live-remark",
     "title": "麻生太郎が高齢者にいつまで生きているつもりだと発言した",
@@ -1595,6 +1651,15 @@
     "organizations": []
   },
   {
+    "date": "2017-03",
+    "slug": "sankei-ishimine-kaori-defamation",
+    "title": "産経新聞が石嶺香織（宮古島市議）が月収制限を超える県営団地に入居したと報じ名誉毀損で敗訴が確定した",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
     "date": "2017-03-02",
     "slug": "yamamoto-taro-akkiido-remark-2017",
     "title": "山本太郎が安倍昭恵氏を「アッキード事件」と評し安倍首相から抗議された",
@@ -1732,6 +1797,27 @@
     "organizations": []
   },
   {
+    "date": "2017-11-10",
+    "slug": "sankei-ogesa-taro-defamation",
+    "title": "産経新聞が辺野古で逮捕された大袈裟太郎を「こんな輩が社会を荒らしている」と評する記事を掲載し名誉毀損で賠償を命じられた",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
+    "date": "2017-12-09",
+    "slug": "takagi-keiichi-sankei-okinawa-marine-rescue-false-report",
+    "title": "高木桂一（産経新聞那覇支局長）が沖縄道の事故で米兵が日本人を救出したと報じて沖縄2紙を「報道機関を名乗る資格はない」と批判し産経が記事を削除・謝罪した",
+    "people": [
+      "高木桂一"
+    ],
+    "organizations": [
+      "沖縄タイムス",
+      "琉球新報"
+    ]
+  },
+  {
     "date": "2017-12-12",
     "slug": "momota-takahiro-kyoju-jishoku-kankoku",
     "title": "百谷孝浩が居住実態のない住所で羽曳野市議選に出馬し当選したとして市議会から辞職勧告を受けた",
@@ -1832,6 +1918,15 @@
     "organizations": [
       "法務省"
     ]
+  },
+  {
+    "date": "2018-04-18",
+    "slug": "yoneyama-ryuichi-niigata-chiji-josei-mondai-jishoku",
+    "title": "米山隆一が新潟県知事在任中に出会い系サイトで知り合った女性に金銭を渡して交際していたと認め辞職した",
+    "people": [
+      "米山隆一"
+    ],
+    "organizations": []
   },
   {
     "date": "2018-04-20",
@@ -2598,6 +2693,15 @@
     "organizations": []
   },
   {
+    "date": "2020-06-19",
+    "slug": "sankei-fnn-poll-fabricated-responses",
+    "title": "産経新聞がFNNとの合同世論調査で再委託先社員による架空回答を約1年間見抜けず14回分の記事を取り消した",
+    "people": [],
+    "organizations": [
+      "産経新聞"
+    ]
+  },
+  {
     "date": "2020-06-25",
     "slug": "hezuma-ryu-shurijo-graffiti-2020",
     "title": "へずまりゅうが首里城復興応援の寄せ書きボードに落書きをして炎上した",
@@ -2773,6 +2877,19 @@
       "石丸伸二"
     ],
     "organizations": []
+  },
+  {
+    "date": "2020-10-25",
+    "slug": "kadota-ryusho-sankei-konishi-sugio-defamation",
+    "title": "門田隆将（作家）が産経新聞の寄稿で小西洋之と杉尾秀哉が財務省職員をつるし上げた翌日に当該職員が自殺したと書き名誉毀損で賠償が確定した",
+    "people": [
+      "門田隆将",
+      "小西洋之",
+      "杉尾秀哉"
+    ],
+    "organizations": [
+      "産経新聞"
+    ]
   },
   {
     "date": "2020-11-01",
@@ -8860,6 +8977,15 @@
     ]
   },
   {
+    "date": "2025-05-01",
+    "slug": "yoneyama-ryuichi-nichidai-hojokin-teishi-datou-toukou",
+    "title": "米山隆一（立憲）がReHacQで討論した西田亮介教授の所属する日本大学について「補助金の停止は極めて妥当」と投稿し後に削除した",
+    "people": [
+      "米山隆一"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2025-05-02",
     "slug": "yoshimura-ring-preservation-cost-shift",
     "title": "吉村洋文が大屋根リング南側保存を提案し施工者負担のはずの撤去費用が大阪市負担になる懸念が指摘された",
@@ -9278,6 +9404,17 @@
       "ダリオ・アモデイ"
     ],
     "organizations": []
+  },
+  {
+    "date": "2025-07-25",
+    "slug": "sankei-renho-twitter-account-name-false-report",
+    "title": "産経新聞が蓮舫が参院選の投開票日にTwitterのアカウント名を変更したと誤って報じ訂正した",
+    "people": [
+      "蓮舫"
+    ],
+    "organizations": [
+      "産経新聞"
+    ]
   },
   {
     "date": "2025-07-26",
@@ -10168,7 +10305,7 @@
   {
     "date": "2025-12-17",
     "slug": "yamanashi-nichinichi-shimbun-column-against-flag-desecration-crime",
-    "title": "山梨日日新聞がコラムで国旗損壊罪創設の動きに否定的な見出しを掲げた",
+    "title": "山梨日日新聞が社説で国旗損壊罪の創設を「強制はご免被る」と批判した",
     "people": [],
     "organizations": [
       "山梨日日新聞"
@@ -10526,6 +10663,16 @@
     "organizations": [
       "チームみらい"
     ]
+  },
+  {
+    "date": "2026-02",
+    "slug": "hezuma-ryu-yoneyama-kanoke-douga-hihan-2026",
+    "title": "へずまりゅうが衆院選中に米山隆一の1年半前の入棺体験動画を「亡くなった方への冒涜」と批判する投稿をしコミュニティノートが付いた",
+    "people": [
+      "へずまりゅう",
+      "米山隆一"
+    ],
+    "organizations": []
   },
   {
     "date": "2026-02",
@@ -13742,6 +13889,16 @@
     "title": "山口哲一（知財本部WG委員）がパブコメで反AI意見が多かったことについて知財戦略会議で「5年後クリエイターではないので気にしなくて良い」と発言したと投稿した",
     "people": [
       "山口哲一"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2026-11-04",
+    "slug": "hezuma-ryu-yoneyama-teiso-kouhyou-ryuunen-toukou",
+    "title": "へずまりゅうが米山隆一に400万円の損害賠償を求めて提訴されたと公表し「留年して暇でお金もないのでしょう」と投稿した",
+    "people": [
+      "へずまりゅう",
+      "米山隆一"
     ],
     "organizations": []
   },
