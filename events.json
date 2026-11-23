@@ -188,6 +188,15 @@
     "organizations": []
   },
   {
+    "date": "2003-06-26",
+    "slug": "mori-yoshiro-childless-women-tax-care-remark",
+    "title": "森喜朗が少子化の討論会で子どもを産まない女性が「年とって税金で面倒みなさいちゅうのは本当はおかしい」と発言した",
+    "people": [
+      "森喜朗"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2003-07",
     "slug": "yoshimura-takefuji-slapp",
     "title": "吉村洋文が武富士の盗聴犯罪を隠蔽するスラップ訴訟に関与した",
@@ -1209,6 +1218,16 @@
     "organizations": []
   },
   {
+    "date": "2014-04-17",
+    "slug": "onishi-hideo-sexist-heckling-kaminishi-sayuri",
+    "title": "大西英男（自民）が衆院総務委で上西小百合に「早く結婚して子どもを産まないと駄目だぞ」とヤジを飛ばした",
+    "people": [
+      "大西英男",
+      "上西小百合"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2014-05",
     "slug": "takenaka-heizo-tokku-pasona-orix",
     "title": "竹中平蔵が国家戦略特区諮問会議の民間議員として外国人家事支援事業を提案し、自身が会長のパソナが同事業の事業者に選ばれた",
@@ -1260,6 +1279,16 @@
     "title": "百田尚樹が静岡講演で「南京大虐殺はなく従軍慰安婦はうそ」と発言した",
     "people": [
       "百田尚樹"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2014-06-18",
+    "slug": "suzuki-akihiro-sexist-heckling-shiomura-ayaka",
+    "title": "鈴木章浩（自民・都議）が都議会で塩村文夏に「早く結婚した方がいいんじゃないか」とヤジを飛ばし当初は関与を否定した",
+    "people": [
+      "鈴木章浩",
+      "塩村文夏"
     ],
     "organizations": []
   },
@@ -1526,6 +1555,15 @@
     "title": "山本太郎が安保法制採決時に喪服姿で焼香のしぐさを見せ厳重注意を受けた",
     "people": [
       "山本太郎"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2015-09-29",
+    "slug": "suga-yoshihide-fukuyama-marriage-contribute-to-nation-remark",
+    "title": "菅義偉が福山雅治の結婚を機に「ママさんたちが『一緒に子ども産みたい』といった形で国家に貢献してくれればいい」とテレビで発言した",
+    "people": [
+      "菅義偉"
     ],
     "organizations": []
   },
@@ -1986,6 +2024,15 @@
     ]
   },
   {
+    "date": "2017-11-21",
+    "slug": "santo-akiko-award-women-four-children-proposal",
+    "title": "山東昭子（自民）が党役員連絡会で「子供を4人以上産んだ女性を厚生労働省で表彰することを検討してはどうか」と提案した",
+    "people": [
+      "山東昭子"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2017-12-09",
     "slug": "takagi-keiichi-sankei-okinawa-marine-rescue-false-report",
     "title": "高木桂一（産経新聞那覇支局長）が沖縄道の事故で米兵が日本人を救出したと報じて沖縄2紙を「報道機関を名乗る資格はない」と批判し産経が記事を削除・謝罪した",
@@ -2136,11 +2183,29 @@
     "organizations": []
   },
   {
+    "date": "2018-05-10",
+    "slug": "kato-kanji-three-children-wedding-remark",
+    "title": "加藤寛治（自民）が新郎新婦に「必ず3人以上の子どもを産み育てていただきたい」と呼びかけていると発言し撤回後に批判は当たらないと反発した",
+    "people": [
+      "加藤寛治"
+    ],
+    "organizations": []
+  },
+  {
     "date": "2018-06",
     "slug": "sugita-ito-shiori-like",
     "title": "杉田水脈が伊藤詩織を中傷するTwitter投稿に繰り返しいいねをし名誉毀損が確定した",
     "people": [
       "杉田水脈"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2018-06-26",
+    "slug": "nikai-toshihiro-childless-selfish-remark",
+    "title": "二階俊博が講演で「子供を産まない方が幸せじゃないかと勝手なことを考える人がいる」と発言した",
+    "people": [
+      "二階俊博"
     ],
     "organizations": []
   },
@@ -2342,6 +2407,15 @@
     "title": "丸山穂高（維新）が北方領土訪問時に「戦争で取り返す」という趣旨の発言をして除名された",
     "people": [
       "丸山穂高"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2019-05-29",
+    "slug": "sakurada-yoshitaka-at-least-three-children-remark",
+    "title": "桜田義孝（自民）が会合で「お子さんやお孫さんにぜひ、子どもを最低3人くらい産むようにお願いしてもらいたい」と呼びかけた",
+    "people": [
+      "桜田義孝"
     ],
     "organizations": []
   },
@@ -2993,20 +3067,20 @@
     ]
   },
   {
-    "date": "2020-09",
-    "slug": "aso-taro-compulsory-education-enough-remark",
-    "title": "麻生太郎が義務教育は小学校までで十分と発言した",
-    "people": [
-      "麻生太郎"
-    ],
-    "organizations": []
-  },
-  {
     "date": "2020-09-01",
     "slug": "koike-kanto-earthquake-memorial-refusal-2020",
     "title": "小池百合子が2020年の関東大震災朝鮮人犠牲者追悼式に追悼文を送らなかった",
     "people": [
       "小池百合子"
+    ],
+    "organizations": []
+  },
+  {
+    "date": "2020-09-09",
+    "slug": "aso-taro-compulsory-education-enough-remark",
+    "title": "麻生太郎が義務教育は小学校までで十分と発言した",
+    "people": [
+      "麻生太郎"
     ],
     "organizations": []
   },
@@ -7842,6 +7916,15 @@
     "organizations": [
       "OpenAI"
     ]
+  },
+  {
+    "date": "2024-05-18",
+    "slug": "kamikawa-yoko-umazu-shite-nani-ga-josei-remark",
+    "title": "上川陽子が静岡県知事選の応援演説で「この方を私たち女性がうまずして何が女性でしょうか」と発言し撤回した",
+    "people": [
+      "上川陽子"
+    ],
+    "organizations": []
   },
   {
     "date": "2024-05-20",
