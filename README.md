@@ -1,6 +1,6 @@
 # rememberwhodidwhat-sns
 
-[RememberWhoDidWhat](https://rememberwhodidwhat.github.io) の「今日は何の日？」を毎日 Bluesky と Twitter に自動投稿する。
+[RememberWhoDidWhat](https://rememberwhodidwhat.github.io) の「今日は何の日？」を毎日 Bluesky・Mastodon・Twitter に自動投稿する。
 
 ## 仕組み
 
@@ -10,17 +10,21 @@
   `date` は判明している精度のまま `YYYY-MM-DD` / `YYYY-MM` / `YYYY` で記録する。
   RememberWhoDidWhat リポジトリ（private）で `uv run build/rememberwhodidwhat-sns.py <このリポジトリのディレクトリ>` を実行して
   このリポジトリの `events.json` に直接書き出し、手動で commit・push する。
-- `.github/workflows/post_today_bluesky.yml` / `post_today_twitter.yml` — 毎日 12:00 JST に
-  `post_bluesky.py today` / `post_twitter.py today` を実行する GitHub Actions ワークフロー（`workflow_dispatch` で手動実行も可能）。
-- `.github/workflows/post_new_bluesky.yml` / `post_new_twitter.yml` — `main` への push で `events.json` が変更されたときに、
-  push 前のコミットを比較元として `post_bluesky.py new` / `post_twitter.py new` を実行する。
-- Bluesky と Twitter はワークフローを分けているので、片方の投稿が失敗してももう片方には影響しない。
-- `post_bluesky.py` / `post_twitter.py` — それぞれ Bluesky / Twitter に投稿するスクリプト。どちらも次の2モードを持つ。
+- `.github/workflows/post_today_bluesky.yml` / `post_today_mastodon.yml` / `post_today_twitter.yml` — 毎日 12:00 JST に
+  `post_bluesky.py today` / `post_mastodon.py today` / `post_twitter.py today` を実行する GitHub Actions ワークフロー（`workflow_dispatch` で手動実行も可能）。
+- `.github/workflows/post_new_bluesky.yml` / `post_new_mastodon.yml` / `post_new_twitter.yml` — `main` への push で `events.json` が変更されたときに、
+  push 前のコミットを比較元として `post_bluesky.py new` / `post_mastodon.py new` / `post_twitter.py new` を実行する。
+- SNS ごとにワークフローを分けているので、どれかの投稿が失敗しても他には影響しない。
+- `post_bluesky.py` / `post_mastodon.py` / `post_twitter.py` — それぞれ Bluesky / Mastodon / Twitter に投稿するスクリプト。いずれも次の2モードを持つ。
   - `today` — `events.json` から今日（JST）の月日に一致する事件を投稿する。
     日が不明な事件（`YYYY-MM`）はその月の1日、月日が不明な事件（`YYYY`）は1月1日に投稿する。
   - `new <比較元のコミット>` — 比較元の `events.json` と比べ、新規追加された slug の事件を投稿する。
 - `post_bluesky.py` — [atproto](https://pypi.org/project/atproto/) 経由で Bluesky に1件ずつ個別投稿する
   （複数該当時はスレッドにせず順次投稿）。
+- `post_mastodon.py` — Mastodon の REST API（`POST /api/v1/statuses`）経由で
+  [@rememberwhodidwhat@mstdn.jp](https://mstdn.jp/@rememberwhodidwhat) に Bluesky と同じ形式で1件ずつ公開投稿する。標準ライブラリのみで動く。
+  上限は 500 文字（URL は一律 23 文字）で、超える分のハッシュタグは省略する。
+  再実行時の重複投稿を防ぐため、モード・日付（または比較元）・slug から作った `Idempotency-Key` を付ける。
 - `post_twitter.py` — [Buffer](https://buffer.com) の GraphQL API 経由で Twitter に投稿する
   （Twitter API は従量課金のため使わない）。標準ライブラリのみで動く。
 
@@ -38,13 +42,15 @@
 ## セットアップ
 
 1. Bluesky で投稿用アカウントの [App Password](https://bsky.app/settings/app-passwords) を発行する（本パスワードは使わない）。
-2. Buffer に投稿先の Twitter アカウントをチャンネルとして接続し、API キーを発行して、そのチャンネルの ID を控える。
-3. このリポジトリの Settings → Secrets and variables → Actions に以下を登録する。
+2. mstdn.jp の 設定 → 開発 → 新規アプリ で、スコープを `write:statuses` のみにしたアプリを作成し、アクセストークンを控える。
+3. Buffer に投稿先の Twitter アカウントをチャンネルとして接続し、API キーを発行して、そのチャンネルの ID を控える。
+4. このリポジトリの Settings → Secrets and variables → Actions に以下を登録する。
    - `BLUESKY_HANDLE`（例: `example.bsky.social`）
    - `BLUESKY_APP_PASSWORD`
+   - `MASTODON_ACCESS_TOKEN` — mstdn.jp のアクセストークン（インスタンスの URL はワークフローの `MASTODON_BASE_URL` に記載）
    - `BUFFER_API_KEY` — Buffer の API キー
    - `BUFFER_CHANNEL_ID` — 投稿先の Twitter チャンネルの ID
-4. `events.json` を最新化する場合は RememberWhoDidWhat 側で以下を実行し、このリポジトリで commit・push する。
+5. `events.json` を最新化する場合は RememberWhoDidWhat 側で以下を実行し、このリポジトリで commit・push する。
 
    ```sh
    uv run build/rememberwhodidwhat-sns.py ~/Git/rememberwhodidwhat-sns
@@ -52,5 +58,5 @@
 
 ## 手動実行
 
-Actions タブから `Post today's events to Bluesky` / `Post today's events to Twitter` ワークフローを
-`workflow_dispatch` で実行する。Twitter だけ動作確認したい場合は後者だけを実行すればよい。
+Actions タブから `Post today's events to Bluesky` / `Post today's events to Mastodon` / `Post today's events to Twitter` ワークフローを
+`workflow_dispatch` で実行する。特定の SNS だけ動作確認したい場合はそのワークフローだけを実行すればよい。

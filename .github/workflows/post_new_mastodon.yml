@@ -1,0 +1,22 @@
+name: Post new events to Mastodon
+
+on:
+  push:
+    branches: [main]
+    paths: [events.json]
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    # ブランチ新規作成時（before が 0000...）は比較元がないため投稿しない
+    if: github.event.before != '0000000000000000000000000000000000000000'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v3
+      - name: Post new events
+        env:
+          MASTODON_BASE_URL: https://mstdn.jp
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: uv run post_mastodon.py new ${{ github.event.before }}

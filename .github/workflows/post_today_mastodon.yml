@@ -1,0 +1,19 @@
+name: Post today's events to Mastodon
+
+on:
+  schedule:
+    # 12:00 JST = 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v3
+      - name: Post today's events
+        env:
+          MASTODON_BASE_URL: https://mstdn.jp
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: uv run post_mastodon.py today
