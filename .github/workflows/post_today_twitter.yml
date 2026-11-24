@@ -2,8 +2,8 @@ name: Post today's events to Twitter
 
 on:
   schedule:
-    # 12:00 JST = 03:00 UTC
-    - cron: "0 3 * * *"
+    # 12:12 JST = 03:12 UTC
+    - cron: "12 3 * * *"
   workflow_dispatch: {}
 
 jobs:
